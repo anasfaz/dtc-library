@@ -1,0 +1,34 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "footer": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://auance.com/products/they-know-boxy-tee?variant=43805186326591"
+}

@@ -1,0 +1,26 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://bloomnu.com/products/shirley-temple-lovers-bundle?variant=67889421615204",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

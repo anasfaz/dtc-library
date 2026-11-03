@@ -1,0 +1,18 @@
+{
+"hero":{"label":"Hero / above the fold","tags":["banner","first fold","headline","cta","homepage"],"note":"First screen: one clear promise, one primary CTA, product visible. Check how the headline names the outcome and where the CTA sits on mobile."},
+"header":{"label":"Announcement bar + header","tags":["announcement bar","nav","navigation","menu","free shipping","offer strip","logo"],"note":"Announcement bar carries the strongest offer (free shipping / COD / delivery promise). Compact header with search + cart always reachable."},
+"mega-menu":{"label":"Mega menu / mobile nav","tags":["nav","navigation","menu","drawer","burger"],"note":"Navigation that shops by need (category, concern, collection) with imagery - reduces hunting."},
+"product-card":{"label":"Product card / grid","tags":["collection","grid","card","price","rating","badge","quick add","carousel"],"note":"Card shows image, price, rating/review count, badges (new, bestseller, % off) and often quick-add. Copy the information hierarchy."},
+"category-tiles":{"label":"Category tiles","tags":["collections","shop by category","tiles","slider"],"note":"Visual shortcuts into collections - lowers clicks to a product."},
+"pdp":{"label":"PDP - gallery + buy box","tags":["product page","gallery","variant","swatch","pack size","price","add to cart","buy box"],"note":"Above-the-fold product page: gallery, title, rating, price with savings, variant swatches / pack-size chips, primary add-to-cart."},
+"pdp-details":{"label":"PDP - details / accordions / trust","tags":["accordion","description","trust badges","delivery","guarantee","faq","usp"],"note":"Below the buy box: benefits, accordions, delivery & returns, guarantees. Where objections get answered."},
+"sticky-atc":{"label":"Sticky add-to-cart (mobile)","tags":["sticky bar","add to cart","mobile","cta","buy now"],"note":"Mobile scroll state of the PDP - look for a sticky ATC / buy bar that keeps the CTA in reach."},
+"reviews":{"label":"Reviews / social proof","tags":["ratings","testimonials","ugc","stars","social proof"],"note":"Review widgets, star summaries, UGC and testimonials - core trust builder."},
+"footer":{"label":"Footer","tags":["newsletter","links","payment icons","social","trust"],"note":"Newsletter capture, policy links, payment/trust icons, social."},
+"quiz":{"label":"Quiz / product finder","tags":["quiz","finder","match","personalisation"],"note":"Guided selling: quiz routes undecided shoppers to a product. Idea for 'find your guppy'."},
+"bundle-builder":{"label":"Bundle builder","tags":["bundle","build your box","combo","aov","mix and match"],"note":"Build-a-bundle raises AOV. Maps to Pair / Trio / Starter tank kits."},
+"cross-sell":{"label":"Cross-sell / pair it with","tags":["upsell","complete the look","pair it with","recommendations"],"note":"Adds related products right where the decision happens."},
+"shop-the-look":{"label":"Shop the look","tags":["lookbook","hotspots","editorial"],"note":"Editorial image with shoppable products."},
+"brand-story":{"label":"Brand story section","tags":["about","story","mission","editorial"],"note":"Storytelling section that builds brand trust."},
+"section":{"label":"Featured section","tags":["section","content block"],"note":"Notable homepage section."}
+}

@@ -1,0 +1,472 @@
+{
+ "superbottoms": {
+  "name": "Superbottoms",
+  "url": "https://superbottoms.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Baby / cloth diapers",
+  "agency": "Marmeto",
+  "agency_source": "https://marmeto.com/blogs/testimonials/from-wordpress-to-a-shopify-plus-website-superbottoms-ready-in-20-days",
+  "platform": "Shopify Plus",
+  "added": "2026-11-04",
+  "why": "Mom-founded D2C brand; WordPress to Shopify Plus rebuild by Marmeto in 20 days. Benefit-led hero, bundle/size chips, heavy social proof - good model for a care-heavy product like live fish."
+ },
+ "auance": {
+  "name": "Auance",
+  "url": "https://auance.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Streetwear",
+  "agency": "Emerge Digital",
+  "agency_source": "https://emergedigital.co/portfolio/auance-website-development/",
+  "platform": "Shopify (custom theme)",
+  "added": "2026-11-04",
+  "why": "New premium streetwear label (debut drop 'The Initiation'). Dark, editorial, drop-style storytelling - useful for limited guppy strain drops."
+ },
+ "surma": {
+  "name": "Surma",
+  "url": "https://surma.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Womenswear",
+  "agency": "Emerge Digital",
+  "agency_source": "https://emergedigital.co/portfolio/surma-shopify-website-development/",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "2026 revamp built for frequent product drops; soft palette, clean collection grids and new-arrival merchandising."
+ },
+ "invi-creation": {
+  "name": "Invi Creation",
+  "url": "https://www.invicreation.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Ethnic wear",
+  "agency": "Webiators Technologies",
+  "agency_source": "https://webiators.com/my-portfolio/invicreation/",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Aug 2026 mobile-first rebuild; agency reports +50% conversion. Category-first nav and custom-stitching options on PDP."
+ },
+ "metabu": {
+  "name": "Metabu Cosmetics",
+  "url": "https://metabucosmetics.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Beauty",
+  "agency": "Acqurio Tech",
+  "agency_source": "https://acquriotech.com/portfolio/metabu-cosmetics",
+  "platform": "Headless Shopify (Storefront API)",
+  "added": "2026-11-04",
+  "why": "2026 headless rebuild with AI shade-finder quiz and try-on, combos to lift AOV. Quiz idea maps to 'find your guppy'."
+ },
+ "sleep-company": {
+  "name": "The Sleep Company",
+  "url": "https://thesleepcompany.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Mattresses / furniture",
+  "agency": "Marmeto",
+  "agency_source": "Marmeto portfolio (verified in earlier goda.co agency research, own theme - not Impact)",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Top Indian D2C: offer-led hero, EMI/offer chips, comparison tables, dense reviews and trust badges."
+ },
+ "snitch": {
+  "name": "Snitch",
+  "url": "https://www.snitch.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Menswear",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Custom / headless (moved from snitch.co.in to snitch.com)",
+  "added": "2026-11-04",
+  "why": "Fast-fashion leader with New & Popular drops; big imagery, minimal chrome."
+ },
+ "bombay-shaving": {
+  "name": "Bombay Shaving Company",
+  "url": "https://bombayshavingcompany.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Grooming",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Bold product-led hero, offer strip, ratings on cards, combo bundles."
+ },
+ "minimalist": {
+  "name": "Minimalist",
+  "url": "https://beminimalist.co/",
+  "country": "India",
+  "region": "India",
+  "category": "Skincare",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Ingredient-first clean UI, concern-based shopping, review counts on every card - clarity sells."
+ },
+ "boat": {
+  "name": "boAt",
+  "url": "https://www.boat-lifestyle.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Electronics",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify Plus",
+  "added": "2026-11-04",
+  "why": "Discount %, ratings and badges on every card; aggressive but high-converting Indian e-com pattern."
+ },
+ "mokobara": {
+  "name": "Mokobara",
+  "url": "https://mokobara.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Luggage",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Premium Indian D2C: editorial lifestyle imagery, colour swatches, clean PDP."
+ },
+ "people4ocean": {
+  "name": "people4ocean",
+  "url": "https://www.people4ocean.com/",
+  "country": "Germany",
+  "region": "International",
+  "category": "Reef-safe sunscreen",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "Land-book pick (30 Oct). Ocean-teal palette, sold-out/coming-soon states in cards - perfect water mood for a fish store."
+ },
+ "collider": {
+  "name": "Collider",
+  "url": "https://www.drinkcollider.com/products/bestseller-pack",
+  "country": "UK",
+  "region": "International",
+  "category": "Non-alcoholic beer",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "GoodCart pick: what's-in-the-box list, delivery cut-off timer, sticky mobile bar, Us vs Them grid."
+ },
+ "bloom": {
+  "name": "Bloom Nutrition",
+  "url": "https://bloomnu.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Supplements",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-04",
+  "why": "GoodCart pick: image swatches with NEW tags, 1/2/3 pack chips, subscribe & save, quiz in menu."
+ },
+ "no-art": {
+  "name": "No Art",
+  "url": "https://noart.world/",
+  "country": "International",
+  "region": "International",
+  "category": "Fashion",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards Shopify pick: immersive product shop and globe storytelling."
+ },
+ "coutumes": {
+  "name": "Coutumes",
+  "url": "https://www.coutumes.com",
+  "country": "France",
+  "region": "International",
+  "category": "Fashion",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards Honorable Mention (Sep 2026): mosaic category tiles, refined footer."
+ },
+ "tilly-sveaas": {
+  "name": "Tilly Sveaas",
+  "url": "https://tillysveaas.co.uk/",
+  "country": "UK",
+  "region": "International",
+  "category": "Fashion",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards Honorable Mention: product carousel + shop-the-look."
+ },
+ "cocoon-2": {
+  "name": "COCOON",
+  "url": "https://www.cocoonblanket.com/",
+  "country": "International",
+  "region": "International",
+  "category": "Home",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards HM: best-seller grid, 'find your match' quiz, mega menu."
+ },
+ "partake-foods": {
+  "name": "Partake Foods",
+  "url": "https://partakefoods.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Food",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards HM: playful product carousel and reviews carousel."
+ },
+ "ferm-living": {
+  "name": "Ferm Living",
+  "url": "https://fermliving.com",
+  "country": "Denmark",
+  "region": "International",
+  "category": "Home",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-01",
+  "why": "Awwwards HM: category slider and editorial product rows."
+ },
+ "goda": {
+  "name": "GODA",
+  "url": "https://goda.co/",
+  "country": "USA",
+  "region": "International",
+  "category": "Apparel",
+  "agency": "Unknown (no credit found)",
+  "platform": "Shopify - Impact theme v7.2.0",
+  "added": "2026-10-29",
+  "why": "Anas's reference: Impact theme, heavy conversion app stack."
+ },
+ "calmenta": {
+  "name": "Calmenta",
+  "url": "",
+  "country": "International",
+  "region": "International",
+  "category": "Wellness",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "Dynamic Dreamz portfolio (verified Oct 2026)",
+  "platform": "Shopify - Impact",
+  "added": "2026-10-29",
+  "why": "Impact-theme build by Indian agency Dynamic Dreamz."
+ },
+ "cosmos-lac": {
+  "name": "COSMOS LAC",
+  "url": "",
+  "country": "Germany",
+  "region": "International",
+  "category": "Beauty",
+  "agency": "apoio digital",
+  "agency_source": "apoio digital portfolio (verified Oct 2026)",
+  "platform": "Shopify - Impact",
+  "added": "2026-10-29",
+  "why": "Impact-theme build."
+ },
+ "giordanos": {
+  "name": "Giordano's",
+  "url": "",
+  "country": "USA",
+  "region": "International",
+  "category": "Food",
+  "agency": "Electric Eye",
+  "agency_source": "Electric Eye portfolio (verified Oct 2026)",
+  "platform": "Shopify - Impact",
+  "added": "2026-10-29",
+  "why": "Impact build with a bundle builder."
+ },
+ "cazal": {
+  "name": "CAZAL",
+  "url": "",
+  "country": "Germany",
+  "region": "International",
+  "category": "Eyewear",
+  "agency": "tante-e",
+  "agency_source": "tante-e portfolio (verified Oct 2026)",
+  "platform": "Shopify - Impact",
+  "added": "2026-10-29",
+  "why": "Impact-theme build."
+ },
+ "brooklinen": {
+  "name": "Brooklinen",
+  "url": "https://www.brooklinen.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Bedding",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-26",
+  "why": "Weekly pick: bundle builder, compare, reviews."
+ },
+ "eadem": {
+  "name": "Eadem",
+  "url": "https://eadem.co/",
+  "country": "USA",
+  "region": "International",
+  "category": "Skincare",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-26",
+  "why": "Weekly pick: results-led PDP, back-in-stock."
+ },
+ "almada": {
+  "name": "Almada Label",
+  "url": "https://almadalabel.com/",
+  "country": "International",
+  "region": "International",
+  "category": "Fashion",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-26",
+  "why": "Weekly pick: low-stock cards, style-with."
+ },
+ "buck-mason": {
+  "name": "Buck Mason",
+  "url": "https://www.buckmason.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Menswear",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-26",
+  "why": "Weekly pick: PDP pair-it-with."
+ },
+ "imperial-tropicals": {
+  "name": "Imperial Tropicals",
+  "url": "https://imperialtropicals.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "PDP variant pills by size + sex: 0.5-1\" Female / Male / Pair (1M,1F) / Trio (1M,2F). Pairs and trios are how hobbyists actually buy livebearers, and the dark hero puts a guppy on black under 'Buy directly from the breeder'. PDP section 'Our Healthy & Happy Arrival guarantee' ('packing and shipping live fish for over 50 years'), a FAQ entry 'How do you ship live fish? Sounds risky!', a Google-rating review wall on the PDP, and scientific names (Poecilia reticulata) on cards.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "dans-fish": {
+  "name": "Dan's Fish",
+  "url": "https://dansfish.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "PDP 'Listing' buttons by sex and grade (Male-B Grade / Female-B Grade / Male / Female) beside a large photo, a thumbnail strip and an In-stock dot. The description is structured as Source / Estimated size at shipping / Adult size. Header marquee: Next Day Air $39.99 in the continental US 'no matter how many fish you buy'. PDP copy covers quarantine/medication protocols and a Certified Aquatic Veterinarian. Homepage has 'Choose the perfect pet', customer-success reviews and an embedded YouTube video.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "aqua-huna": {
+  "name": "Aqua Huna",
+  "url": "https://aquahuna.com/",
+  "country": "USA (Pacific Northwest importer/wholesaler)",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "Hero banner 'We offer 3-Day Live Arrival Guarantee / UPS Next Day Air Flat Rate $29.99' puts the trust promise first. Collection cards show live stock counts ('In stock, 60 units'). PDP: 'Sold in packs/multiples of 6', 'Individually priced', a 100% live arrival guarantee for Aqua Huna brand animals, 'For DOA refunds: Photo is required', 'Domestic shipping only... cannot ship to Hawaii & Washington State'. Availability/price filters.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "flip-aquatics": {
+  "name": "Flip Aquatics",
+  "url": "https://flipaquatics.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "PDP with two variant pickers: Origin (Flip Bred / Imported) x Quantity (Juvie (Unsexed) / Male / Female / Pair (M/F)), plus a water-parameter list (pH 7.2-8.2, KH 4-6, GH 8-12, TDS 150-200, Temp 72-80) and a feeding/plant guide. Collection cards carry star ratings. '100% live-arrival guarantee when shipping with Overnight (1 day) option. All other options void our live arrival guarantee for fish.' Flat-rate FedEx Priority Overnight $34.99, free over $200 (announcement bar).",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "tropical-fish-co": {
+  "name": "Tropical Fish Co",
+  "url": "https://tropicalfishco.co.uk/",
+  "country": "UK (Chester)",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Headless: Next.js front end; product images served from cdn.shopify.com, /products.json 404, so probably Shopify behind a custom storefront (not confirmed)",
+  "added": "2026-10-03",
+  "why": "Product cards that show care chips on every card (e.g. 22-28°C · pH 7-8 · 41L), plus PDP shoal-size price tiers (1 / 6 / 10 / 20 fish, 'Minimum healthy shoal') with a sticky Add-to-Basket bar. 'Live arrival guaranteed. If they don't arrive healthy, email us a short unboxing video the same day for a replacement or refund.' Oxygenated bags, insulation and heat packs; licensed live-animal courier; £19.95 tracked delivery (half price from £100, free from £200). Care Guide, Tank Mates / tank-mate checker, stocking calculator and an 'Ask Aqua' AI helper.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "fishlist-sg": {
+  "name": "Fishlist.sg",
+  "url": "https://fishlist.com.sg/",
+  "country": "Singapore",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "PDP variant grid sex (MALE/FEMALE) x pack size (5pc/10pc/50pc), a free-shipping progress bar ('Free shipping for orders over $80.00') and Shop Pay. Collection cards have sale % badges and 'View options' buttons. 'Guaranteed Healthy on Arrival' tick on the PDP, short care requirements in the description ('Ensure compatibility with other tank mates'), and a homepage 'Collection list' with species tiles.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "guppie-au": {
+  "name": "guppie.au",
+  "url": "https://guppie.au/",
+  "country": "Australia",
+  "region": "International",
+  "category": "Live fish / pet",
+  "agency": "Unknown",
+  "platform": "No (no Shopify markers; custom stack behind Cloudflare)",
+  "added": "2026-10-03",
+  "why": "PDP 'Purchase Options' card with Pair (1M/1F) / Trio (1M/2F), a photo+video gallery, and 'Australia-wide shipping · Quality guaranteed' right under the CTA. The copy is upfront that juveniles ship smaller than the adults shown on video. 'No shipping to WA, NT, TAS'. 'Want to see the exact fish before dispatch? Add a note at checkout and we will send a short video the night before shipping'. The FAQ (from search) has a DOA policy needing an unopened-bag video within 3 hours. Category & tag filter on the shop page.",
+  "tags": [
+   "pet",
+   "fish",
+   "guppy",
+   "live-arrival"
+  ]
+ },
+ "wild-one": {
+  "name": "Wild One",
+  "url": "https://wildone.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Pet accessories (dogs)",
+  "agency": "Unknown",
+  "platform": "Shopify",
+  "added": "2026-10-03",
+  "why": "Product cards with colour-swatch dots + '+4 colors', Best Seller / Kit & Save badges and lifestyle photography. The PDP pairs colour swatches + size pills + Size Chart, benefit icons, an accordion (Description, Product Details, Care & Caution, FAQs, Shipping & Returns) and a 'Make It A Walk Kit' cross-sell with inline variant selects. n/a (non-livestock design benchmark). Free-shipping threshold bar ('Free Shipping on Orders $80+').",
+  "tags": [
+   "pet"
+  ]
+ }
+}

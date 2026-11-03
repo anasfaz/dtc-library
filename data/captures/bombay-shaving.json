@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.bombayshavingcompany.com/products/face-towel"
+}

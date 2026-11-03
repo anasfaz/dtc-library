@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://surma.in/products/sticky-notes-set-in-zesty-green"
+}

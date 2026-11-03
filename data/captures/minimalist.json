@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://beminimalist.co/products/salicylic-lha-2-cleanser"
+}

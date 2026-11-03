@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: dtc-library
+    runtime: static
+    buildCommand: "echo static"
+    staticPublishPath: ./site
+    headers:
+      - path: /data.json
+        name: Cache-Control
+        value: no-cache

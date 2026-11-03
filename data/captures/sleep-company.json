@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://thesleepcompany.in/products/smart-ortho-pro-mattress",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

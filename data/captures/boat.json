@@ -1,0 +1,34 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "footer": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.boat-lifestyle.com/products/airdopes-181-pro-bluetooth-earbuds"
+}

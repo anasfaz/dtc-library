@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.people4ocean.com/products/spf-30-mineral-sunscreen",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

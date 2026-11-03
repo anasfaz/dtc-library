@@ -1,0 +1,29 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile"
+ ],
+ "footer": [
+  "mobile"
+ ],
+ "pdp": [
+  "mobile"
+ ],
+ "pdp-details": [
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "mobile"
+ ],
+ "_pdp": "https://mokobara.com/products/transit-z-backpack"
+}

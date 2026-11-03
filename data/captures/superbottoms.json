@@ -1,0 +1,34 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://superbottoms.com/products/supersoft-padded-underwear-explorer-baby",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

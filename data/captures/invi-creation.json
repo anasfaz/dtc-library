@@ -1,0 +1,33 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.invicreation.com/products/premium-mayuri-magenta-grace-silk-salwar-set",
+ "sticky-atc": [
+  "mobile"
+ ]
+}
