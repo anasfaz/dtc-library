@@ -20,7 +20,8 @@ Layout
 6. `python3 scripts/build.py` → preview: `cd site && python3 -m http.server 8765`.
 7. Deploy: `scripts/deploy.sh` (push to `main`; Render static site / GitHub Pages redeploys automatically).
 
-## One-time hosting setup (not done yet – see blockers)
-- Create GitHub repo (e.g. `dtc-library`, public), `git remote add origin <repo>`, `git push -u origin main`.
-- Render: New → Blueprint (uses `render.yaml`, publishes `./site`) or Static Site with publish dir `site`. URL: `https://dtc-library.onrender.com`.
-- Or GitHub Pages: Settings → Pages → deploy from branch `main`, folder `/` won't work for `site/` – use the Actions "static HTML" workflow with path `site`.
+## Hosting (live)
+- Live URL: https://dtc-library.onrender.com
+- Repo: https://github.com/anasfaz/dtc-library (public, branch `main`), pushed with `gh` logged in as anasfaz on the box.
+- Render static site `dtc-library` (srv-dbl3jp0u01pc739kb390, workspace "My Workspace"), publish dir `site`, auto-deploys on every push to `main`. Deploys usually take about 1–2 minutes.
+- Daily: `scripts/deploy.sh` runs the build, commits and pushes, and Render redeploys. Check with `curl -s https://dtc-library.onrender.com/data.json | head -c 200` (the `built` field should show the new time).
