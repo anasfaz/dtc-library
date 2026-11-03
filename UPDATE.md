@@ -23,5 +23,5 @@ Layout
 ## Hosting (live)
 - Live URL: https://dtc-library.onrender.com
 - Repo: https://github.com/anasfaz/dtc-library (public, branch `main`), pushed with `gh` logged in as anasfaz on the box.
-- Render static site `dtc-library` (srv-dbl3jp0u01pc739kb390, workspace "My Workspace"), publish dir `site`, auto-deploys on every push to `main`. Deploys usually take about 1–2 minutes.
-- Daily: `scripts/deploy.sh` runs the build, commits and pushes, and Render redeploys. Check with `curl -s https://dtc-library.onrender.com/data.json | head -c 200` (the `built` field should show the new time).
+- Render static site `dtc-library` (srv-dbl3jp0u01pc739kb390, workspace "My Workspace"), publish dir `site`, is set to auto-deploy on push, BUT pushes did not trigger a deploy in testing (the Render GitHub app isn't linked to the repo). Always trigger the deploy explicitly: Render connector `trigger_deploy` with serviceId `srv-dbl3jp0u01pc739kb390` and workspaceId `tea-da27r837uimc739pqseg`, or export `RENDER_DEPLOY_HOOK=<Deploy Hook URL from Render dashboard → Settings>` and deploy.sh will call it. A deploy takes about 1 minute.
+- Daily: run `scripts/deploy.sh` (build, commit, push), then trigger the deploy as above. Check with `curl -s https://dtc-library.onrender.com/data.json | head -c 200` (the `built` field should show the new time).
