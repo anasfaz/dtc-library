@@ -25,3 +25,8 @@ Layout
 - Repo: https://github.com/anasfaz/dtc-library (public, branch `main`), pushed with `gh` logged in as anasfaz on the box.
 - Render static site `dtc-library` (srv-dbl3jp0u01pc739kb390, workspace "My Workspace"), publish dir `site`, is set to auto-deploy on push, BUT pushes did not trigger a deploy in testing (the Render GitHub app isn't linked to the repo). Always trigger the deploy explicitly: Render connector `trigger_deploy` with serviceId `srv-dbl3jp0u01pc739kb390` and workspaceId `tea-da27r837uimc739pqseg`, or export `RENDER_DEPLOY_HOOK=<Deploy Hook URL from Render dashboard → Settings>` and deploy.sh will call it. A deploy takes about 1 minute.
 - Daily: run `scripts/deploy.sh` (build, commit, push), then trigger the deploy as above. Check with `curl -s https://dtc-library.onrender.com/data.json | head -c 200` (the `built` field should show the new time).
+
+## Agencies
+- `data/agencies.json`: name, url, focus (as seen on the agency's own site), clients (brand slugs). Shown at `#/agencies`.
+- Add a client only with proof from the agency's own portfolio, case study or testimonial page; put that URL in the brand's `agency_source`.
+- New components types: `variant-selector`, `cart-drawer` (capture.py clicks add-to-cart), and `comparison` / `bundle-builder` / `quiz` (found by section-heading text on the homepage).
