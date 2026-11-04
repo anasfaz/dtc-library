@@ -1,0 +1,26 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "_pdp": "https://nicobar.com/products/magsafe-card-holder-navy",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ]
+}

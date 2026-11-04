@@ -17,5 +17,6 @@ for (slug,c),imgs in comps.items():
 items.sort(key=lambda x:(x['added'],x['region']=='India'),reverse=True)
 brands=[dict(slug=k,**v,count=sum(1 for i in items if i['brand']==k)) for k,v in B.items()]
 brands=[x for x in brands if x['count']]
-json.dump({"built":datetime.datetime.now(__import__('zoneinfo').ZoneInfo('Asia/Kolkata')).strftime('%Y-%m-%d %H:%M IST'),"types":T,"brands":brands,"items":items},open('site/data.json','w'),ensure_ascii=False)
+AG=json.load(open("data/agencies.json")) if os.path.exists("data/agencies.json") else []
+json.dump({"agencies":AG,"built":datetime.datetime.now(__import__('zoneinfo').ZoneInfo('Asia/Kolkata')).strftime('%Y-%m-%d %H:%M IST'),"types":T,"brands":brands,"items":items},open('site/data.json','w'),ensure_ascii=False)
 print(len(brands),'brands',len(items),'components',sum(len(i['images']) for i in items),'images')

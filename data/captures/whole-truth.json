@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://thewholetruthfoods.com/products/hazelnut-millet-protein-bars-box-of-8?sku_id=variant_01KRQRHJW3H97ZFYY319R8JC56&category=protein-bars",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ]
+}

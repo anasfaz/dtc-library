@@ -25,5 +25,11 @@
  "reviews": [
   "mobile"
  ],
- "_pdp": "https://mokobara.com/products/transit-z-backpack"
+ "_pdp": "https://mokobara.com/products/stash-bifold",
+ "variant-selector": [
+  "mobile"
+ ],
+ "cart-drawer": [
+  "mobile"
+ ]
 }

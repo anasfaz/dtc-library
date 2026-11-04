@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "_pdp": "https://lioridiamonds.com/products/1-00ctw-round-brilliant-diamond-studs-earrings-basket-set-in-14k-white-gold",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ]
+}

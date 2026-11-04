@@ -7,7 +7,7 @@ fetch('data.json?v='+Date.now()).then(r=>r.json()).then(d=>{D=d;D.items.forEach(
 addEventListener('hashchange',route);
 $('#q').addEventListener('input',e=>{S.q=e.target.value;if(!location.hash.startsWith('#/')||location.hash.length>2&&location.hash!=='#/'){location.hash='#/'}else render()});
 addEventListener('keydown',e=>{if(e.key=='/'&&document.activeElement!==$('#q')){e.preventDefault();$('#q').focus()}if(e.key=='Escape')closeLb()});
-function route(){const h=location.hash.slice(2);if(h.startsWith('brand/'))brandPage(h.slice(6));else if(h=='brands')brandsPage();else render();scrollTo(0,0)}
+function route(){const h=location.hash.slice(2);if(h.startsWith('brand/'))brandPage(h.slice(6));else if(h=='brands')brandsPage();else if(h=='agencies')agenciesPage();else render();scrollTo(0,0)}
 function match(i){if(S.type!='all'&&i.component!=S.type)return false;if(S.region!='all'&&i.region!=S.region)return false;
  if(S.agency=='known'&&/^unknown/i.test(i.agency))return false;if(S.agency!='all'&&S.agency!='known'&&i.agency!=S.agency)return false;
  if(S.device!='all'&&!i.images[S.device])return false;if(S.cat!='all'&&i.category!=S.cat)return false;
@@ -49,3 +49,8 @@ function brandPage(slug){const b=D.brands.find(x=>x.slug==slug);if(!b)return ren
  <div class="meta"><span class="tag ${b.region=='India'?'in':''}">${esc(b.country)}</span><span class="tag">${esc(b.category)}</span><span class="tag">${esc(b.platform)}</span><span class="tag ag">Agency: ${esc(b.agency||'Unknown')}</span><span class="tag">Added ${esc(b.added)}</span></div>
  <p>${esc(b.why)}</p><p>${b.url?`<a class="btn p" href="${esc(b.url)}" target="_blank" rel="noopener">Visit site ↗</a>`:''} ${b.agency_source&&b.agency_source.startsWith('http')?`<a class="btn" href="${esc(b.agency_source)}" target="_blank" rel="noopener">Agency case study ↗</a>`:''}</p></div>
  <div class="grid">${it.map(card).join('')}</div></div>`;bind()}
+
+function agenciesPage(){const th=s=>{const i=D.items.find(x=>x.brand==s&&x.component=='hero')||D.items.find(x=>x.brand==s);return i?Object.values(i.images)[0]:''};
+ $('#app').innerHTML=`<div class="wrap"><div class="bhead"><h1>Indian Shopify agencies</h1><p>${D.agencies.length} agencies. Clients are shown only when the agency's own portfolio, case study or testimonial page names them; the source is linked on each brand page.</p></div>
+ ${D.agencies.map(a=>{const cl=a.clients.map(s=>D.brands.find(b=>b.slug==s)).filter(Boolean);return `<section class="agency"><div class="ahead"><div><h2>${esc(a.name)}</h2><p>${esc(a.focus)}</p></div><a class="btn p" href="${esc(a.url)}" target="_blank" rel="noopener">Agency site ↗</a></div>
+ <div class="bgrid">${cl.map(b=>`<a class="bcard card" href="#/brand/${b.slug}"><img loading="lazy" src="${th(b.slug)}" alt=""><div><b>${esc(b.name)}</b><div class="meta" style="margin-top:6px"><span class="tag ${b.region=='India'?'in':''}">${esc(b.country)}</span><span class="tag">${b.count} components</span></div></div></a>`).join('')||'<p class="empty">No verified client captured yet.</p>'}</div></section>`}).join('')}</div>`}

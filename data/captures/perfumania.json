@@ -1,0 +1,14 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "footer": [
+  "mobile",
+  "desktop"
+ ]
+}

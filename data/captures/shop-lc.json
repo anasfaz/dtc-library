@@ -1,0 +1,37 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "footer": [
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.shoplc.com/products/terahertz-440-00-ctw-cushion-shape-block-stretch-mens-bracelet-7-5-8in?variant=52271714009401",
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ]
+}

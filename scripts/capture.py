@@ -47,7 +47,14 @@ async def run(pw,slug,home,pdp,dev,out):
         H=await p.evaluate('document.body.scrollHeight')
         for y in range(0,min(H,20000),700): await p.evaluate(f'scrollTo(0,{y})'); await p.wait_for_timeout(250)
         g=await p.evaluate(FIND_GRID)
-        if g: await clip(p,f'{d}/product-card-{dev}.jpg',g['y'],g['h'],mw); await ok('product-card')
+        if g:
+            try: await clip(p,f'{d}/product-card-{dev}.jpg',g['y'],g['h'],mw); await ok('product-card')
+            except Exception as e: print(slug,dev,'card ERR',str(e)[:80])
+        for comp,rx in [('comparison',r'\\bvs\\.?\\b|versus|compare|comparison|toxic|others'),('bundle-builder',r'build your (own )?(box|bundle|kit)|bundles?\\b|combos?\\b'),('quiz',r'take (the|our) quiz|find your (match|routine|coffee|perfect)|routine (builder|quiz)')]:
+            try:
+                r=await p.evaluate('''(rx)=>{const re=new RegExp(rx,'i');const c=[...document.querySelectorAll('main section, main > div, [class*=shopify-section]')].filter(e=>{const r=e.getBoundingClientRect();return r.height>150&&r.height<2500&&re.test((e.querySelector('h1,h2,h3,h4')||{}).innerText||'')});const e=c[0];if(!e)return null;const r=e.getBoundingClientRect();return {y:r.top+scrollY,h:r.height}}''',rx)
+                if r: await clip(p,f'{d}/{comp}-{dev}.jpg',r['y'],r['h'],mw); await ok(comp)
+            except Exception as e: print('sec',comp,e)
         f=await p.evaluate(FOOT)
         if f and f['h']>100: await clip(p,f'{d}/footer-{dev}.jpg',f['y'],f['h'],mw); await ok('footer')
         if not pdp:
@@ -65,6 +72,15 @@ async def run(pw,slug,home,pdp,dev,out):
             r=await p.evaluate('''()=>{const e=[...document.querySelectorAll('section,div')].find(e=>/review/i.test(e.id+' '+e.className)&&e.getBoundingClientRect().height>200);if(!e)return null;const r=e.getBoundingClientRect();return {y:r.top+scrollY,h:r.height}}''')
             if r: await clip(p,f'{d}/reviews-{dev}.jpg',r['y'],r['h'],mw); await ok('reviews')
             out.setdefault('_pdp',pdp)
+            await p.evaluate('scrollTo(0,0)'); await p.wait_for_timeout(800)
+            v=await p.evaluate('''()=>{const e=document.querySelector('variant-radios,variant-selects,variant-picker,[class*=variant-picker],[class*=product-form__input],fieldset[class*=variant],[class*=swatch]');if(!e)return null;let x=e.closest('fieldset,div')||e;const r=e.getBoundingClientRect();return {y:r.top+scrollY-20,h:Math.max(r.height+60,160)}}''')
+            if v: await clip(p,f'{d}/variant-selector-{dev}.jpg',v['y'],v['h'],mw); await ok('variant-selector')
+            try:
+                await p.evaluate('scrollTo(0,0)'); await dismiss(p)
+                btn=p.locator('form[action*="/cart/add"] button[type=submit]:visible, button[name=add]:visible, button:has-text("Add to cart"):visible, button:has-text("Add to bag"):visible').first
+                await btn.click(timeout=6000); await p.wait_for_timeout(3500)
+                save(await p.screenshot(),f'{d}/cart-drawer-{dev}.jpg',mw); await ok('cart-drawer')
+            except Exception as e: print(slug,dev,'cart ERR',str(e)[:100])
     except Exception as e: print(slug,dev,'ERR',str(e)[:200],flush=True)
     await b.close()
 async def main():

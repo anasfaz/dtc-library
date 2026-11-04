@@ -1,11 +1,11 @@
 {
  "hero": [
-  "desktop",
-  "mobile"
+  "mobile",
+  "desktop"
  ],
  "header": [
-  "desktop",
-  "mobile"
+  "mobile",
+  "desktop"
  ],
  "product-card": [
   "mobile",
@@ -26,5 +26,9 @@
   "desktop",
   "mobile"
  ],
- "_pdp": "https://beminimalist.co/products/salicylic-lha-2-cleanser"
+ "_pdp": "https://beminimalist.co/products/vitamin-b12-repair-complex-5-5-face-moisturizer",
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ]
 }

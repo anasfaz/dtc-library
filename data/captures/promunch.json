@@ -1,0 +1,38 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "mobile",
+  "desktop"
+ ],
+ "_pdp": "https://promunch.in/products/promunch-roasted-soya-snack-vegan-high-protein-healthy-gluten-free-flavor-noodle-masala-300-g-pack-of-1",
+ "variant-selector": [
+  "mobile",
+  "desktop"
+ ],
+ "cart-drawer": [
+  "mobile",
+  "desktop"
+ ]
+}
