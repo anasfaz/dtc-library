@@ -10,5 +10,17 @@
  "footer": [
   "desktop",
   "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.snitch.com/men-shirts/regular-fit-black-shirt-4sfs145-02/9269896904866/buy",
+ "sticky-atc": [
+  "mobile"
  ]
 }

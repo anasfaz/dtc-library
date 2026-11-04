@@ -1,0 +1,29 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://juicychemistry.com/products/blood-orange-rosehip-organic-lip-balm",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "mobile"
+ ]
+}

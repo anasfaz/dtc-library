@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://nashermiles.com/products/nasher-miles-hunter-duffle-bag-30l-polyester-carry-on-luggage-travel-backpack-ideal-for-men-women-black",
+ "sticky-atc": [
+  "mobile"
+ ]
+}
