@@ -83,5 +83,28 @@
  },
  "supertails": {
   "hero": "Indian pet-care store built by Dynamic Dreamz: the closest reference for a fish/pet shop."
+ },
+ "huft": {
+  "pdp": "Pack-of-1/5/7 tier cards with unit price + % off, flavor swatches, Human-Grade trust pills, coupon box and pincode delivery. Copy for guppy pack sizes + live-arrival guarantee + shipping check.",
+  "pdp-details": "Benefit/ingredient storytelling below buy box — use for care sheet / water-param trust on live fish.",
+  "sticky-atc": "Mobile sticky ATC with Watch & Buy video — keep fish unboxing or arrival clips near ATC.",
+  "product-card": "Pet category cards with ratings and offer badges.",
+  "reviews": "Dense review block with photos — social proof for live-arrival claims."
+ },
+ "nykd": {
+  "pdp": "Colour swatches + dual ATC / Buy Now. Size-gated ATC is the caution; Bra Advisor quiz (Seventh Triangle) is the standout education pattern for 'which fish for my tank'.",
+  "variant-selector": "Colour swatches with clear selected state.",
+  "sticky-atc": "Mobile sticky buy bar."
+ },
+ "arata": {
+  "pdp": "Pack of 1/2/3 cards with MOST POPULAR + FREE gift + SAVE + ALMOST GONE scarcity. Direct template for fish multi-packs / starter kits.",
+  "product-card": "Bestsellers filters + category tiles on homepage.",
+  "sticky-atc": "Mobile sticky ATC."
+ },
+ "ranavat": {
+  "cart-drawer": "Free-shipping/gift progress bar + Complete Your Ritual checkbox upsells + gift note. Copy for aquarium starter-kit AOV and free-shipping thresholds.",
+  "pdp": "Size toggles, Subscribe & Save, Shop Pay, UGC strip under buy box.",
+  "variant-selector": "Clean size chips.",
+  "sticky-atc": "Mobile sticky ATC."
  }
 }

@@ -1,0 +1,26 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.arata.in/products/arata-mitoactive-mitochondrial-hair-growth-serum-30-ml",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

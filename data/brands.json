@@ -902,5 +902,82 @@
   "added": "2026-11-04",
   "why": "WPWeb Infotech portfolio: new Shopify 2.0 theme, improved subscriptions, upsells.",
   "tags": []
+ },
+ "huft": {
+  "name": "Heads Up For Tails",
+  "url": "https://headsupfortails.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Pet (dog & cat)",
+  "agency": "Unknown",
+  "agency_source": "",
+  "platform": "Shopify",
+  "added": "2026-11-05",
+  "why": "India's leading pet DTC: PDP pack-of-1/5/7 tier cards with unit price + % off, flavor swatches, Human-Grade trust pills, coupon box, pincode delivery check and Watch & Buy video. Closest conversion patterns for a live-fish/guppy store (pack sizes, live-arrival trust, shipping check).",
+  "tags": [
+   "pet",
+   "pack builder",
+   "trust pills",
+   "pincode",
+   "video",
+   "india"
+  ]
+ },
+ "nykd": {
+  "name": "Nykd by Nykaa",
+  "url": "https://nykdbynykaa.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Intimate / sleepwear",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/blogs/case-studies/empowering-comfort-crafting-nykd-by-nykaa-s-digital-and-brand-identity",
+  "platform": "Shopify Plus",
+  "added": "2026-11-05",
+  "why": "Seventh Triangle built Nykaa's private-label D2C site with bra advisor / Find Your Style quiz, colour swatches and dual ATC + Buy Now. Case study: 11k+ monthly orders, 2.6% CVR.",
+  "tags": [
+   "swatches",
+   "quiz",
+   "buy now",
+   "seventh-triangle",
+   "india"
+  ]
+ },
+ "arata": {
+  "name": "Arata",
+  "url": "https://www.arata.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Hair care",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/case-study",
+  "platform": "Shopify",
+  "added": "2026-11-05",
+  "why": "Seventh Triangle case study brand. PDP pack-of-1/2/3 cards with MOST POPULAR + FREE gift + SAVE badges and ALMOST GONE scarcity — clean multi-pack pattern for fish packs/colony kits.",
+  "tags": [
+   "multi-pack",
+   "scarcity",
+   "free gift",
+   "seventh-triangle",
+   "india"
+  ]
+ },
+ "ranavat": {
+  "name": "Ranavat",
+  "url": "https://www.ranavat.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Ayurvedic skincare",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/case-studies/ranavat/",
+  "platform": "Shopify Plus",
+  "added": "2026-11-05",
+  "why": "Dynamic Dreamz partner since 2019. Luxury cart drawer with free-shipping/gift progress bar, Complete Your Ritual checkbox upsells and gift note — strong AOV pattern for aquarium starter kits.",
+  "tags": [
+   "cart drawer",
+   "upsell",
+   "subscribe",
+   "progress bar",
+   "dynamic-dreamz"
+  ]
  }
 }

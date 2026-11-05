@@ -1,0 +1,30 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://nykdbynykaa.com/products/the-ultimate-strapless-bra-sand-nyb027",
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ]
+}
