@@ -421,7 +421,7 @@
   "agency": "Unknown",
   "platform": "Headless: Next.js front end; product images served from cdn.shopify.com, /products.json 404, so probably Shopify behind a custom storefront (not confirmed)",
   "added": "2026-10-03",
-  "why": "Product cards that show care chips on every card (e.g. 22-28°C · pH 7-8 · 41L), plus PDP shoal-size price tiers (1 / 6 / 10 / 20 fish, 'Minimum healthy shoal') with a sticky Add-to-Basket bar. 'Live arrival guaranteed. If they don't arrive healthy, email us a short unboxing video the same day for a replacement or refund.' Oxygenated bags, insulation and heat packs; licensed live-animal courier; £19.95 tracked delivery (half price from £100, free from £200). Care Guide, Tank Mates / tank-mate checker, stocking calculator and an 'Ask Aqua' AI helper.",
+  "why": "Product cards that show care chips on every card (e.g. 22-28\u00b0C \u00b7 pH 7-8 \u00b7 41L), plus PDP shoal-size price tiers (1 / 6 / 10 / 20 fish, 'Minimum healthy shoal') with a sticky Add-to-Basket bar. 'Live arrival guaranteed. If they don't arrive healthy, email us a short unboxing video the same day for a replacement or refund.' Oxygenated bags, insulation and heat packs; licensed live-animal courier; \u00a319.95 tracked delivery (half price from \u00a3100, free from \u00a3200). Care Guide, Tank Mates / tank-mate checker, stocking calculator and an 'Ask Aqua' AI helper.",
   "tags": [
    "pet",
    "fish",
@@ -455,7 +455,7 @@
   "agency": "Unknown",
   "platform": "No (no Shopify markers; custom stack behind Cloudflare)",
   "added": "2026-10-03",
-  "why": "PDP 'Purchase Options' card with Pair (1M/1F) / Trio (1M/2F), a photo+video gallery, and 'Australia-wide shipping · Quality guaranteed' right under the CTA. The copy is upfront that juveniles ship smaller than the adults shown on video. 'No shipping to WA, NT, TAS'. 'Want to see the exact fish before dispatch? Add a note at checkout and we will send a short video the night before shipping'. The FAQ (from search) has a DOA policy needing an unopened-bag video within 3 hours. Category & tag filter on the shop page.",
+  "why": "PDP 'Purchase Options' card with Pair (1M/1F) / Trio (1M/2F), a photo+video gallery, and 'Australia-wide shipping \u00b7 Quality guaranteed' right under the CTA. The copy is upfront that juveniles ship smaller than the adults shown on video. 'No shipping to WA, NT, TAS'. 'Want to see the exact fish before dispatch? Add a note at checkout and we will send a short video the night before shipping'. The FAQ (from search) has a DOA policy needing an unopened-bag video within 3 hours. Category & tag filter on the shop page.",
   "tags": [
    "pet",
    "fish",
@@ -672,7 +672,7 @@
   "agency_source": "",
   "platform": "Shopify",
   "added": "2026-11-04",
-  "why": "Verified refill architecture: 'Refillable … starter pack' + refill packs with 'how to refill your forever case' accordion. Explicit tooltips not found.",
+  "why": "Verified refill architecture: 'Refillable \u2026 starter pack' + refill packs with 'how to refill your forever case' accordion. Explicit tooltips not found.",
   "tags": [
    "refill",
    "zero waste",
@@ -952,7 +952,7 @@
   "agency_source": "https://seventhtriangle.com/pages/case-study",
   "platform": "Shopify",
   "added": "2026-11-05",
-  "why": "Seventh Triangle case study brand. PDP pack-of-1/2/3 cards with MOST POPULAR + FREE gift + SAVE badges and ALMOST GONE scarcity — clean multi-pack pattern for fish packs/colony kits.",
+  "why": "Seventh Triangle case study brand. PDP pack-of-1/2/3 cards with MOST POPULAR + FREE gift + SAVE badges and ALMOST GONE scarcity \u2014 clean multi-pack pattern for fish packs/colony kits.",
   "tags": [
    "multi-pack",
    "scarcity",
@@ -971,7 +971,7 @@
   "agency_source": "https://www.dynamicdreamz.com/case-studies/ranavat/",
   "platform": "Shopify Plus",
   "added": "2026-11-05",
-  "why": "Dynamic Dreamz partner since 2019. Luxury cart drawer with free-shipping/gift progress bar, Complete Your Ritual checkbox upsells and gift note — strong AOV pattern for aquarium starter kits.",
+  "why": "Dynamic Dreamz partner since 2019. Luxury cart drawer with free-shipping/gift progress bar, Complete Your Ritual checkbox upsells and gift note \u2014 strong AOV pattern for aquarium starter kits.",
   "tags": [
    "cart drawer",
    "upsell",
@@ -979,5 +979,29 @@
    "progress bar",
    "dynamic-dreamz"
   ]
+ },
+ "renee": {
+  "name": "Renee Cosmetics",
+  "url": "https://www.reneecosmetics.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Beauty / cosmetics",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/portfolio/",
+  "platform": "Shopify Plus",
+  "added": "2026-11-06",
+  "why": "Listed on Dynamic Dreamz portfolio as a Shopify Plus build. Reward-tier cart drawer with progress bar, swatch-led PDP, bundle coupon box and frequently-bought-together; ideas for guppy packs and free-shipping thresholds."
+ },
+ "bella-vita": {
+  "name": "Bella Vita Organic",
+  "url": "https://www.bellavitaorganic.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Fragrance / personal care",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/portfolio/",
+  "platform": "Shopify Plus",
+  "added": "2026-11-06",
+  "why": "Listed on Dynamic Dreamz portfolio as a Shopify Plus build. Size/pack variant cards with discount tags, prepaid-offer chips and sticky Buy Now; useful for fish pack sizes and prepaid incentives."
  }
 }

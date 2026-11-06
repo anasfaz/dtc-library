@@ -18,7 +18,9 @@
    "bombay-shirt-co",
    "supertails",
    "calmenta",
-   "ranavat"
+   "ranavat",
+   "renee",
+   "bella-vita"
   ]
  },
  {
@@ -79,7 +81,7 @@
  {
   "name": "Aureate Labs",
   "url": "https://aureatelabs.com/",
-  "focus": "Mostly Magento/Hyvä performance work, plus headless PWA for Shopify (Miko, Pure Daily Care) and CRO.",
+  "focus": "Mostly Magento/Hyv\u00e4 performance work, plus headless PWA for Shopify (Miko, Pure Daily Care) and CRO.",
   "clients": [
    "fabric-pandit"
   ]

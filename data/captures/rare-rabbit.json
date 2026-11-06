@@ -1,0 +1,10 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ]
+}

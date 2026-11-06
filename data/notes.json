@@ -23,7 +23,7 @@
   "header": "Compact mobile header with search, account and cart always visible plus a 'New' badge on the hot nav item. Use a 'New strain' badge on the nav link to your latest guppy drop.",
   "product-card": "Cards with a % off flag and clean cut-out images on white; 'New Arrivals / Best Sellers' toggle above the grid. For fish: 'Best sellers' vs 'New strains' toggle, and a 'Pair'/'Trio' flag on each card.",
   "pdp": "Dimensions diagram as the 2nd image, colour swatches, big orange ADD TO CART and a 4-icon trust strip (free shipping, quality-tested, hassle-free returns, support). For guppies: 2nd image = adult size/colour diagram (male vs female), trust strip = Live-arrival guarantee / Insulated packing / Ships Mon-Wed / WhatsApp support.",
-  "pdp-details": "Annotated lifestyle images (callouts like 'Water resistant', 'Easy grab handles') explain features without walls of text. Annotate a tank photo: 'tail type', 'adult size 3-4 cm', 'temp 24-28°C', 'community-safe'.",
+  "pdp-details": "Annotated lifestyle images (callouts like 'Water resistant', 'Easy grab handles') explain features without walls of text. Annotate a tank photo: 'tail type', 'adult size 3-4 cm', 'temp 24-28\u00b0C', 'community-safe'.",
   "sticky-atc": "Sticky bottom bar shows Total + MRP strike + '72% off' chip + '7-day returns, no questions asked' right next to ADD TO CART - the risk reversal sits at the moment of decision. Put 'DOA? Free replacement - photo within 2 hrs' in the same spot.",
   "footer": "Newsletter footer 'Check out of Reality' with one email field. For a fish store: 'Get new-strain drops & shipping-day alerts' signup."
  },
@@ -53,7 +53,7 @@
   "sticky-atc": "Sticky full-width ADD TO CART bar on mobile, with delivery date kept visible."
  },
  "minimalist": {
-  "cart-drawer": "Tiered reward progress bar in the cart drawer (Extra 5% off at ₹599, 10% at ₹899, then a free gift), coupon field, offer list and GoKwik checkout. Copy it as: free heat pack at ₹X, free food at ₹Y."
+  "cart-drawer": "Tiered reward progress bar in the cart drawer (Extra 5% off at \u20b9599, 10% at \u20b9899, then a free gift), coupon field, offer list and GoKwik checkout. Copy it as: free heat pack at \u20b9X, free food at \u20b9Y."
  },
  "whole-truth": {
   "pdp": "'Select pack size' cards (Box of 6 / 12) with a per-unit price and savings tag, then a pincode delivery check. Pair / Trio / Group cards would work the same way.",
@@ -64,7 +64,7 @@
   "sticky-atc": "'Flavour Meter' table rating each attribute on a scale, plus 'Best Brewed With' icons. Turn it into a care meter (temperament, difficulty, tank size) per strain."
  },
  "blue-tokai": {
-  "variant-selector": "Grind selector chips (French Press, Aeropress…) with roast info.",
+  "variant-selector": "Grind selector chips (French Press, Aeropress\u2026) with roast info.",
   "pdp": "Grind + pack options, an AI coffee-assistant bubble and a pincode check."
  },
  "sleepy-owl": {
@@ -86,10 +86,10 @@
  },
  "huft": {
   "pdp": "Pack-of-1/5/7 tier cards with unit price + % off, flavor swatches, Human-Grade trust pills, coupon box and pincode delivery. Copy for guppy pack sizes + live-arrival guarantee + shipping check.",
-  "pdp-details": "Benefit/ingredient storytelling below buy box — use for care sheet / water-param trust on live fish.",
-  "sticky-atc": "Mobile sticky ATC with Watch & Buy video — keep fish unboxing or arrival clips near ATC.",
+  "pdp-details": "Benefit/ingredient storytelling below buy box \u2014 use for care sheet / water-param trust on live fish.",
+  "sticky-atc": "Mobile sticky ATC with Watch & Buy video \u2014 keep fish unboxing or arrival clips near ATC.",
   "product-card": "Pet category cards with ratings and offer badges.",
-  "reviews": "Dense review block with photos — social proof for live-arrival claims."
+  "reviews": "Dense review block with photos \u2014 social proof for live-arrival claims."
  },
  "nykd": {
   "pdp": "Colour swatches + dual ATC / Buy Now. Size-gated ATC is the caution; Bra Advisor quiz (Seventh Triangle) is the standout education pattern for 'which fish for my tank'.",
@@ -106,5 +106,8 @@
   "pdp": "Size toggles, Subscribe & Save, Shop Pay, UGC strip under buy box.",
   "variant-selector": "Clean size chips.",
   "sticky-atc": "Mobile sticky ATC."
+ },
+ "renee": {
+  "cart-drawer": "Reward-tier progress bar (free shipping, gifts, % off) pulls order value up; mirror with free live-arrival shipping tiers for fish packs."
  }
 }
