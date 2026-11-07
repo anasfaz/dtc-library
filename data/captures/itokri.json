@@ -1,0 +1,38 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "mobile",
+  "desktop"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://itokri.com/products/pure-handloom-tissue-zari-stripes-chanderi-silk-fabric-22-2026-930-1-22",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ]
+}

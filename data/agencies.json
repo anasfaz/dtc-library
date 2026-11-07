@@ -1,107 +1,111 @@
 [
- {
-  "name": "Marmeto",
-  "url": "https://marmeto.com/",
-  "focus": "Bengaluru Shopify Plus partner; case studies on fast rebuilds (Superbottoms in 20 days), Apple reseller (Ample), MPL Sports.",
-  "clients": [
-   "superbottoms",
-   "sleep-company",
-   "juicy-chemistry",
-   "nasher-miles"
-  ]
- },
- {
-  "name": "Dynamic Dreamz",
-  "url": "https://www.dynamicdreamz.com/",
-  "focus": "Shopify / Shopify Plus, plus WordPress, Magento and React Native apps. Long-term Indian D2C partnerships (Ranavat, Bombay Shirt Co, Rare Rabbit, Bella Vita).",
-  "clients": [
-   "bombay-shirt-co",
-   "supertails",
-   "calmenta",
-   "ranavat",
-   "renee",
-   "bella-vita"
-  ]
- },
- {
-  "name": "Emerge Digital",
-  "url": "https://emergedigital.co/",
-  "focus": "Shopify builds for Indian D2C fashion (case studies on emergedigital.co). emergedigital.in (the site Anas listed) was behind a Cloudflare check, so I couldn't confirm the two domains are the same company.",
-  "clients": [
-   "auance",
-   "surma"
-  ]
- },
- {
-  "name": "ControlF5",
-  "url": "https://www.controlf5.in/",
-  "focus": "Indore-based Shopify & WordPress agency; custom builds, theme customisation, CRO, speed, AEO/GEO. Case metrics for Promunch, Katkare, Zed Black, Alpine Apothecary.",
-  "clients": [
-   "promunch",
-   "zed-black"
-  ]
- },
- {
-  "name": "Codify Infotech",
-  "url": "https://codifyinfotech.com/",
-  "focus": "Surat; custom Liquid code instead of app stacks; low-cost builds (from about $300); quizzes, dynamic pricing, subscriptions.",
-  "clients": [
-   "200percent",
-   "slouq"
-  ]
- },
- {
-  "name": "Mobikasa",
-  "url": "https://www.mobikasa.com/",
-  "focus": "Delhi / Miami / Dubai; Shopify Plus, accessibility (WCAG), SEO, CRO, maintenance teams.",
-  "clients": [
-   "randolph",
-   "perfumania"
-  ]
- },
- {
-  "name": "Seventh Triangle",
-  "url": "https://seventhtriangle.com/",
-  "focus": "Shopify Plus partner covering tech and performance marketing; clients named include Jockey, FNP, SuperBottoms, Speedo, Bombay Shaving Co (as logos/testimonials).",
-  "clients": [
-   "house-of-chikankari",
-   "nykd",
-   "arata"
-  ]
- },
- {
-  "name": "Brainvire",
-  "url": "https://www.brainvire.com/",
-  "focus": "Enterprise: big-catalogue replatforming, ERP integrations, B2B + B2C on Shopify Plus/Enterprise.",
-  "clients": [
-   "shop-lc",
-   "wet-sounds"
-  ]
- },
- {
-  "name": "Aureate Labs",
-  "url": "https://aureatelabs.com/",
-  "focus": "Mostly Magento/Hyv\u00e4 performance work, plus headless PWA for Shopify (Miko, Pure Daily Care) and CRO.",
-  "clients": [
-   "fabric-pandit"
-  ]
- },
- {
-  "name": "Webskitters",
-  "url": "https://www.webskitters.com/",
-  "focus": "Kolkata full-service; Shopify redesigns and migrations with UI/UX, plus PPC.",
-  "clients": [
-   "luvlap",
-   "liori-diamonds"
-  ]
- },
- {
-  "name": "WPWeb Infotech",
-  "url": "https://wpwebinfotech.com/",
-  "focus": "Shopify 2.0 theme builds, subscriptions/upsells, WordPress; US clients.",
-  "clients": [
-   "allbirds",
-   "sightglass"
-  ]
- }
+  {
+    "name": "Marmeto",
+    "url": "https://marmeto.com/",
+    "focus": "Bengaluru Shopify Plus partner; case studies on fast rebuilds (Superbottoms in 20 days), Apple reseller (Ample), MPL Sports.",
+    "clients": [
+      "superbottoms",
+      "sleep-company",
+      "juicy-chemistry",
+      "nasher-miles"
+    ]
+  },
+  {
+    "name": "Dynamic Dreamz",
+    "url": "https://www.dynamicdreamz.com/",
+    "focus": "Shopify / Shopify Plus, plus WordPress, Magento and React Native apps. Long-term Indian D2C partnerships (Ranavat, Bombay Shirt Co, Rare Rabbit, Bella Vita).",
+    "clients": [
+      "bombay-shirt-co",
+      "supertails",
+      "calmenta",
+      "ranavat",
+      "renee",
+      "bella-vita",
+      "rare-rabbit"
+    ]
+  },
+  {
+    "name": "Emerge Digital",
+    "url": "https://emergedigital.co/",
+    "focus": "Shopify builds for Indian D2C fashion (case studies on emergedigital.co). emergedigital.in (the site Anas listed) was behind a Cloudflare check, so I couldn't confirm the two domains are the same company.",
+    "clients": [
+      "auance",
+      "surma"
+    ]
+  },
+  {
+    "name": "ControlF5",
+    "url": "https://www.controlf5.in/",
+    "focus": "Indore-based Shopify & WordPress agency; custom builds, theme customisation, CRO, speed, AEO/GEO. Case metrics for Promunch, Katkare, Zed Black, Alpine Apothecary.",
+    "clients": [
+      "promunch",
+      "zed-black",
+      "katkare",
+      "alpine-apothecary"
+    ]
+  },
+  {
+    "name": "Codify Infotech",
+    "url": "https://codifyinfotech.com/",
+    "focus": "Surat; custom Liquid code instead of app stacks; low-cost builds (from about $300); quizzes, dynamic pricing, subscriptions.",
+    "clients": [
+      "200percent",
+      "slouq"
+    ]
+  },
+  {
+    "name": "Mobikasa",
+    "url": "https://www.mobikasa.com/",
+    "focus": "Delhi / Miami / Dubai; Shopify Plus, accessibility (WCAG), SEO, CRO, maintenance teams.",
+    "clients": [
+      "randolph",
+      "perfumania"
+    ]
+  },
+  {
+    "name": "Seventh Triangle",
+    "url": "https://seventhtriangle.com/",
+    "focus": "Shopify Plus partner covering tech and performance marketing; clients named include Jockey, FNP, SuperBottoms, Speedo, Bombay Shaving Co (as logos/testimonials).",
+    "clients": [
+      "house-of-chikankari",
+      "nykd",
+      "arata",
+      "itokri"
+    ]
+  },
+  {
+    "name": "Brainvire",
+    "url": "https://www.brainvire.com/",
+    "focus": "Enterprise: big-catalogue replatforming, ERP integrations, B2B + B2C on Shopify Plus/Enterprise.",
+    "clients": [
+      "shop-lc",
+      "wet-sounds"
+    ]
+  },
+  {
+    "name": "Aureate Labs",
+    "url": "https://aureatelabs.com/",
+    "focus": "Mostly Magento/Hyvä performance work, plus headless PWA for Shopify (Miko, Pure Daily Care) and CRO.",
+    "clients": [
+      "fabric-pandit"
+    ]
+  },
+  {
+    "name": "Webskitters",
+    "url": "https://www.webskitters.com/",
+    "focus": "Kolkata full-service; Shopify redesigns and migrations with UI/UX, plus PPC.",
+    "clients": [
+      "luvlap",
+      "liori-diamonds"
+    ]
+  },
+  {
+    "name": "WPWeb Infotech",
+    "url": "https://wpwebinfotech.com/",
+    "focus": "Shopify 2.0 theme builds, subscriptions/upsells, WordPress; US clients.",
+    "clients": [
+      "allbirds",
+      "sightglass"
+    ]
+  }
 ]

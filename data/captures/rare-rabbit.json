@@ -4,7 +4,27 @@
   "mobile"
  ],
  "header": [
-  "mobile",
-  "desktop"
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://thehouseofrare.com/products/kelos-aw26-mens-shirt-brown",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
  ]
 }
