@@ -1073,5 +1073,77 @@
       "artisan",
       "shopify-plus"
     ]
+  },
+  "sri-sri-tattva": {
+    "name": "Sri Sri Tattva",
+    "url": "https://www.srisritattva.com/",
+    "country": "India",
+    "region": "India",
+    "category": "Ayurveda / wellness / grocery",
+    "agency": "Dynamic Dreamz",
+    "agency_source": "https://www.dynamicdreamz.com/portfolio/",
+    "platform": "Shopify Plus",
+    "added": "2026-11-08",
+    "why": "Listed on Dynamic Dreamz portfolio as Shopify Plus \"Sri Sri Tattva\" (links to srisritattva.com). Large-catalogue Indian D2C: study category navigation, dense product cards with offers, and PDP pack-size selection for a multi-SKU fish/food/accessory catalogue.",
+    "tags": [
+      "wellness",
+      "ayurveda",
+      "india",
+      "shopify-plus",
+      "large catalogue"
+    ]
+  },
+  "eleven-eleven": {
+    "name": "11.11 / eleven eleven",
+    "url": "https://11-11.in/",
+    "country": "India",
+    "region": "India",
+    "category": "Fashion / handcrafted apparel",
+    "agency": "Dynamic Dreamz",
+    "agency_source": "https://www.dynamicdreamz.com/portfolio/",
+    "platform": "Shopify",
+    "added": "2026-11-08",
+    "why": "Listed on Dynamic Dreamz portfolio as \"11 11\" (Shopify, links to 11-11.in). Editorial, craft-led Indian fashion brand: study storytelling hero, calm product grid and provenance-led PDP copy.",
+    "tags": [
+      "fashion",
+      "editorial",
+      "craft",
+      "india"
+    ]
+  },
+  "nish-hair": {
+    "name": "Nish Hair",
+    "url": "https://www.nishhair.com/",
+    "country": "India",
+    "region": "India",
+    "category": "Beauty / hair extensions & toppers",
+    "agency": "Seventh Triangle",
+    "agency_source": "https://seventhtriangle.com/",
+    "platform": "Shopify",
+    "added": "2026-11-08",
+    "why": "Client testimonial from Nish Hair's Head of Marketing on Seventh Triangle's own homepage (\"expertly managed our most critical D2C asset\"). Considered-purchase D2C: study shade/length variant selection, trust and reviews, and education content near the buy box.",
+    "tags": [
+      "beauty",
+      "hair",
+      "india",
+      "variants"
+    ]
+  },
+  "neater-pets": {
+    "name": "Neater Pets",
+    "url": "https://neaterpets.com/",
+    "country": "USA",
+    "region": "International",
+    "category": "Pet (feeders, bowls, accessories)",
+    "agency": "Dynamic Dreamz",
+    "agency_source": "https://www.dynamicdreamz.com/portfolio/",
+    "platform": "Shopify",
+    "added": "2026-11-08",
+    "why": "Listed on Dynamic Dreamz portfolio as Shopify \"Neater Pets\" (links to neaterpets.com). US pet-accessories brand (most products made in USA per its About page): study pet product cards, size/colour variants and problem-solution PDP copy for aquarium accessories.",
+    "tags": [
+      "pet",
+      "international",
+      "accessories"
+    ]
   }
 }

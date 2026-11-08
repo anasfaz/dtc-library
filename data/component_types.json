@@ -212,5 +212,17 @@
    "comparison table"
   ],
   "note": "Us vs them / product comparison: answers 'why this one' objections."
+ },
+ "delivery-check": {
+  "label": "Delivery / pincode check",
+  "tags": [
+   "pincode",
+   "delivery",
+   "serviceability",
+   "shipping",
+   "eta",
+   "live arrival"
+  ],
+  "note": "Pincode / serviceability check before purchase: answers 'can you deliver to me, and when?' — essential for perishable or live products."
  }
 }

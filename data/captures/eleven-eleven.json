@@ -1,0 +1,31 @@
+{
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "mobile"
+ ]
+}

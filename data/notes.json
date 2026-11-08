@@ -142,5 +142,46 @@
     "cart-drawer": "Free-shipping progress bar, Trustpilot badge, gift-wrap upsell, secure-payment strip. Strong AOV levers for fish packs + free live-arrival shipping thresholds.",
     "reviews": "Excellent 4.7 / 14k reviews carousel with Verified Customer — social proof for live-arrival guarantees.",
     "sticky-atc": "Mobile sticky ATC."
+  },
+  "sri-sri-tattva": {
+    "hero": "Offer-led festive banner carousel ('Flat 10% off', '₹100 off on entire range') above category tiles. For a guppy store: rotate a seasonal offer banner (e.g. breeding-pair deal) directly above species tiles.",
+    "category-tiles": "Big pastel category tiles with product photography (Ghee, Oral Care, Juices…). Map to fish categories: Guppies, Bettas, Shrimp, Plants, Food, Equipment.",
+    "product-card": "Dense cards: star rating + review count, size line (500 ml / 1 L), MRP strike-through, % OFF corner badge, 'Sold Out' pill and a one-tap ADD button. Copy for fish cards: '(4.8) 120 reviews', 'Pair / Trio / 5 pcs', ₹ strike price, ADD.",
+    "delivery-check": "Pincode serviceability prompt on the homepage ('Enter Delivery Pincode → Check serviceability'). Critical for live fish: check pincode first, then show live-arrival delivery ETA / whether overnight courier serves the area.",
+    "pdp": "Clean PDP: rating + review count under title, MRP 'Inclusive of all taxes', qty stepper + full-width ADD TO CART pinned at bottom on mobile.",
+    "pdp-details": "Four trust icons under price (Free delivery above ₹999, customer support hours, quality testing, secure payment). Swap in: live-arrival guarantee, expert support hours, quarantined stock, secure payment.",
+    "reviews": "Rating summary (4.8, 95 reviews) with Write-a-review, filter/sort icons and 'Verified' badges on each review.",
+    "sticky-atc": "Mobile sticky qty + ADD TO CART bar sitting above the app-style bottom nav, with 'Similar Products' carousel cards that each have their own ADD.",
+    "header": "App-download strip ('Order faster with our app') + prominent search with rotating placeholder ('Search for Honey').",
+    "footer": "Navy footer with policies (shipping, cancellation), social links and app-store badges."
+  },
+  "eleven-eleven": {
+    "hero": "Full-bleed editorial video/image hero ('The Guest List') with a short story paragraph and MEN / WOMEN text links. Calm, premium storytelling — for fish, a slow aquarium video hero with one line of story.",
+    "header": "Rotating announcement bar ('Autumn Winter 2026: now live') + centered logo, minimal nav.",
+    "product-card": "Minimal image-first product grid with lots of whitespace — lets photography carry the sale. Works for high-quality guppy strain photos.",
+    "pdp": "Image-led PDP with thumbnail rail; price 'MRP incl. of all taxes', size dropdown + View Size Guide, ADD TO CART plus 'MEET THE MAKERS'.",
+    "pdp-details": "Provenance copy under the buy box: 'Meticulously crafted by 7 artisans in 9.17 hours'. Equivalent for fish: 'Bred in-house by X over Y weeks, quarantined 14 days' — concrete numbers build trust.",
+    "variant-selector": "Simple size dropdown with View Size Guide link right above it — for fish, a 'Pair / Trio / Group' selector with a 'sexing & sizing guide' link.",
+    "sticky-atc": "Full-width black sticky ADD TO CART on mobile; accordions for Wash care, Shipment & delivery, Returns & exchange — mirror with Acclimatisation, Live-arrival shipping, DOA policy.",
+    "cart-drawer": "Clean side cart with qty stepper, order note, 'Taxes and shipping calculated at checkout' and a one-tap BUY NOW (express checkout with UPI badges)."
+  },
+  "nish-hair": {
+    "hero": "Campaign hero carousel with a collab line (Evil Eye x Nish Hair) and single SHOP NOW; floating WhatsApp/call button and INR currency switcher.",
+    "header": "Centered logo, mega nav (Shop Categories, Shop For Men, Jewellery, Bridal), cart count.",
+    "product-card": "Lifestyle-photo cards with ADD TO CART on the image and teal price — quick add without opening the PDP.",
+    "pdp": "Considered-purchase PDP: model photo grid, star rating with review count, 'Pay later / ₹537 per month' EMI box.",
+    "pdp-details": "Buy box stacks qty + Add to cart, 'REQUEST A VIDEO CALL' and Razorpay Buy Now; no-return note for discounted items. For fish: a 'Request a live video of your fish' button is a strong trust lever for high-value strains.",
+    "reviews": "Rating breakdown bars (4.8 from 48 reviews) + customer photo reviews grid with Write-a-review — photo UGC of fish in customers' tanks would do the same.",
+    "sticky-atc": "Mobile sticky product bar with thumbnail, name, price and + button, plus 'Explore the world of Hair' quick-add carousel."
+  },
+  "neater-pets": {
+    "hero": "Problem-solution hero ('Neater Feeder — food stays on top, water flows to bottom') with inset product-feature circle and free-shipping-over-$40 announcement bar.",
+    "header": "Free-shipping threshold bar, search with rotating product placeholder, emoji pet nav (Dogs 🐶, Cats 🐱) — try 'Guppies 🐟, Shrimp 🦐, Plants 🌿'.",
+    "product-card": "Collection cards with star rating + big review counts (590, 1006), colour swatch dots with '+3', 'From $29.99' pricing and 'Up to 27% off / New arrival' badges.",
+    "pdp": "Pet PDP with strike price, Shop Pay instalments line, colour swatches and Package Count chips (1/2/3).",
+    "pdp-details": "Feature bullets + accordions (How to use, Cleaning instructions, Country of origin) beside a compact buy box.",
+    "variant-selector": "Image colour swatches + Package Count pill chips — reuse as Strain swatches + Pair/Trio/5-pack chips.",
+    "sticky-atc": "'You may also like' card with inline size dropdown and its own ADD TO CART — cross-sell without leaving the PDP (fish food / heater add-on).",
+    "cart-drawer": "Cart drawer with free-shipping progress bar ('Spend $27.01 more for free shipping!'), CHECKOUT total button and Shop Pay / PayPal / GPay express buttons. Ideal pattern for raising AOV on fish orders."
   }
 }

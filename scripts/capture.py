@@ -89,4 +89,4 @@ async def main():
     async with async_playwright() as pw:
         await asyncio.gather(run(pw,slug,home,pdp,'desktop',out),run(pw,slug,home,pdp,'mobile',out))
     os.makedirs('data/captures',exist_ok=True); json.dump(out,open(f'data/captures/{slug}.json','w'),indent=1)
-asyncio.run(main())
+if __name__=='__main__': asyncio.run(main())
