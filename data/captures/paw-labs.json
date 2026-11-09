@@ -1,0 +1,32 @@
+{
+ "hero": [
+  "mobile",
+  "desktop"
+ ],
+ "header": [
+  "desktop"
+ ],
+ "product-card": [
+  "desktop"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "_pdp": "https://pawlabs.co/products/g-max-joint-support-for-dogs?variant=40363055710306",
+ "variant-selector": [
+  "mobile",
+  "desktop"
+ ],
+ "cart-drawer": [
+  "mobile",
+  "desktop"
+ ]
+}

@@ -224,5 +224,17 @@
    "live arrival"
   ],
   "note": "Pincode / serviceability check before purchase: answers 'can you deliver to me, and when?' — essential for perishable or live products."
+ },
+ "product-configurator": {
+  "label": "Product configurator / step builder",
+  "tags": [
+   "configurator",
+   "personalise",
+   "steps",
+   "builder",
+   "customise",
+   "wizard"
+  ],
+  "note": "Step-by-step visual picker (style → quantity → upload/confirm) that turns a complex or personalised product into easy choices and keeps shoppers moving toward checkout."
  }
 }

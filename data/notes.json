@@ -1,187 +1,223 @@
 {
-  "collider": {
-    "pdp": "Delivery cut-off ('Order within X to get delivery by Tuesday') + what's-in-the-box list. Copy for live-fish shipping days.",
-    "pdp-details": "Us vs Them comparison grid - use for 'our live-arrival guarantee vs local pet shop'."
-  },
-  "bloom": {
-    "pdp": "Round image swatches tagged NEW + Single/2/3 Pack chips + subscribe & save cards -> guppy strain swatches + Pair/Trio/Group of 6 chips."
-  },
-  "people4ocean": {
-    "product-card": "Sold Out / Coming Soon states inline with one-tap add - use for strains/batches that come and go."
-  },
-  "giordanos": {
-    "bundle-builder": "Bundle builder on an Impact-theme build (Electric Eye)."
-  },
-  "brooklinen": {
-    "bundle-builder": "Build-your-bundle with compare + review proof (desktop + mobile combined)."
-  },
-  "metabu": {
-    "hero": "Headless rebuild by Acqurio Tech; AI shade-finder quiz + try-on live on site."
-  },
-  "nasher-miles": {
-    "hero": "Single bold promise ('Every trip needs a co-pilot') + category tiles (Handbags/Sets/Backpacks/Accessories) above the banner on mobile so shoppers pick a lane in one tap. Guppy store: tiles for Guppy pairs / Trios / Starter kits / Food & care above a hero promising 'Live arrival guaranteed'.",
-    "header": "Compact mobile header with search, account and cart always visible plus a 'New' badge on the hot nav item. Use a 'New strain' badge on the nav link to your latest guppy drop.",
-    "product-card": "Cards with a % off flag and clean cut-out images on white; 'New Arrivals / Best Sellers' toggle above the grid. For fish: 'Best sellers' vs 'New strains' toggle, and a 'Pair'/'Trio' flag on each card.",
-    "pdp": "Dimensions diagram as the 2nd image, colour swatches, big orange ADD TO CART and a 4-icon trust strip (free shipping, quality-tested, hassle-free returns, support). For guppies: 2nd image = adult size/colour diagram (male vs female), trust strip = Live-arrival guarantee / Insulated packing / Ships Mon-Wed / WhatsApp support.",
-    "pdp-details": "Annotated lifestyle images (callouts like 'Water resistant', 'Easy grab handles') explain features without walls of text. Annotate a tank photo: 'tail type', 'adult size 3-4 cm', 'temp 24-28°C', 'community-safe'.",
-    "sticky-atc": "Sticky bottom bar shows Total + MRP strike + '72% off' chip + '7-day returns, no questions asked' right next to ADD TO CART - the risk reversal sits at the moment of decision. Put 'DOA? Free replacement - photo within 2 hrs' in the same spot.",
-    "footer": "Newsletter footer 'Check out of Reality' with one email field. For a fish store: 'Get new-strain drops & shipping-day alerts' signup."
-  },
-  "juicy-chemistry": {
-    "bundle-builder": "'Complete Your Routine' 3-step bundle on the PDP: numbered steps (Exfoliate > Moisturise > Protect), each pre-'ADDED' with its own rating, per-item savings and one ADD TO CART with the total. Lifts AOV because the routine framing makes the add-ons feel necessary. Guppy store: 'Complete your setup' = 1 Acclimate (water conditioner) > 2 Feed (guppy food) > 3 Thrive (guppy trio), pre-ticked, one button with the bundle total.",
-    "pdp": "Image-led PDP with certification badges (Ecocert, in-vivo tested) and quantified claims on the first image; size chips with price and % off in each chip. For fish: put 'Live arrival guaranteed' + 'Bred in India, quarantined 14 days' badges on the first photo and pair/trio chips with per-fish price.",
-    "pdp-details": "Ratings count + clinical claim + size selector + qty stepper above ADD TO CART, with 'Pairs well with' cross-sells below. Use 'Pairs well with' for food, breeder box and plants under each strain.",
-    "hero": "Promo/collab hero with a coupon code in the banner and a persistent offer announcement bar (Buy 3 for 999). Use the bar for the shipping cut-off: 'Order by 12 pm Mon-Wed - ships same day'.",
-    "header": "Red offer bar + centered logo + mega nav by concern ('Shop by concern', 'Curated rituals'). Fish equivalent: shop by tank size / beginner-friendly / strain.",
-    "product-card": "Bestseller cards with 'Save x%' flags, star ratings and review counts visible on mobile. Show ratings + 'Live arrival guaranteed' microcopy on each guppy card.",
-    "reviews": "Rating histogram, 'Write a review / Ask a question' buttons and an AI 'Customers say' summary on top of 10k+ reviews. A summary like 'Customers say: fish arrived healthy, colours as shown' is strong social proof for live animals."
-  },
-  "eternal-blue": {
-    "hero": "Full-bleed editorial portrait with one line ('Time-tested botanical knowledge adapted for modern haircare') and a single 'Explore' link - calm, premium, no clutter. For guppies: full-bleed macro shot of a tail in a blue tank with one line about your breeding story.",
-    "header": "Minimal transparent header (logo, Cart count, Menu) that floats over imagery. Good for a premium strain-focused store where the fish photos sell.",
-    "pdp": "Product on a sky-blue backdrop, short benefit copy, 'free-from' chips (Sulphate-free, Phthalate-free...) and one full-width Add to Cart with the price in the button. Swap chips for 'Tank-bred / Quarantined / Medication-free'.",
-    "pdp-details": "Independent results stat ('87.5% of participants rated the products effective') right under the CTA, then expandable Ingredients with a photo per ingredient. For fish: a stat like '98% arrive alive (last 500 orders)' under the button, then expandable Care sheet (temp, pH, diet, tank mates).",
-    "reviews": "Clean review wall with photo UGC and a 'Rated 5.0 stars' header + Leave a review button. Ask buyers for unboxing/tank photos - live fish UGC is the strongest proof of healthy arrival."
-  },
-  "snitch": {
-    "pdp": "Headless Shopify PDP: model image gallery, colour thumbnails as images, size buttons, black ADD + bag/wishlist/share icons. Use image swatches for each guppy strain variant (male/female/pair).",
-    "pdp-details": "Offer chip ('Enjoy 10% off on next order above 5990'), size guide, 'FREE 1-2 day delivery on 5k+ pincodes' and a pincode CHECK for delivery date before ADD. For live fish, a pincode checker that says 'Ships Mon, arrives Wed - live-arrival covered' removes the biggest worry.",
-    "sticky-atc": "Mobile sticky black ADD bar stays at the bottom even inside 'You may also like' - add-to-cart is never more than a thumb away."
-  },
-  "mokobara": {
-    "pdp": "Colors / Compare tabs on the swatches, an EMI offer strip, Pay in full vs Pay in 4 pricing, and a delivery date plus pincode check right above ADD TO CART.",
-    "sticky-atc": "Sticky full-width ADD TO CART bar on mobile, with delivery date kept visible."
-  },
-  "minimalist": {
-    "cart-drawer": "Tiered reward progress bar in the cart drawer (Extra 5% off at ₹599, 10% at ₹899, then a free gift), coupon field, offer list and GoKwik checkout. Copy it as: free heat pack at ₹X, free food at ₹Y."
-  },
-  "whole-truth": {
-    "pdp": "'Select pack size' cards (Box of 6 / 12) with a per-unit price and savings tag, then a pincode delivery check. Pair / Trio / Group cards would work the same way.",
-    "pdp-details": "Full ingredient list as a % table: radical transparency."
-  },
-  "subko": {
-    "pdp-details": "'Flavour Meter' table rating each attribute on a scale, plus 'Best Brewed With' icons. Turn it into a care meter (temperament, difficulty, tank size) per strain.",
-    "sticky-atc": "'Flavour Meter' table rating each attribute on a scale, plus 'Best Brewed With' icons. Turn it into a care meter (temperament, difficulty, tank size) per strain."
-  },
-  "blue-tokai": {
-    "variant-selector": "Grind selector chips (French Press, Aeropress…) with roast info.",
-    "pdp": "Grind + pack options, an AI coffee-assistant bubble and a pincode check."
-  },
-  "sleepy-owl": {
-    "variant-selector": "Round image swatches for brew method / grind.",
-    "cart-drawer": "Cart drawer with mug upsell carousel and a coupon nudge."
-  },
-  "koparo": {
-    "product-card": "Large 'Save NN%' callouts on every card.",
-    "variant-selector": "Size chips (1L / 3L / 5L) with savings on the larger refills."
-  },
-  "bare-necessities": {
-    "pdp": "Starter pack vs refill pack architecture, with a 'how to refill your forever case' accordion."
-  },
-  "bummer": {
-    "variant-selector": "Colour swatches plus a size chart link, in loud Gen-Z colours."
-  },
-  "supertails": {
-    "hero": "Indian pet-care store built by Dynamic Dreamz: the closest reference for a fish/pet shop."
-  },
-  "huft": {
-    "pdp": "Pack-of-1/5/7 tier cards with unit price + % off, flavor swatches, Human-Grade trust pills, coupon box and pincode delivery. Copy for guppy pack sizes + live-arrival guarantee + shipping check.",
-    "pdp-details": "Benefit/ingredient storytelling below buy box — use for care sheet / water-param trust on live fish.",
-    "sticky-atc": "Mobile sticky ATC with Watch & Buy video — keep fish unboxing or arrival clips near ATC.",
-    "product-card": "Pet category cards with ratings and offer badges.",
-    "reviews": "Dense review block with photos — social proof for live-arrival claims."
-  },
-  "nykd": {
-    "pdp": "Colour swatches + dual ATC / Buy Now. Size-gated ATC is the caution; Bra Advisor quiz (Seventh Triangle) is the standout education pattern for 'which fish for my tank'.",
-    "variant-selector": "Colour swatches with clear selected state.",
-    "sticky-atc": "Mobile sticky buy bar."
-  },
-  "arata": {
-    "pdp": "Pack of 1/2/3 cards with MOST POPULAR + FREE gift + SAVE + ALMOST GONE scarcity. Direct template for fish multi-packs / starter kits.",
-    "product-card": "Bestsellers filters + category tiles on homepage.",
-    "sticky-atc": "Mobile sticky ATC."
-  },
-  "ranavat": {
-    "cart-drawer": "Free-shipping/gift progress bar + Complete Your Ritual checkbox upsells + gift note. Copy for aquarium starter-kit AOV and free-shipping thresholds.",
-    "pdp": "Size toggles, Subscribe & Save, Shop Pay, UGC strip under buy box.",
-    "variant-selector": "Clean size chips.",
-    "sticky-atc": "Mobile sticky ATC."
-  },
-  "renee": {
-    "cart-drawer": "Reward-tier progress bar (free shipping, gifts, % off) pulls order value up; mirror with free live-arrival shipping tiers for fish packs."
-  },
-  "katkare": {
-    "hero": "Vet-led trust hero (Doc Polly) + free-shipping announcement. Mirror with aquarist/expert endorsement for live-fish arrivals.",
-    "product-card": "Rounded cards with star ratings + unit price (€/L) under pack price — copy for guppy pack cards (₹/fish or ₹/pair).",
-    "pdp": "Health-indicator litter PDP: benefit bullets with icons, unit pricing, multi-pack chips with % off. Strong template for fish pack tiers and live-arrival trust copy.",
-    "variant-selector": "Pack quantity chips (1–4) with discount badges; subscription vs one-time delivery toggle nearby.",
-    "cart-drawer": "Post-ATC confirm modal with subscription cadence ('Lieferung alle 4 Wochen') + checkout CTA. Recurring-delivery pattern for fish food/care add-ons.",
-    "sticky-atc": "Mobile sticky ATC on pet PDP.",
-    "reviews": "Review strip under buy box builds pet-care trust."
-  },
-  "alpine-apothecary": {
-    "hero": "Calm cream/seriffed wellness brand; pain-point headline cards.",
-    "product-card": "Two large story cards with question headlines ('Can't sleep?'), star ratings, price, full-width CTA — good for curated fish collections with benefit-first copy.",
-    "pdp": "Trust-led PDP: benefit pills, inline testimonial, clinical social-proof bar, pack options with ₹/night unit pricing. Calm storytelling for premium fish lines.",
-    "variant-selector": "Starter vs Reset pack cards with per-unit breakdown.",
-    "cart-drawer": "Clean cream cart drawer with qty stepper and WhatsApp/email help link — low-friction assist before checkout.",
-    "sticky-atc": "Mobile sticky bar with price + ATC."
-  },
-  "rare-rabbit": {
-    "hero": "Premium fashion hero; study for high-end photography + minimal chrome.",
-    "product-card": "Dense fashion grid with hover/quick actions; useful for pack/colour browsing patterns.",
-    "pdp": "2×2 image grid + sticky buy column, colour swatches, size chips with Notify Me on OOS, PIN delivery check. Size/colour UX transferable to fish colour morph / pack selection.",
-    "variant-selector": "Fabric swatches + size boxes with clear OOS strike-through and Notify Me.",
-    "sticky-atc": "Mobile sticky ATC on fashion PDP."
-  },
-  "itokri": {
-    "hero": "Artisan marketplace hero; origin/craft storytelling.",
-    "header": "Dense double-row category nav + 'Search 100,000+' — category IA ideas for fish species/collections.",
-    "product-card": "Story-led cards with craft labels and per-metre unit pricing; adapt for curated fish collections and origin tags.",
-    "pdp": "Craft badges, scarcity meter ('Only X available'), length selector, free-shipping cue — scarcity + unit measure patterns for limited guppy drops.",
-    "cart-drawer": "Free-shipping progress bar, Trustpilot badge, gift-wrap upsell, secure-payment strip. Strong AOV levers for fish packs + free live-arrival shipping thresholds.",
-    "reviews": "Excellent 4.7 / 14k reviews carousel with Verified Customer — social proof for live-arrival guarantees.",
-    "sticky-atc": "Mobile sticky ATC."
-  },
-  "sri-sri-tattva": {
-    "hero": "Offer-led festive banner carousel ('Flat 10% off', '₹100 off on entire range') above category tiles. For a guppy store: rotate a seasonal offer banner (e.g. breeding-pair deal) directly above species tiles.",
-    "category-tiles": "Big pastel category tiles with product photography (Ghee, Oral Care, Juices…). Map to fish categories: Guppies, Bettas, Shrimp, Plants, Food, Equipment.",
-    "product-card": "Dense cards: star rating + review count, size line (500 ml / 1 L), MRP strike-through, % OFF corner badge, 'Sold Out' pill and a one-tap ADD button. Copy for fish cards: '(4.8) 120 reviews', 'Pair / Trio / 5 pcs', ₹ strike price, ADD.",
-    "delivery-check": "Pincode serviceability prompt on the homepage ('Enter Delivery Pincode → Check serviceability'). Critical for live fish: check pincode first, then show live-arrival delivery ETA / whether overnight courier serves the area.",
-    "pdp": "Clean PDP: rating + review count under title, MRP 'Inclusive of all taxes', qty stepper + full-width ADD TO CART pinned at bottom on mobile.",
-    "pdp-details": "Four trust icons under price (Free delivery above ₹999, customer support hours, quality testing, secure payment). Swap in: live-arrival guarantee, expert support hours, quarantined stock, secure payment.",
-    "reviews": "Rating summary (4.8, 95 reviews) with Write-a-review, filter/sort icons and 'Verified' badges on each review.",
-    "sticky-atc": "Mobile sticky qty + ADD TO CART bar sitting above the app-style bottom nav, with 'Similar Products' carousel cards that each have their own ADD.",
-    "header": "App-download strip ('Order faster with our app') + prominent search with rotating placeholder ('Search for Honey').",
-    "footer": "Navy footer with policies (shipping, cancellation), social links and app-store badges."
-  },
-  "eleven-eleven": {
-    "hero": "Full-bleed editorial video/image hero ('The Guest List') with a short story paragraph and MEN / WOMEN text links. Calm, premium storytelling — for fish, a slow aquarium video hero with one line of story.",
-    "header": "Rotating announcement bar ('Autumn Winter 2026: now live') + centered logo, minimal nav.",
-    "product-card": "Minimal image-first product grid with lots of whitespace — lets photography carry the sale. Works for high-quality guppy strain photos.",
-    "pdp": "Image-led PDP with thumbnail rail; price 'MRP incl. of all taxes', size dropdown + View Size Guide, ADD TO CART plus 'MEET THE MAKERS'.",
-    "pdp-details": "Provenance copy under the buy box: 'Meticulously crafted by 7 artisans in 9.17 hours'. Equivalent for fish: 'Bred in-house by X over Y weeks, quarantined 14 days' — concrete numbers build trust.",
-    "variant-selector": "Simple size dropdown with View Size Guide link right above it — for fish, a 'Pair / Trio / Group' selector with a 'sexing & sizing guide' link.",
-    "sticky-atc": "Full-width black sticky ADD TO CART on mobile; accordions for Wash care, Shipment & delivery, Returns & exchange — mirror with Acclimatisation, Live-arrival shipping, DOA policy.",
-    "cart-drawer": "Clean side cart with qty stepper, order note, 'Taxes and shipping calculated at checkout' and a one-tap BUY NOW (express checkout with UPI badges)."
-  },
-  "nish-hair": {
-    "hero": "Campaign hero carousel with a collab line (Evil Eye x Nish Hair) and single SHOP NOW; floating WhatsApp/call button and INR currency switcher.",
-    "header": "Centered logo, mega nav (Shop Categories, Shop For Men, Jewellery, Bridal), cart count.",
-    "product-card": "Lifestyle-photo cards with ADD TO CART on the image and teal price — quick add without opening the PDP.",
-    "pdp": "Considered-purchase PDP: model photo grid, star rating with review count, 'Pay later / ₹537 per month' EMI box.",
-    "pdp-details": "Buy box stacks qty + Add to cart, 'REQUEST A VIDEO CALL' and Razorpay Buy Now; no-return note for discounted items. For fish: a 'Request a live video of your fish' button is a strong trust lever for high-value strains.",
-    "reviews": "Rating breakdown bars (4.8 from 48 reviews) + customer photo reviews grid with Write-a-review — photo UGC of fish in customers' tanks would do the same.",
-    "sticky-atc": "Mobile sticky product bar with thumbnail, name, price and + button, plus 'Explore the world of Hair' quick-add carousel."
-  },
-  "neater-pets": {
-    "hero": "Problem-solution hero ('Neater Feeder — food stays on top, water flows to bottom') with inset product-feature circle and free-shipping-over-$40 announcement bar.",
-    "header": "Free-shipping threshold bar, search with rotating product placeholder, emoji pet nav (Dogs 🐶, Cats 🐱) — try 'Guppies 🐟, Shrimp 🦐, Plants 🌿'.",
-    "product-card": "Collection cards with star rating + big review counts (590, 1006), colour swatch dots with '+3', 'From $29.99' pricing and 'Up to 27% off / New arrival' badges.",
-    "pdp": "Pet PDP with strike price, Shop Pay instalments line, colour swatches and Package Count chips (1/2/3).",
-    "pdp-details": "Feature bullets + accordions (How to use, Cleaning instructions, Country of origin) beside a compact buy box.",
-    "variant-selector": "Image colour swatches + Package Count pill chips — reuse as Strain swatches + Pair/Trio/5-pack chips.",
-    "sticky-atc": "'You may also like' card with inline size dropdown and its own ADD TO CART — cross-sell without leaving the PDP (fish food / heater add-on).",
-    "cart-drawer": "Cart drawer with free-shipping progress bar ('Spend $27.01 more for free shipping!'), CHECKOUT total button and Shop Pay / PayPal / GPay express buttons. Ideal pattern for raising AOV on fish orders."
-  }
+ "collider": {
+  "pdp": "Delivery cut-off ('Order within X to get delivery by Tuesday') + what's-in-the-box list. Copy for live-fish shipping days.",
+  "pdp-details": "Us vs Them comparison grid - use for 'our live-arrival guarantee vs local pet shop'."
+ },
+ "bloom": {
+  "pdp": "Round image swatches tagged NEW + Single/2/3 Pack chips + subscribe & save cards -> guppy strain swatches + Pair/Trio/Group of 6 chips."
+ },
+ "people4ocean": {
+  "product-card": "Sold Out / Coming Soon states inline with one-tap add - use for strains/batches that come and go."
+ },
+ "giordanos": {
+  "bundle-builder": "Bundle builder on an Impact-theme build (Electric Eye)."
+ },
+ "brooklinen": {
+  "bundle-builder": "Build-your-bundle with compare + review proof (desktop + mobile combined)."
+ },
+ "metabu": {
+  "hero": "Headless rebuild by Acqurio Tech; AI shade-finder quiz + try-on live on site."
+ },
+ "nasher-miles": {
+  "hero": "Single bold promise ('Every trip needs a co-pilot') + category tiles (Handbags/Sets/Backpacks/Accessories) above the banner on mobile so shoppers pick a lane in one tap. Guppy store: tiles for Guppy pairs / Trios / Starter kits / Food & care above a hero promising 'Live arrival guaranteed'.",
+  "header": "Compact mobile header with search, account and cart always visible plus a 'New' badge on the hot nav item. Use a 'New strain' badge on the nav link to your latest guppy drop.",
+  "product-card": "Cards with a % off flag and clean cut-out images on white; 'New Arrivals / Best Sellers' toggle above the grid. For fish: 'Best sellers' vs 'New strains' toggle, and a 'Pair'/'Trio' flag on each card.",
+  "pdp": "Dimensions diagram as the 2nd image, colour swatches, big orange ADD TO CART and a 4-icon trust strip (free shipping, quality-tested, hassle-free returns, support). For guppies: 2nd image = adult size/colour diagram (male vs female), trust strip = Live-arrival guarantee / Insulated packing / Ships Mon-Wed / WhatsApp support.",
+  "pdp-details": "Annotated lifestyle images (callouts like 'Water resistant', 'Easy grab handles') explain features without walls of text. Annotate a tank photo: 'tail type', 'adult size 3-4 cm', 'temp 24-28°C', 'community-safe'.",
+  "sticky-atc": "Sticky bottom bar shows Total + MRP strike + '72% off' chip + '7-day returns, no questions asked' right next to ADD TO CART - the risk reversal sits at the moment of decision. Put 'DOA? Free replacement - photo within 2 hrs' in the same spot.",
+  "footer": "Newsletter footer 'Check out of Reality' with one email field. For a fish store: 'Get new-strain drops & shipping-day alerts' signup."
+ },
+ "juicy-chemistry": {
+  "bundle-builder": "'Complete Your Routine' 3-step bundle on the PDP: numbered steps (Exfoliate > Moisturise > Protect), each pre-'ADDED' with its own rating, per-item savings and one ADD TO CART with the total. Lifts AOV because the routine framing makes the add-ons feel necessary. Guppy store: 'Complete your setup' = 1 Acclimate (water conditioner) > 2 Feed (guppy food) > 3 Thrive (guppy trio), pre-ticked, one button with the bundle total.",
+  "pdp": "Image-led PDP with certification badges (Ecocert, in-vivo tested) and quantified claims on the first image; size chips with price and % off in each chip. For fish: put 'Live arrival guaranteed' + 'Bred in India, quarantined 14 days' badges on the first photo and pair/trio chips with per-fish price.",
+  "pdp-details": "Ratings count + clinical claim + size selector + qty stepper above ADD TO CART, with 'Pairs well with' cross-sells below. Use 'Pairs well with' for food, breeder box and plants under each strain.",
+  "hero": "Promo/collab hero with a coupon code in the banner and a persistent offer announcement bar (Buy 3 for 999). Use the bar for the shipping cut-off: 'Order by 12 pm Mon-Wed - ships same day'.",
+  "header": "Red offer bar + centered logo + mega nav by concern ('Shop by concern', 'Curated rituals'). Fish equivalent: shop by tank size / beginner-friendly / strain.",
+  "product-card": "Bestseller cards with 'Save x%' flags, star ratings and review counts visible on mobile. Show ratings + 'Live arrival guaranteed' microcopy on each guppy card.",
+  "reviews": "Rating histogram, 'Write a review / Ask a question' buttons and an AI 'Customers say' summary on top of 10k+ reviews. A summary like 'Customers say: fish arrived healthy, colours as shown' is strong social proof for live animals."
+ },
+ "eternal-blue": {
+  "hero": "Full-bleed editorial portrait with one line ('Time-tested botanical knowledge adapted for modern haircare') and a single 'Explore' link - calm, premium, no clutter. For guppies: full-bleed macro shot of a tail in a blue tank with one line about your breeding story.",
+  "header": "Minimal transparent header (logo, Cart count, Menu) that floats over imagery. Good for a premium strain-focused store where the fish photos sell.",
+  "pdp": "Product on a sky-blue backdrop, short benefit copy, 'free-from' chips (Sulphate-free, Phthalate-free...) and one full-width Add to Cart with the price in the button. Swap chips for 'Tank-bred / Quarantined / Medication-free'.",
+  "pdp-details": "Independent results stat ('87.5% of participants rated the products effective') right under the CTA, then expandable Ingredients with a photo per ingredient. For fish: a stat like '98% arrive alive (last 500 orders)' under the button, then expandable Care sheet (temp, pH, diet, tank mates).",
+  "reviews": "Clean review wall with photo UGC and a 'Rated 5.0 stars' header + Leave a review button. Ask buyers for unboxing/tank photos - live fish UGC is the strongest proof of healthy arrival."
+ },
+ "snitch": {
+  "pdp": "Headless Shopify PDP: model image gallery, colour thumbnails as images, size buttons, black ADD + bag/wishlist/share icons. Use image swatches for each guppy strain variant (male/female/pair).",
+  "pdp-details": "Offer chip ('Enjoy 10% off on next order above 5990'), size guide, 'FREE 1-2 day delivery on 5k+ pincodes' and a pincode CHECK for delivery date before ADD. For live fish, a pincode checker that says 'Ships Mon, arrives Wed - live-arrival covered' removes the biggest worry.",
+  "sticky-atc": "Mobile sticky black ADD bar stays at the bottom even inside 'You may also like' - add-to-cart is never more than a thumb away."
+ },
+ "mokobara": {
+  "pdp": "Colors / Compare tabs on the swatches, an EMI offer strip, Pay in full vs Pay in 4 pricing, and a delivery date plus pincode check right above ADD TO CART.",
+  "sticky-atc": "Sticky full-width ADD TO CART bar on mobile, with delivery date kept visible."
+ },
+ "minimalist": {
+  "cart-drawer": "Tiered reward progress bar in the cart drawer (Extra 5% off at ₹599, 10% at ₹899, then a free gift), coupon field, offer list and GoKwik checkout. Copy it as: free heat pack at ₹X, free food at ₹Y."
+ },
+ "whole-truth": {
+  "pdp": "'Select pack size' cards (Box of 6 / 12) with a per-unit price and savings tag, then a pincode delivery check. Pair / Trio / Group cards would work the same way.",
+  "pdp-details": "Full ingredient list as a % table: radical transparency."
+ },
+ "subko": {
+  "pdp-details": "'Flavour Meter' table rating each attribute on a scale, plus 'Best Brewed With' icons. Turn it into a care meter (temperament, difficulty, tank size) per strain.",
+  "sticky-atc": "'Flavour Meter' table rating each attribute on a scale, plus 'Best Brewed With' icons. Turn it into a care meter (temperament, difficulty, tank size) per strain."
+ },
+ "blue-tokai": {
+  "variant-selector": "Grind selector chips (French Press, Aeropress…) with roast info.",
+  "pdp": "Grind + pack options, an AI coffee-assistant bubble and a pincode check."
+ },
+ "sleepy-owl": {
+  "variant-selector": "Round image swatches for brew method / grind.",
+  "cart-drawer": "Cart drawer with mug upsell carousel and a coupon nudge."
+ },
+ "koparo": {
+  "product-card": "Large 'Save NN%' callouts on every card.",
+  "variant-selector": "Size chips (1L / 3L / 5L) with savings on the larger refills."
+ },
+ "bare-necessities": {
+  "pdp": "Starter pack vs refill pack architecture, with a 'how to refill your forever case' accordion."
+ },
+ "bummer": {
+  "variant-selector": "Colour swatches plus a size chart link, in loud Gen-Z colours."
+ },
+ "supertails": {
+  "hero": "Indian pet-care store built by Dynamic Dreamz: the closest reference for a fish/pet shop."
+ },
+ "huft": {
+  "pdp": "Pack-of-1/5/7 tier cards with unit price + % off, flavor swatches, Human-Grade trust pills, coupon box and pincode delivery. Copy for guppy pack sizes + live-arrival guarantee + shipping check.",
+  "pdp-details": "Benefit/ingredient storytelling below buy box — use for care sheet / water-param trust on live fish.",
+  "sticky-atc": "Mobile sticky ATC with Watch & Buy video — keep fish unboxing or arrival clips near ATC.",
+  "product-card": "Pet category cards with ratings and offer badges.",
+  "reviews": "Dense review block with photos — social proof for live-arrival claims."
+ },
+ "nykd": {
+  "pdp": "Colour swatches + dual ATC / Buy Now. Size-gated ATC is the caution; Bra Advisor quiz (Seventh Triangle) is the standout education pattern for 'which fish for my tank'.",
+  "variant-selector": "Colour swatches with clear selected state.",
+  "sticky-atc": "Mobile sticky buy bar."
+ },
+ "arata": {
+  "pdp": "Pack of 1/2/3 cards with MOST POPULAR + FREE gift + SAVE + ALMOST GONE scarcity. Direct template for fish multi-packs / starter kits.",
+  "product-card": "Bestsellers filters + category tiles on homepage.",
+  "sticky-atc": "Mobile sticky ATC."
+ },
+ "ranavat": {
+  "cart-drawer": "Free-shipping/gift progress bar + Complete Your Ritual checkbox upsells + gift note. Copy for aquarium starter-kit AOV and free-shipping thresholds.",
+  "pdp": "Size toggles, Subscribe & Save, Shop Pay, UGC strip under buy box.",
+  "variant-selector": "Clean size chips.",
+  "sticky-atc": "Mobile sticky ATC."
+ },
+ "renee": {
+  "cart-drawer": "Reward-tier progress bar (free shipping, gifts, % off) pulls order value up; mirror with free live-arrival shipping tiers for fish packs."
+ },
+ "katkare": {
+  "hero": "Vet-led trust hero (Doc Polly) + free-shipping announcement. Mirror with aquarist/expert endorsement for live-fish arrivals.",
+  "product-card": "Rounded cards with star ratings + unit price (€/L) under pack price — copy for guppy pack cards (₹/fish or ₹/pair).",
+  "pdp": "Health-indicator litter PDP: benefit bullets with icons, unit pricing, multi-pack chips with % off. Strong template for fish pack tiers and live-arrival trust copy.",
+  "variant-selector": "Pack quantity chips (1–4) with discount badges; subscription vs one-time delivery toggle nearby.",
+  "cart-drawer": "Post-ATC confirm modal with subscription cadence ('Lieferung alle 4 Wochen') + checkout CTA. Recurring-delivery pattern for fish food/care add-ons.",
+  "sticky-atc": "Mobile sticky ATC on pet PDP.",
+  "reviews": "Review strip under buy box builds pet-care trust."
+ },
+ "alpine-apothecary": {
+  "hero": "Calm cream/seriffed wellness brand; pain-point headline cards.",
+  "product-card": "Two large story cards with question headlines ('Can't sleep?'), star ratings, price, full-width CTA — good for curated fish collections with benefit-first copy.",
+  "pdp": "Trust-led PDP: benefit pills, inline testimonial, clinical social-proof bar, pack options with ₹/night unit pricing. Calm storytelling for premium fish lines.",
+  "variant-selector": "Starter vs Reset pack cards with per-unit breakdown.",
+  "cart-drawer": "Clean cream cart drawer with qty stepper and WhatsApp/email help link — low-friction assist before checkout.",
+  "sticky-atc": "Mobile sticky bar with price + ATC."
+ },
+ "rare-rabbit": {
+  "hero": "Premium fashion hero; study for high-end photography + minimal chrome.",
+  "product-card": "Dense fashion grid with hover/quick actions; useful for pack/colour browsing patterns.",
+  "pdp": "2×2 image grid + sticky buy column, colour swatches, size chips with Notify Me on OOS, PIN delivery check. Size/colour UX transferable to fish colour morph / pack selection.",
+  "variant-selector": "Fabric swatches + size boxes with clear OOS strike-through and Notify Me.",
+  "sticky-atc": "Mobile sticky ATC on fashion PDP."
+ },
+ "itokri": {
+  "hero": "Artisan marketplace hero; origin/craft storytelling.",
+  "header": "Dense double-row category nav + 'Search 100,000+' — category IA ideas for fish species/collections.",
+  "product-card": "Story-led cards with craft labels and per-metre unit pricing; adapt for curated fish collections and origin tags.",
+  "pdp": "Craft badges, scarcity meter ('Only X available'), length selector, free-shipping cue — scarcity + unit measure patterns for limited guppy drops.",
+  "cart-drawer": "Free-shipping progress bar, Trustpilot badge, gift-wrap upsell, secure-payment strip. Strong AOV levers for fish packs + free live-arrival shipping thresholds.",
+  "reviews": "Excellent 4.7 / 14k reviews carousel with Verified Customer — social proof for live-arrival guarantees.",
+  "sticky-atc": "Mobile sticky ATC."
+ },
+ "sri-sri-tattva": {
+  "hero": "Offer-led festive banner carousel ('Flat 10% off', '₹100 off on entire range') above category tiles. For a guppy store: rotate a seasonal offer banner (e.g. breeding-pair deal) directly above species tiles.",
+  "category-tiles": "Big pastel category tiles with product photography (Ghee, Oral Care, Juices…). Map to fish categories: Guppies, Bettas, Shrimp, Plants, Food, Equipment.",
+  "product-card": "Dense cards: star rating + review count, size line (500 ml / 1 L), MRP strike-through, % OFF corner badge, 'Sold Out' pill and a one-tap ADD button. Copy for fish cards: '(4.8) 120 reviews', 'Pair / Trio / 5 pcs', ₹ strike price, ADD.",
+  "delivery-check": "Pincode serviceability prompt on the homepage ('Enter Delivery Pincode → Check serviceability'). Critical for live fish: check pincode first, then show live-arrival delivery ETA / whether overnight courier serves the area.",
+  "pdp": "Clean PDP: rating + review count under title, MRP 'Inclusive of all taxes', qty stepper + full-width ADD TO CART pinned at bottom on mobile.",
+  "pdp-details": "Four trust icons under price (Free delivery above ₹999, customer support hours, quality testing, secure payment). Swap in: live-arrival guarantee, expert support hours, quarantined stock, secure payment.",
+  "reviews": "Rating summary (4.8, 95 reviews) with Write-a-review, filter/sort icons and 'Verified' badges on each review.",
+  "sticky-atc": "Mobile sticky qty + ADD TO CART bar sitting above the app-style bottom nav, with 'Similar Products' carousel cards that each have their own ADD.",
+  "header": "App-download strip ('Order faster with our app') + prominent search with rotating placeholder ('Search for Honey').",
+  "footer": "Navy footer with policies (shipping, cancellation), social links and app-store badges."
+ },
+ "eleven-eleven": {
+  "hero": "Full-bleed editorial video/image hero ('The Guest List') with a short story paragraph and MEN / WOMEN text links. Calm, premium storytelling — for fish, a slow aquarium video hero with one line of story.",
+  "header": "Rotating announcement bar ('Autumn Winter 2026: now live') + centered logo, minimal nav.",
+  "product-card": "Minimal image-first product grid with lots of whitespace — lets photography carry the sale. Works for high-quality guppy strain photos.",
+  "pdp": "Image-led PDP with thumbnail rail; price 'MRP incl. of all taxes', size dropdown + View Size Guide, ADD TO CART plus 'MEET THE MAKERS'.",
+  "pdp-details": "Provenance copy under the buy box: 'Meticulously crafted by 7 artisans in 9.17 hours'. Equivalent for fish: 'Bred in-house by X over Y weeks, quarantined 14 days' — concrete numbers build trust.",
+  "variant-selector": "Simple size dropdown with View Size Guide link right above it — for fish, a 'Pair / Trio / Group' selector with a 'sexing & sizing guide' link.",
+  "sticky-atc": "Full-width black sticky ADD TO CART on mobile; accordions for Wash care, Shipment & delivery, Returns & exchange — mirror with Acclimatisation, Live-arrival shipping, DOA policy.",
+  "cart-drawer": "Clean side cart with qty stepper, order note, 'Taxes and shipping calculated at checkout' and a one-tap BUY NOW (express checkout with UPI badges)."
+ },
+ "nish-hair": {
+  "hero": "Campaign hero carousel with a collab line (Evil Eye x Nish Hair) and single SHOP NOW; floating WhatsApp/call button and INR currency switcher.",
+  "header": "Centered logo, mega nav (Shop Categories, Shop For Men, Jewellery, Bridal), cart count.",
+  "product-card": "Lifestyle-photo cards with ADD TO CART on the image and teal price — quick add without opening the PDP.",
+  "pdp": "Considered-purchase PDP: model photo grid, star rating with review count, 'Pay later / ₹537 per month' EMI box.",
+  "pdp-details": "Buy box stacks qty + Add to cart, 'REQUEST A VIDEO CALL' and Razorpay Buy Now; no-return note for discounted items. For fish: a 'Request a live video of your fish' button is a strong trust lever for high-value strains.",
+  "reviews": "Rating breakdown bars (4.8 from 48 reviews) + customer photo reviews grid with Write-a-review — photo UGC of fish in customers' tanks would do the same.",
+  "sticky-atc": "Mobile sticky product bar with thumbnail, name, price and + button, plus 'Explore the world of Hair' quick-add carousel."
+ },
+ "neater-pets": {
+  "hero": "Problem-solution hero ('Neater Feeder — food stays on top, water flows to bottom') with inset product-feature circle and free-shipping-over-$40 announcement bar.",
+  "header": "Free-shipping threshold bar, search with rotating product placeholder, emoji pet nav (Dogs 🐶, Cats 🐱) — try 'Guppies 🐟, Shrimp 🦐, Plants 🌿'.",
+  "product-card": "Collection cards with star rating + big review counts (590, 1006), colour swatch dots with '+3', 'From $29.99' pricing and 'Up to 27% off / New arrival' badges.",
+  "pdp": "Pet PDP with strike price, Shop Pay instalments line, colour swatches and Package Count chips (1/2/3).",
+  "pdp-details": "Feature bullets + accordions (How to use, Cleaning instructions, Country of origin) beside a compact buy box.",
+  "variant-selector": "Image colour swatches + Package Count pill chips — reuse as Strain swatches + Pair/Trio/5-pack chips.",
+  "sticky-atc": "'You may also like' card with inline size dropdown and its own ADD TO CART — cross-sell without leaving the PDP (fish food / heater add-on).",
+  "cart-drawer": "Cart drawer with free-shipping progress bar ('Spend $27.01 more for free shipping!'), CHECKOUT total button and Shop Pay / PayPal / GPay express buttons. Ideal pattern for raising AOV on fish orders."
+ },
+ "royce-india": {
+  "hero": "Mobile hero leads with city launch + 'Same-day delivery now available' and round category circles (Diwali Hampers, Nama, Wafers…). For guppies: 'Same-day delivery in Bengaluru' / 'Live-arrival guarantee' as the hero line, with strain circles (Endler, Moscow, Koi, Dumbo Ear).",
+  "header": "Clean logo-centred mobile header + app-style bottom tab bar (Home, Gifting, Menu, Favourite, WhatsApp) — a WhatsApp tab is ideal for 'ask before you buy live fish' questions.",
+  "product-card": "Large photo cards with name, price and a full-width Add to cart on every card — one-tap add for fish food, pairs and starter kits from the collection grid.",
+  "pdp": "Perishable PDP: veg mark, price incl. taxes, stacked Add to cart + Buy Now (express) buttons. Copy the dual-CTA for guppy pairs so impulse buyers skip the cart.",
+  "pdp-details": "Spec list (net quantity, pieces, weight, shelf life, box size) — reuse as Fish specs: sex/pair, size at dispatch, age, water parameters, packing (bag + oxygen + heat pack).",
+  "cross-sell": "'Similar Products' row with Add to cart under each card directly below the buy box — show 'Other strains' or 'Pairs well with: food, net, breeder box'.",
+  "sticky-atc": "Sticky Add to cart + Buy Now pinned on mobile even in the footer — keeps the CTA reachable on long fish-care PDPs.",
+  "cart-drawer": "Minimal drawer: qty stepper, subtotal, single 'Proceed' CTA and 'shipping, taxes and discounts at checkout' — low-friction; add a delivery-date line for live shipments."
+ },
+ "the-summerhouse": {
+  "hero": "Full-bleed editorial hero with a short poetic line ('Slow craft for fast nights') and one NEW CTA — a calm, premium look for a curated show-line guppy brand.",
+  "header": "Transparent header over the hero, spaced wordmark, wishlist + cart icons; desktop nav shows Collections, New, The Journal (care guides) — a 'Fish care journal' link builds trust.",
+  "product-card": "Minimal cards: big photo, name, price, no clutter — works for high-quality fish photography where the fish is the hero.",
+  "pdp": "Breadcrumb with Previous / Next product arrows, image gallery and a sticky name + price + ADD TO CART bar — Prev/Next lets buyers flip through strains quickly.",
+  "pdp-details": "Colour swatches, size chips with out-of-stock strike-through (M), 'Size guide' and 'Ask us on WhatsApp' next to the selector, then Description / Shipping & Returns / Size and fit accordions — mirror as Strain swatches, Pair/Trio chips with sold-out strike, 'Ask on WhatsApp' and Shipping & Live Arrival accordion.",
+  "variant-selector": "Round colour swatches + text size chips with crossed-out sold-out size — clear stock status per variant (e.g. sold-out female-only option).",
+  "sticky-atc": "'Complete The Look' carousel under the PDP while the name/price/ADD TO CART bar stays pinned — 'Complete your tank' (plants, food, heater) cross-sell."
+ },
+ "paw-labs": {
+  "hero": "Split hero with 'Trusted by pet parents' / 'The latest research, science backed' claims and a vet-themed dog image — trust-first opener; for fish use 'Bred in-house, quarantined 14 days'.",
+  "header": "Orange promo bar ('Veterans Day Sale: extra 15% off code TAKE15') + orange 'Shop Now' header button — high-contrast urgency banner for festival sales (Diwali, 11.11).",
+  "pdp": "Buy box with 1 / 3 / 5 Pack chips, 'Buy 2 Get 1 Free' burst on the pack shot, strike price and ingredient table — use pack chips for 1 pair / 3 pairs / colony with a 'Free male' burst.",
+  "pdp-details": "Mobile: ingredient table with dotted leaders, -33% off strike price and big rounded ADD TO CART, then 'as featured in' press band. Desktop: 'Why Wild Alaskan Salmon Oil is different?' long-form story — 'Why our guppies are different?' (bloodline, feeding, quarantine).",
+  "sticky-atc": "Long-form 'Our Vet Precision Formula' copy block with small floating 'Get 15% Off' tab instead of a blocking popup — capture emails without hiding the PDP.",
+  "cart-drawer": "Cart drawer with 'Subscribe & Save 15% OFF' toggle on the line item, Frequently Bought Together (one-tap Add), discount code field, subtotal with strike price, Checkout + View Cart. Strong AOV pattern: subscribe-and-save for fish food, FBT for heater / breeder box."
+ },
+ "my-pet-frame": {
+  "hero": "'Save 30% Today — Create stunning art of your cat' with a framed sample portrait and pink CTA on a paw-print blue background; free UK shipping bar on top.",
+  "header": "Two-tier mobile header: 'Free shipping within the UK' strip + bright sale bar ('Fatherday sales: 30% off and free shipping') above logo, account, search and cart.",
+  "pdp": "Personalised PDP with sale price + rating, big framed portrait mock-up and 'Examples in your drawing style' thumbnails under the image.",
+  "pdp-details": "Desktop: 'More info' accordions (Description, Photo tips, Shipping, FAQ) beside a 'How to order a pet frame' video — add a 'How we pack live fish' video next to Shipping/FAQ.",
+  "product-configurator": "5-step visual configurator: trust ticks (made in UK, 2-5 day shipping, artwork proof in 24h), step progress 1-5, image tiles for drawing style and number of pets, 'Next step' button. For guppies: a 'Build your tank' / 'Build your colony' wizard (strain → pairs → add plants & food).",
+  "reviews": "192-review photo wall with customer photos/videos, star ratings and 'Write a review' — encourage buyers to upload tank photos of arrived fish.",
+  "sticky-atc": "Photo tips / Shipping / FAQ accordions plus embedded 'How to order' YouTube video and 'How do we work?' numbered steps — process transparency for a made-to-order product."
+ }
 }
