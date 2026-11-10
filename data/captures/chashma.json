@@ -1,0 +1,18 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "mobile",
+  "desktop"
+ ],
+ "pdp-details": [
+  "mobile",
+  "desktop"
+ ],
+ "_pdp": "https://chashma.com/products/zoraverr",
+ "sticky-atc": [
+  "mobile"
+ ]
+}

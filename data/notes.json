@@ -219,5 +219,48 @@
   "product-configurator": "5-step visual configurator: trust ticks (made in UK, 2-5 day shipping, artwork proof in 24h), step progress 1-5, image tiles for drawing style and number of pets, 'Next step' button. For guppies: a 'Build your tank' / 'Build your colony' wizard (strain → pairs → add plants & food).",
   "reviews": "192-review photo wall with customer photos/videos, star ratings and 'Write a review' — encourage buyers to upload tank photos of arrived fish.",
   "sticky-atc": "Photo tips / Shipping / FAQ accordions plus embedded 'How to order' YouTube video and 'How do we work?' numbered steps — process transparency for a made-to-order product."
+ },
+ "bay-window": {
+  "hero": "Full-bleed editorial collection hero ('Ombré in motion — Ortus collection') with a single 'Visit now' CTA and a sticky 'Free consultation!' pill + WhatsApp. For guppies: one hero per strain drop ('Blue Moscow — new batch') with a 'Talk to a breeder' pill.",
+  "header": "Minimal luxury header: Furniture / Lighting / Decor / Inspirations / Sale plus a dark 'FREE CONSULTATION' tab and a store-locator pin icon next to search and cart.",
+  "pdp": "High-ticket PDP: big product photo carousel, price with strikethrough + % off, SKU, 'No cost EMI', 'Talk to our stylist', qty, 'Only 2 units left! Hurry up!', store availability and pincode delivery check before Add to cart.",
+  "variant-selector": "Mobile buy box: price | MRP + 23% off, 'No cost EMI starting from INR 21,817/month', 'Talk to our stylist' button, low-stock line in red and 'Store availability' — swap stylist for 'Ask a fish expert on WhatsApp' and show real tank stock ('Only 6 pairs left').",
+  "delivery-check": "Mobile: 'Check delivery time' pincode field sits right under Add to cart, followed by Key features / Material / Dimensions accordions — show live-fish ETA + 'safe to ship to your city this week' here.",
+  "cart-drawer": "Cart drawer with 'Share cart', 'Enter GST No.', 'Schedule dispatch for a later date' and terms checkbox above a full-width checkout button showing the total. Scheduled dispatch is gold for live fish: let buyers pick a ship date (avoid weekends, heat waves, or when they're travelling).",
+  "product-card": "Mobile bestseller cards with % off badge, name, price and a solid 'Add to cart' button directly on the card, followed by Google review cards.",
+  "reviews": "Google-review carousel (avatar, stars, verified tick, 'Leave a Review') — pull Google Business reviews of your fish farm/shop for instant credibility."
+ },
+ "shumee": {
+  "hero": "Festive sale hero ('Flat 25% off sitewide') with 'Joy worth gifting' sticker, directly followed by colourful 'Shop by age' pill buttons (0-1, 1-3, 3-6, 6+ years). For guppies: 'Shop by tank size' or 'Shop by experience (beginner / breeder)' pills.",
+  "header": "Orange announcement bar ('Festive sale — 25% off sitewide') + cream header with Shop by categories / Toys by age / Bestsellers / Gifting / New arrivals.",
+  "product-card": "Cards with 'On sale' ribbon, rating + review count, benefit line ('Gross motor development | Strength & coordination'), age line, price + % off and full-width Add to cart. Use: 'Hardy | Beginner-friendly | Size 3-4 cm' benefit lines on fish cards.",
+  "pdp": "PDP with age chip ('0 Months+ · Newborn development'), benefit links under the title, price + 'Save ₹125' pill, purple benefit chips, 'Delivery between Fri, Nov 13 - Mon, Nov 16', EMI line and 'Why parents love these' section.",
+  "pdp-details": "Mobile: price/save pill, benefit chips (Newborn friendly, Travel friendly…), estimated delivery date and Snapmint EMI line, then 'Why parents love…' — copy the delivery-date line for live-arrival windows.",
+  "delivery-check": "Estimated delivery-date window ('Delivery between Fri, Nov 13 - Mon, Nov 16') shown automatically above EMI — no pincode needed; for fish, show 'Ships Mon-Wed, arrives in 1-2 days'.",
+  "sticky-atc": "Mobile sticky qty stepper + Add to cart bar over a 'More than pictures — a first step into discovering the world' story block.",
+  "cart-drawer": "Cart with free-gift progress bar ('Add ₹2,628 for free gift', two gift tiers), coupon field, 'View all offers' and Gokwik checkout with savings shown. Use: 'Add ₹500 more for free fish food' tier.",
+  "free-gift": "'Choose any 1 free gift' list inside the cart with item thumbnails, struck MRP, FREE label and '+Add' buttons — e.g. free Java moss / sample food pack for orders over a threshold.",
+  "brand-story": "'We at Shumee believe that play is 90% child & 10% toy' checklist panel with founder/team photo and 'Read our story', followed by 'Toys by category' photo tiles.",
+  "category-tiles": "Mobile 2-column photo tiles (Active play, Learning toys, Pretend play, Puzzles & cards) with kids using products — use photo tiles of fish in planted tanks per strain/category."
+ },
+ "swayam": {
+  "hero": "'New Arrival' bedroom-scene banner with 'Order now', followed by a 4-column trust strip (Free shipping over ₹10,000, Easy returns, Secure payments, Premium fabric) and 'Shop by categories'.",
+  "header": "Yellow welcome bar with first-order code (WLCM10) above a long category nav including 'Bulk order' — consider a 'Bulk / breeder orders' link for wholesale fish buyers.",
+  "pdp": "Mobile PDP: room photo, long descriptive title, price + strikethrough and yellow '42% OFF' pill.",
+  "variant-selector": "Colour pill + size tiles (Double Queen / King fitted / Super King) with 'View size chart', qty stepper, 'Add to cart' + 'Buy it now', and an open 'Product information' spec table (material, colour, pattern, thread count) — mirror as a spec table for fish (strain, size, age, sex, temperament).",
+  "pdp-details": "Mobile size tiles, size chart link, Add to cart / Buy it now and spec table accordion.",
+  "cross-sell": "'Related products' row with discount pills under the PDP, then 'Stories from our happy customers' photo carousel.",
+  "reviews": "Desktop 'Stories from our happy customers' photo-review carousel with ratings."
+ },
+ "beauty-by-bie": {
+  "hero": "'Grazia award-winning Superpower' hero with award badge, product jar and 'Shop now', a ticker of benefits below and 'Shop bestsellers'.",
+  "header": "Beige 'Free shipping above ₹1099' bar over a centred logo header.",
+  "product-card": "Cards with stars, 'From ₹2,199', size chips (50g / 100g / 20g) and Add to cart directly on the card — pick pack size (pair / trio / 6-pack) right on the fish card.",
+  "pdp": "Benefit headline image ('For every pigmentation concern, one solution'), thumbnails, rating and price.",
+  "pdp-details": "Mobile: 4.6★ 23 reviews, concern tags (reduces pigmentation · fades dark spots · targets acne marks), size chips, Add to cart, 'Complimentary inclusions' (free serum over ₹3,499, 10% welcome) and 'Science and expertise' accordion.",
+  "variant-selector": "Clean 30 ml / 10 ml size chips with Add to cart.",
+  "sticky-atc": "Benefits / How to use / Dr. Dinyar's tip accordions, then '94% noticed a reduction… within 8 weeks' clinical claim with before/after slider and a sticky price + Add to cart bar. Fish equivalent: '98% live-arrival rate over 2,000 shipments'.",
+  "reviews": "Review summary with star distribution bars, customer photos strip and verified-buyer badges.",
+  "cart-drawer": "Tiered free-gift progress bar (₹2,400 sample → ₹4,400 → ₹6,900 → ₹9,900) with social proof '352 customers unlocked free gifts today', 'You may also like' carousel with discount badges, 'Extra 5% off on online payments' and 'Checkout now — 5% off on prepaid'. Use prepaid nudges to cut COD risk on live fish."
  }
 }

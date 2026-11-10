@@ -236,5 +236,17 @@
    "wizard"
   ],
   "note": "Step-by-step visual picker (style → quantity → upload/confirm) that turns a complex or personalised product into easy choices and keeps shoppers moving toward checkout."
+ },
+ "free-gift": {
+  "label": "Free gift picker / gift-with-purchase",
+  "tags": [
+   "free gift",
+   "gwp",
+   "gift with purchase",
+   "cart",
+   "rewards",
+   "aov"
+  ],
+  "note": "Lets shoppers pick a free gift in the cart (or unlock one at a spend threshold) — a tangible reward that lifts AOV and makes the order feel like a deal."
  }
 }

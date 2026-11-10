@@ -1216,5 +1216,76 @@
    "personalisation",
    "configurator"
   ]
+ },
+ "shumee": {
+  "name": "Shumee",
+  "url": "https://www.shumee.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Kids (wooden & educational toys)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-10",
+  "why": "Client testimonial on Seventh Triangle's own site (Meeta Sharma Gupta, Founder - Shumee, on the new look of the website). Age-based shopping, safety/non-toxic trust claims and playful product cards.",
+  "tags": [
+   "kids",
+   "toys",
+   "india",
+   "shop-by-age"
+  ]
+ },
+ "bay-window": {
+  "name": "Bay Window",
+  "url": "https://baywindow.co.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Home (premium furniture)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-10",
+  "why": "Client testimonial on Seventh Triangle's own site (Rinkesh Bafna, General Manager - Bay Window). High-consideration furniture: room-based navigation, large lifestyle imagery, PDP with dimensions/material and delivery info.",
+  "tags": [
+   "home",
+   "furniture",
+   "india",
+   "high-ticket"
+  ]
+ },
+ "swayam": {
+  "name": "Swayam",
+  "url": "https://www.swayamindia.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Home textiles (bedsheets, dohars, curtains)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-10",
+  "why": "Client testimonial on Seventh Triangle's own site (Manika Garg, Director - Swayam). Large-catalogue home textiles with category tiles and size/variant-heavy PDPs.",
+  "tags": [
+   "home",
+   "textiles",
+   "india"
+  ]
+ },
+ "beauty-by-bie": {
+  "name": "BiE (Beauty by BiE)",
+  "url": "https://beautybybie.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Beauty (clean skin & body care)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-10",
+  "why": "Shown on Seventh Triangle's own homepage in their client logo strip ('Beauty By BIE') and a BiE Moongleam portfolio tile. Indian clean-beauty D2C with free-gift promos, benefit-led PDP and ingredient storytelling.",
+  "tags": [
+   "beauty",
+   "skincare",
+   "india",
+   "free gift"
+  ]
  }
 }
