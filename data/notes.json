@@ -262,5 +262,34 @@
   "sticky-atc": "Benefits / How to use / Dr. Dinyar's tip accordions, then '94% noticed a reduction… within 8 weeks' clinical claim with before/after slider and a sticky price + Add to cart bar. Fish equivalent: '98% live-arrival rate over 2,000 shipments'.",
   "reviews": "Review summary with star distribution bars, customer photos strip and verified-buyer badges.",
   "cart-drawer": "Tiered free-gift progress bar (₹2,400 sample → ₹4,400 → ₹6,900 → ₹9,900) with social proof '352 customers unlocked free gifts today', 'You may also like' carousel with discount badges, 'Extra 5% off on online payments' and 'Checkout now — 5% off on prepaid'. Use prepaid nudges to cut COD risk on live fish."
+ },
+ "tropical-oasis": {
+  "hero": "Dark tropical photo hero 'The Vitamin You'll Actually Take' with a 'Find Your Formula' primary CTA and 'Shop Best Sellers' secondary — for guppies: 'Find your perfect strain' quiz CTA next to bestsellers.",
+  "product-card": "Clean bottle cards on a tinted grid with a 'Quick Add' button on every card — fast add for fish food/conditioners without opening the PDP.",
+  "pdp": "Supplement PDP: rating, benefit icons, subscribe vs one-time selector with 'Save up to 25% when you subscribe' banner on mobile.",
+  "pdp-details": "Benefit 2x2 icon grid (Liquid = better absorption, Clean ingredients, Made in the USA) above the buy box — do the same with 'Bred in India', 'Live arrival guarantee', 'Quarantined 14 days'.",
+  "subscribe-save": "Pre-selected 'Subscribe & save' card under a 'GET 25% OFF + FREE SHIPPING' header, sticky bar repeats price + 'Delivery every 1 month'. Use it for fish food, water conditioner and test-kit refills.",
+  "sticky-atc": "Mobile sticky bar with qty stepper and 'ADD TO CART — $29.95', plus FDA/GMP certification badges right below — swap for breeder / quarantine credentials.",
+  "cart-drawer": "Cart drawer: 'Spend $50.04 more for free shipping' bar, line item shows subscription saving, 'Deliver every' dropdown editable in the cart, and a 'Goes great with' carousel. Great for adding food/conditioner to a live-fish order.",
+  "reviews": "'What our customers say' row of UGC video testimonials with star ratings — short clips of customers' tanks would sell guppies better than text reviews."
+ },
+ "rasoi-shop": {
+  "hero": "Festive Diwali-themed store: toran garland graphic under the header, round category icons and promo banners — easy seasonal skin (e.g. monsoon breeding season sale).",
+  "header": "Two announcement bars (festive offer + 'Free Shipping | Made in India | Call <number>'), search-first header with language switcher.",
+  "pdp": "PDP buy box: price + strikethrough + 'SAVE 20%' chip + Free Shipping, Snapmint 'Pay ₹610 now, rest in 0% EMI' box, Add to Cart + Buy it Now, then a dated delivery timeline. Floating 'Chat with us' WhatsApp button.",
+  "pdp-details": "Mobile buy box stacks EMI, qty, Add to Cart, Buy it Now and the 3-step delivery timeline, with an app-style bottom nav (Recipe, Categories, Log in, Chat, Cart).",
+  "delivery-check": "3-step dated timeline: 'Nov 11 Order Today → Nov 11-13 Order Ready → Nov 14-16 Delivered'. Perfect for live fish: show 'Order today → Packed with oxygen Thu → Arrives Fri-Sat' so buyers know the fish won't sit in transit over a weekend.",
+  "variant-selector": "Big qty stepper + green Add to Cart and full-width Buy it Now on mobile.",
+  "sticky-atc": "Mobile sticky bar with price, strikethrough and a compact 'Add to Cart' above the bottom nav.",
+  "cart-drawer": "Cart drawer with 'You may also like' cards showing SAVE % badges, subtotal, Checkout and a blue 'Pay ₹610 now + 0% EMIs later' button — cross-sell nets/food/air pumps here.",
+  "reviews": "Rating histogram (4.48, 40 reviews) with 'Write a review' and dated text reviews."
+ },
+ "amante": {
+  "hero": "Category icon row (Bra, Panties, Nightwear, Activewear) above a festive '70% off' carousel — quick visual navigation; use strain icons (Moscow, Dumbo, Koi, Albino) the same way.",
+  "header": "Burgundy announcement bar 'Your Everyday Ritual Starts Here', centered logo, wishlist + cart.",
+  "pdp": "Clean PDP: thumbnail rail, image colour swatches, size chips and pincode check in the buy box.",
+  "pdp-details": "Mobile: colour shown as photo swatches, 'Select Size To Continue' prompt, Size Guide link and 'Check Delivery Availability / Estimated Delivery Date' pincode field before ATC.",
+  "variant-selector": "Photo swatches for colour (shows the real product in each colour) + size chips with disabled states — for guppies, photo swatches per colour morph and chips for 'Pair / Trio / 5 females'.",
+  "reviews": "Simple rating histogram with 'Write a review' and verified-buyer badge."
  }
 }

@@ -248,5 +248,17 @@
    "aov"
   ],
   "note": "Lets shoppers pick a free gift in the cart (or unlock one at a spend threshold) — a tangible reward that lifts AOV and makes the order feel like a deal."
+ },
+ "subscribe-save": {
+  "label": "Subscribe & save buy box",
+  "tags": [
+   "subscription",
+   "subscribe and save",
+   "recurring",
+   "repeat purchase",
+   "buy box",
+   "discount"
+  ],
+  "note": "Pre-selects a subscription with a clear % off and free shipping, turning a one-off order into recurring revenue while making the price look lower."
  }
 }

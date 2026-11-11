@@ -1287,5 +1287,60 @@
    "india",
    "free gift"
   ]
+ },
+ "tropical-oasis": {
+  "name": "Tropical Oasis",
+  "url": "https://tropicaloasis.com/",
+  "country": "USA",
+  "region": "International",
+  "category": "Liquid vitamins / supplements",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/portfolio",
+  "platform": "Shopify",
+  "added": "2026-11-11",
+  "why": "Listed in Dynamic Dreamz's own portfolio (links to tropicaloasis.com). Subscription-first supplement store: 'Find your formula' hero, subscribe & save buy box with 25% off + free shipping, cart drawer with free-shipping bar, delivery-frequency picker and cross-sell, video reviews.",
+  "tags": [
+   "supplements",
+   "subscription",
+   "usa",
+   "dynamic dreamz"
+  ]
+ },
+ "rasoi-shop": {
+  "name": "Rasoi Shop",
+  "url": "https://www.rasoishop.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Kitchenware / appliances (multi-brand)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-11",
+  "why": "Rasoi Shop tile in the client section of seventhtriangle.com. Festive (Diwali) themed multi-brand kitchen store: 3-step delivery timeline with real dates on the PDP, Snapmint EMI box, WhatsApp chat in an app-style bottom nav, cart drawer with cross-sell and EMI pay button.",
+  "tags": [
+   "kitchen",
+   "india",
+   "multi-brand",
+   "festive",
+   "seventh triangle"
+  ]
+ },
+ "amante": {
+  "name": "Amante",
+  "url": "https://www.amantelingerie.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Lingerie / innerwear",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-11",
+  "why": "Amante tile in the client section of seventhtriangle.com. Category icon row up top, festive sale hero, PDP with image colour swatches, size chips with size guide and a pincode delivery-date check right under the size picker.",
+  "tags": [
+   "lingerie",
+   "fashion",
+   "india",
+   "seventh triangle"
+  ]
  }
 }

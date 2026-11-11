@@ -1,0 +1,38 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://tropicaloasis.com/products/tropical-oasis-mega-premium-multivitamin-with-minerals",
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ]
+}
