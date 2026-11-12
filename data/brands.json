@@ -1342,5 +1342,62 @@
    "india",
    "seventh triangle"
   ]
+ },
+ "aayraa-jewels": {
+  "name": "Aayraa Jewels",
+  "url": "https://aayraajewels.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Jewellery / sterling silver",
+  "agency": "ControlF5",
+  "agency_source": "https://www.controlf5.in/portfolio/",
+  "platform": "Shopify",
+  "added": "2026-11-12",
+  "why": "Linked from the ControlF5 portfolio. Indian 925-silver jewellery D2C: \"Also available on Amazon / Flipkart\" trust buttons, live \"people looking at this\" counter, offer countdown, COD badge, boxed \"Know Your Jewellery\" key-facts card on the PDP, WhatsApp float.",
+  "tags": [
+   "jewellery",
+   "india",
+   "silver",
+   "controlf5",
+   "urgency"
+  ]
+ },
+ "tropicfeel": {
+  "name": "Tropicfeel",
+  "url": "https://shop.tropicfeel.com/",
+  "country": "Spain",
+  "region": "International",
+  "category": "Travel footwear & bags",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/portfolio",
+  "platform": "Shopify",
+  "added": "2026-11-12",
+  "why": "Linked from the Dynamic Dreamz portfolio. Premium travel-gear brand: size grid with dated estimated-delivery line, side-by-side \"Compare sneakers\" module with icon ratings (water friendly, trip type, traction, cushioning), desktop sticky ATC bar, 4,500+ reviews.",
+  "tags": [
+   "footwear",
+   "travel",
+   "international",
+   "comparison",
+   "dynamic dreamz"
+  ]
+ },
+ "brilliant-petcare": {
+  "name": "Brilliant Petcare",
+  "url": "https://brilliantpetcare.com/",
+  "country": "UK",
+  "region": "International",
+  "category": "Pet supplements (salmon oil)",
+  "agency": "Dynamic Dreamz",
+  "agency_source": "https://www.dynamicdreamz.com/portfolio",
+  "platform": "WooCommerce",
+  "added": "2026-11-12",
+  "why": "Linked from the Dynamic Dreamz portfolio. Single-hero-product pet brand (Norwegian salmon oil): pack-size chips, subscribe & save 25% with delivery schedule, benefit icons, \"Rated 4.5/5 by 6,319+ happy pet parents\" everywhere, review-collage section, cart page with upsell.",
+  "tags": [
+   "pet",
+   "uk",
+   "subscription",
+   "supplements",
+   "dynamic dreamz"
+  ]
  }
 }

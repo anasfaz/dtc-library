@@ -1,0 +1,33 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://brilliantpetcare.com/product/brilliant-salmon-oil-original/",
+ "sticky-atc": [
+  "mobile"
+ ],
+ "cart-drawer": [
+  "mobile"
+ ]
+}

@@ -291,5 +291,30 @@
   "pdp-details": "Mobile: colour shown as photo swatches, 'Select Size To Continue' prompt, Size Guide link and 'Check Delivery Availability / Estimated Delivery Date' pincode field before ATC.",
   "variant-selector": "Photo swatches for colour (shows the real product in each colour) + size chips with disabled states — for guppies, photo swatches per colour morph and chips for 'Pair / Trio / 5 females'.",
   "reviews": "Simple rating histogram with 'Write a review' and verified-buyer badge."
+ },
+ "aayraa-jewels": {
+  "hero": "Editorial \"Luxury Collection\" banner, with Amazon/Flipkart availability buttons right under the header on mobile — borrowed marketplace trust for a young brand. For fish: \"Also on Amazon\" or \"500+ breeders served\" chips.",
+  "pdp": "Buy box: 4.8 rating with 2000+ reviews, strikethrough price + Sale chip, \"313 people are currently looking at this\" counter, qty + Add to Cart + Buy it Now, then a boxed key-facts card (\"Know Your Jewellery\").",
+  "pdp-details": "Offer countdown (\"Offer ends in 05:59:50\"), accordion for description / refunds / shipping and a Cash on Delivery strip. A live-fish version: \"Ships today if ordered in 05:59\" plus a DOA guarantee accordion.",
+  "variant-selector": "Qty stepper with outlined Add to Cart and solid Buy it Now side by side.",
+  "cart-drawer": "Slim \"Item added to your cart\" drawer with thumbnail, View Cart and Checkout — minimal, fast.",
+  "sticky-atc": "Mobile sticky Add to Cart / Buy it Now pair, WhatsApp float stays visible.",
+  "reviews": "Star breakdown bars with review count and Write a review button."
+ },
+ "tropicfeel": {
+  "hero": "Seasonal \"Black Friday Private Sale — up to 50% off\" hero with members-only angle and black announcement bar to join.",
+  "pdp": "Clean PDP: rating with 4,581 reviews, price, \"Or €116 if you sign up for our newsletter\" (email capture inside the buy box), size grid.",
+  "pdp-details": "Under the size grid: \"Free Shipping. Estimated delivery: Fri, Nov 13 - Mon, Nov 16\" and \"30-day returns & free exchanges\", then one-line benefits and accordions. For guppies: dated arrival window + live-arrival guarantee right under the button.",
+  "comparison": "\"Compare sneakers\" module: three models side by side with colour swatches, a one-line use case (\"For coastal escapes\") and icon ratings for collection, trip type, traction, cushioning, plus a desktop sticky ATC bar. Ideal for comparing guppy strains or tank kits (hardiness, adult size, colour, beginner friendly).",
+  "sticky-atc": "Full-width rounded \"Select your size\" sticky button on mobile.",
+  "header": "Black promo bar above a minimal logo/search/cart header."
+ },
+ "brilliant-petcare": {
+  "hero": "\"Your pet deserves Brilliant health\" hero with product on a fjord photo, star rating and \"100% Norwegian Salmon Oil — single ingredient, multiple benefits\" band.",
+  "pdp": "Pack chips (Single / Triple Pack), one-time vs \"Subscribe and save 25%\" radio with a delivery schedule dropdown (\"Every month (popular)\"), qty + Add to Cart and Link express pay.",
+  "pdp-details": "Round benefit icons (enhanced appetite, shiny coat, soft paws) under the buy box, then nutrition facts and shipping accordions. A fish-food or water-conditioner subscription could copy this exactly.",
+  "reviews": "\"Look at how other pets are loving their Brilliant\" — a tilted collage of review cards with a Buy Now button and \"Rated 4.5/5 by 6,319+ happy pet parents\".",
+  "cart-drawer": "Cart page confirms the add, repeats the rating line, and upsells a second product (\"Calcium & Collagen, Save 25%\") with Add to Cart.",
+  "sticky-atc": "Mobile sticky bar with price, strikethrough and 25% off chip."
  }
 }

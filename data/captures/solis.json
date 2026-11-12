@@ -1,0 +1,18 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://solislifestyle.com/products/essential-protein",
+ "sticky-atc": [
+  "mobile"
+ ]
+}
