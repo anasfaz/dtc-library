@@ -1,12 +1,21 @@
 <!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>DTC Component Library — Indian & International e-commerce inspiration</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css"></head><body>
-<header class="top"><div class="wrap topin"><a href="#/" class="logo"><span>◆</span> DTC Library</a>
-<div class="search"><svg viewBox="0 0 24 24" width="18"><path fill="currentColor" d="M10 2a8 8 0 1 0 4.9 14.3l5.4 5.4 1.4-1.4-5.4-5.4A8 8 0 0 0 10 2Zm0 2a6 6 0 1 1 0 12 6 6 0 0 1 0-12Z"/></svg>
-<input id="q" placeholder="Search components, brands, tags… e.g. sticky add to cart, bundle, boAt, swatch" autocomplete="off"><kbd>/</kbd></div>
-<nav class="toplinks"><a href="#/">Components</a><a href="#/brands">Brands</a><a href="#/agencies">Agencies</a></nav></div></header>
-<main id="app"></main>
-<div id="lb" class="lb" hidden><button class="lbx" aria-label="Close">✕</button><div class="lbin"><img id="lbimg" alt=""><div class="lbbar"><span id="lbcap"></span><a id="lbdl" download class="btn">Download</a></div></div></div>
-<div id="toast" class="toast"></div>
-<script src="app.js"></script></body></html>
+<title>DTC Library — best designed e-commerce components, India & international</title>
+<meta name="description" content="Every e-commerce component, screenshotted and sorted: headers, mega menus, mobile menus, product cards, product pages, carts and checkouts from Indian D2C and international brands.">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css?v=2"></head><body>
+<header class="top"><div class="wrap topin">
+ <a href="#/" class="logo" aria-label="DTC Library home"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><rect x="3" y="3" width="8" height="10" rx="2.5" fill="currentColor"/><rect x="13" y="3" width="8" height="6" rx="2.5" fill="currentColor" opacity=".45"/><rect x="3" y="15" width="8" height="6" rx="2.5" fill="currentColor" opacity=".45"/><rect x="13" y="11" width="8" height="10" rx="2.5" fill="currentColor"/></svg><span>DTC Library</span></a>
+ <label class="search"><svg viewBox="0 0 24 24" width="16" aria-hidden="true"><path fill="currentColor" d="M10.5 3a7.5 7.5 0 0 1 5.9 12.1l4.8 4.8-1.4 1.4-4.8-4.8A7.5 7.5 0 1 1 10.5 3Zm0 2a5.5 5.5 0 1 0 0 11 5.5 5.5 0 0 0 0-11Z"/></svg>
+  <input id="q" type="search" placeholder="Search" aria-label="Search components, brands, agencies" autocomplete="off"><kbd>/</kbd></label>
+ <nav class="toplinks"><a href="#/brands" data-nav="brands">Brands</a><a href="#/agencies" data-nav="agencies">Agencies</a>
+  <a href="#/saved" class="iconbtn" data-nav="saved" aria-label="Saved"><svg viewBox="0 0 24 24" width="17"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round" d="M6.5 3.5h11v17l-5.5-4-5.5 4z"/></svg><i id="savedn"></i></a></nav>
+</div></header>
+<main id="app" class="wrap"></main>
+<footer class="f wrap"><span>© DTC Library</span><span>Screenshots captured from public websites for design inspiration. One brand, every component, every day.</span><span id="built"></span></footer>
+<div id="lb" class="lb" hidden><div class="lbwin" role="dialog" aria-modal="true" aria-labelledby="lbt">
+ <div class="lbtop"><div class="lbt" id="lbt"></div><div class="lbc"><div class="seg" id="lbdev"></div><span id="lbbm"></span></div><div class="lbr"><button class="iconbtn" id="lbprev" aria-label="Previous">‹</button><button class="iconbtn" id="lbnext" aria-label="Next">›</button><span class="esc">Esc</span><button class="iconbtn" id="lbx" aria-label="Close">✕</button></div></div>
+ <div class="lbbody"><div class="lbimg" id="lbimg"></div><aside class="lbside" id="lbside"></aside></div>
+</div></div>
+<div id="toast" class="toast" role="status"></div>
+<script src="app.js?v=2"></script></body></html>
