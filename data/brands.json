@@ -1399,5 +1399,24 @@
    "supplements",
    "dynamic dreamz"
   ]
+ },
+ "chashma": {
+  "name": "Chashma",
+  "url": "https://chashma.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Eyewear (eyeglasses, sunglasses, contact lenses)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/",
+  "platform": "Shopify",
+  "added": "2026-11-13",
+  "why": "Portfolio tile on Seventh Triangle's own site (\"Highlighting the Chashma eyewear store on laptop & phone…\"). 30-year Indian optical retailer gone DTC: 4-step lens configurator drawer (power type → lens type with prices) behind a \"Select lens And Buy\" button, shape-icon mega menu, card-based mobile menu, popular-searches panel, pincode delivery check, coupon + gift-box cart drawer, Shopify checkout without sign-in.",
+  "tags": [
+   "eyewear",
+   "india",
+   "configurator",
+   "seventh triangle",
+   "shopify"
+  ]
  }
 }

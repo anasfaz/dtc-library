@@ -4,15 +4,71 @@
   "mobile"
  ],
  "pdp": [
-  "mobile",
-  "desktop"
+  "desktop",
+  "mobile"
  ],
  "pdp-details": [
-  "mobile",
-  "desktop"
+  "desktop",
+  "mobile"
  ],
  "_pdp": "https://chashma.com/products/zoraverr",
  "sticky-atc": [
   "mobile"
- ]
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://chashma.com/collections/eyeglasses",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-page": [
+  "desktop",
+  "mobile"
+ ],
+ "checkout": [
+  "desktop",
+  "mobile"
+ ],
+ "_checkout": "https://chashma.com/checkouts/cn/hWNJ5TSYPDPhUqB6fx7Yy8Li/en-in"
 }
