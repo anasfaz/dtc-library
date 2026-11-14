@@ -1,0 +1,66 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.peesafe.com/products/pee-safe-toilet-seat-sanitizer-spray-lavender-300-ml-washroom-pack",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "free-gift": [
+  "mobile"
+ ],
+ "cart-page": [
+  "mobile"
+ ],
+ "_collection": "https://www.peesafe.com/collections/intimate-care",
+ "collection": [
+  "mobile"
+ ]
+}

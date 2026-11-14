@@ -1418,5 +1418,29 @@
    "seventh triangle",
    "shopify"
   ]
+ },
+ "pee-safe": {
+  "name": "Pee Safe",
+  "url": "https://www.peesafe.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Personal hygiene & intimate care",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-14",
+  "why": "Listed in Seventh Triangle's \"Brands we have worked with\" grid on their own Our Work page (seventhtriangle.com/pages/our-work – Pee Safe and its DOMINA range). Indian hygiene DTC brand (Redcliffe Hygiene) on Shopify, built heavily for average order value: \"Buy 3 @ ₹499\" 2-step bundle builder with a free 4th product and confetti, a 4-milestone rewards tracker in the cart drawer, auto-applied STEAL30 code shown as 'Get it for ₹349' on every card, PDP and sticky bar, kit tiles on the home page, shoppable UGC videos, Hygiene Credits loyalty, and a GoKwik phone-first checkout.",
+  "tags": [
+   "hygiene",
+   "personal care",
+   "india",
+   "bundle builder",
+   "free gift",
+   "cart rewards",
+   "ugc video",
+   "gokwik",
+   "seventh triangle",
+   "shopify"
+  ]
  }
 }
