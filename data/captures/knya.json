@@ -1,0 +1,102 @@
+{
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "brand-story": [
+  "desktop",
+  "mobile"
+ ],
+ "bundle-builder": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "checkout": [
+  "desktop",
+  "mobile"
+ ],
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "cross-sell": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "product-configurator": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "section": [
+  "desktop",
+  "mobile"
+ ],
+ "shop-the-look": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://knyamed.com/collections/bestsellers",
+ "_pdp": "https://knyamed.com/products/classic-womens-navy-blue-3-pocket-new-gen-scrub-top",
+ "_note": "capture.py run + hand re-shoots (/tmp/kn scripts) on 2026-11-15; cart-page dropped (/cart redirects to home with the drawer open)"
+}

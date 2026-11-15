@@ -1442,5 +1442,32 @@
    "seventh triangle",
    "shopify"
   ]
+ },
+ "knya": {
+  "name": "Knya",
+  "url": "https://knyamed.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Medical apparel (scrubs, lab coats, clogs)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-15",
+  "why": "Seventh Triangle's own Our Work page (seventhtriangle.com/pages/our-work) lists Knya with the tile \"Highlighting Knya healthcare apparel and accessories project delivered by Seventh Triangle experts!\". Mumbai-based medical-apparel DTC brand (scrubs, lab coats, 6sense stethoscopes, clogs) on Shopify (Horizon-based theme). Built for a uniform buyer who must get fit and identity right: a live embroidery configurator (\"Add Your Identity\" – type name + designation and watch it stitched on the scrub, Top/Bottom/Bundle pricing with Save ₹150), top + bottom sold as one set with separate size pickers and a 'Please Select' guard, Buy 1 / Buy 2 save 10% / Buy 3 save 12% tiers, 'Complete the look' add-on in the buy box, Snapmint ₹1-now EMI on cards and PDP, ClickPost pincode delivery date + COD check, store credits, shop-by-colour tiles, institution logos for B2B trust, shoppable reels, and a Shopify checkout with a 'Pairs well with your order' upsell.",
+  "tags": [
+   "medical apparel",
+   "scrubs",
+   "uniforms",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "embroidery configurator",
+   "personalisation",
+   "volume discount",
+   "emi",
+   "pincode check",
+   "shoppable video",
+   "checkout upsell"
+  ]
  }
 }
