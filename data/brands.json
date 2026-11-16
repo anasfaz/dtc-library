@@ -1469,5 +1469,33 @@
    "shoppable video",
    "checkout upsell"
   ]
+ },
+ "bow-and-square": {
+  "name": "Bow & Square",
+  "url": "https://bowandsquare.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Men's shirts, bow ties & menswear accessories",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-16",
+  "why": "Listed as a client tile (image 'Bow & Square shirt for men') on Seventh Triangle's own Our Work page (seventhtriangle.com/pages/our-work); the tile carries no written case study. Indian menswear DTC (shirts, bow ties, neckties, pocket squares, pullovers, pants) on Shopify. Notable: image-card mega-menu, tabbed bestsellers, photo colour swatches with size chips, always-visible delivery promise, mobile sticky add-to-cart, and a Shiprocket phone-first checkout overlay with a ₹200 prepaid incentive.",
+  "tags": [
+   "menswear",
+   "shirts",
+   "bow ties",
+   "accessories",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "mega-menu with image cards",
+   "tabbed bestsellers",
+   "photo swatches",
+   "shiprocket checkout",
+   "prepaid incentive",
+   "heritage story",
+   "sticky add to cart"
+  ]
  }
 }

@@ -1,0 +1,66 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://bowandsquare.com/collections/best-sellers",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://bowandsquare.com/products/blue-check",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "cart-page": [
+  "desktop",
+  "mobile"
+ ]
+}
