@@ -436,5 +436,33 @@
   "group": "home",
   "short": "Footer",
   "order": 29
+ },
+ "shoppable-video": {
+  "label": "Shoppable video carousel",
+  "tags": [
+   "video",
+   "reels",
+   "ugc",
+   "shop by video",
+   "stories"
+  ],
+  "note": "Short vertical videos with a tagged product + price let shoppers see the product moving and buy from the video.",
+  "group": "home",
+  "short": "Shoppable video",
+  "order": 10.5
+ },
+ "offer-cards": {
+  "label": "PDP offer / coupon cards",
+  "tags": [
+   "coupon",
+   "offer",
+   "discount code",
+   "copy code",
+   "promo"
+  ],
+  "note": "Visible coupon cards next to the buy box show the real price a shopper can reach, nudging basket size up to the threshold.",
+  "group": "product",
+  "short": "Offer cards",
+  "order": 19.5
  }
 }

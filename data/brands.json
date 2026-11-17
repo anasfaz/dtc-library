@@ -1497,5 +1497,35 @@
    "heritage story",
    "sticky add to cart"
   ]
+ },
+ "kica-active": {
+  "name": "KICA Active",
+  "url": "https://kicaactive.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Women's activewear / sports bras, leggings & flare pants",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-17",
+  "why": "Listed as a client tile (image 'Outdoor yoga pose by a woman in activewear wearing KICA apparel') on Seventh Triangle's own Our Work page (seventhtriangle.com/pages/our-work); the tile carries no written case study. Indian women's activewear DTC; PDP lists FSN E-Commerce Ventures (Nykaa) as seller. Notable: shop-by-activity mega menu, predictive search with suggestion list + product grid, tabbed bestsellers, shoppable video carousel (Quinn), community brand story, coupon cards on the PDP, desktop + mobile sticky add-to-cart with size/colour dropdowns, GoKwik cart drawer with a two-milestone reward bar (free shipping / ₹300 off) and an add-on checkbox, and GoKwik phone-first checkout.",
+  "tags": [
+   "activewear",
+   "women",
+   "sports bras",
+   "leggings",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "nykaa",
+   "shop by activity",
+   "shoppable video",
+   "tabbed bestsellers",
+   "coupon cards",
+   "sticky add to cart",
+   "gokwik checkout",
+   "cart reward tracker",
+   "community"
+  ]
  }
 }

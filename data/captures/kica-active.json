@@ -1,0 +1,62 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://kicaactive.com/collections/leggings",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://kicaactive.com/products/cotton-mid-impact-sports-bra-kic100-pink",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "cross-sell": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "cart-page": [
+  "desktop",
+  "mobile"
+ ]
+}
