@@ -1527,5 +1527,35 @@
    "cart reward tracker",
    "community"
   ]
+ },
+ "the-shop-india": {
+  "name": "The Shop India",
+  "url": "https://www.theshopindia.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Hand block-printed cotton clothing & home textiles (womenswear, menswear, kids, bedding, dining)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-18",
+  "why": "Listed as a client tile (image alt 'Amid leafy greenery, a woman in a navy floral co-ord set from The Shop India stands under a tree.') on Seventh Triangle's own Our Work page; tile only, no written case study. Delhi heritage block-print label (stores in Connaught Place etc., online stores for India/USA/Japan). Notable: rotating announcement bar (We ship worldwide / Buy 1 Get 1 Free), oversized wordmark header, two-level OUR SHOP mega menu with 17 categories, editorial split category tiles (Living / Dining / Bedroom around a brand-message panel), 'The Print Studio' print-library section, size buttons with per-size 'X Left' stock badges, Google reviews carousel (4.6 from 186), cart drawer 'You May Also Like - usually paired together' upsell, Shopify checkout with Ship/Pickup toggle, G Pay express and Paytm, footer currency switcher and per-country store links.",
+  "tags": [
+   "block print",
+   "cotton",
+   "home textiles",
+   "womenswear",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "heritage",
+   "stock badges",
+   "low stock",
+   "mega menu",
+   "google reviews",
+   "cart upsell",
+   "store pickup",
+   "international shipping",
+   "bogo"
+  ]
  }
 }

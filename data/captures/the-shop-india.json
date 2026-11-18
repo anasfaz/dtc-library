@@ -1,0 +1,54 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "footer": [
+  "desktop"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://www.theshopindia.com/collections/bestsellers-women",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.theshopindia.com/products/juliette-dress-toile-plum",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "cross-sell": [
+  "desktop",
+  "mobile"
+ ]
+}
