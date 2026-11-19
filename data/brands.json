@@ -1557,5 +1557,35 @@
    "international shipping",
    "bogo"
   ]
+ },
+ "encasaxo": {
+  "name": "encasaXO",
+  "url": "https://encasaxo.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Home textiles & home essentials (cushion covers, curtains, table linen, kitchen, ironing board covers, bath)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-19",
+  "why": "Listed as a client tile (image alt 'Sunlit sofa displays mustard cushions and cosy knit throw beneath encasaXO branding in room decor.') on Seventh Triangle's own Our Work page; tile only, no written case study. Indian home-textile maker (sole manufacturer, also big on Amazon: 'Top-rated on Amazon', '3 Million+ happy homes'). Notable: FIRST5 announcement bar, two-row header with a glowing 'Festive - DIWALI' pill in the nav, 5-column text mega menu, trust-bar marquee under the hero, 'Shop the Look' room photo with hotspots + product slider, 'Styled for You' shoppable reels, round category-chip row on collections, product cards with rating + swatch row + Quick add, image-swatch colour picker (product shots as swatches), infographic PDP sections, desktop floating + mobile full-width sticky add to cart, Judge.me reviews (4.46 from 24), Shopflo cart drawer with tiered progress bar (Rs 100 off at Rs 1,499 / free gift at Rs 2,499), coupon field and 'You might also like' upsell, Shopflo phone-OTP checkout.",
+  "tags": [
+   "home textiles",
+   "home decor",
+   "cushion covers",
+   "table linen",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "shopflo",
+   "tiered cart rewards",
+   "free gift",
+   "shop the look",
+   "shoppable video",
+   "image swatches",
+   "sticky add to cart",
+   "judge.me",
+   "amazon brand"
+  ]
  }
 }

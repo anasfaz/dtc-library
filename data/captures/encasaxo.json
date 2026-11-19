@@ -1,0 +1,69 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://encasaxo.com/collections/all",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://encasaxo.com/products/ibc-001-20s-sheeting-big-leaves-blue-ironing-board-cover",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-page": [
+  "desktop",
+  "mobile"
+ ]
+}
