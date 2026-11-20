@@ -1587,5 +1587,37 @@
    "judge.me",
    "amazon brand"
   ]
+ },
+ "kay-beauty": {
+  "name": "Kay Beauty",
+  "url": "https://www.kaybeauty.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Beauty & cosmetics (makeup: lips, face, eyes, nails; skin-tone shade finder)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-20",
+  "why": "Listed as a client tile (image alt 'An elegant trio of women from Kay Beauty, with sleek hair and refined makeup, pose close together.') on Seventh Triangle's own Our Work page; tile only, no written case study. Katrina Kaif's makeup brand under Nykaa (store nykaa-kaybeauty-domestic.myshopify.com). Notable: complimentary-gift announcement bar + mobile pincode row, transparent two-row header with pincode pill, country switch and order tracking, celebrity hero carousel + awards row, Shop by Category image tiles, 'Find Your Shade' quiz block, product cards with shade count + View/Add buttons, 'Complete your perfect lips routine' 3-step bundle builder on PLP and PDP (set price, Save Rs 135, extra 12% off + free gift), 20-shade swatch grid, Nykaa rating badge, PDP pincode check, UGC video bubbles, sticky add to cart, Judge.me reviews (4.29 from 1499), Shopflo cart drawer with tiered free merch (Case/Pouch/Trousseau) and a 'Complete your regimen' step upsell with per-step discounts, Shopflo phone-OTP checkout.",
+  "tags": [
+   "beauty",
+   "makeup",
+   "cosmetics",
+   "lipstick",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "nykaa",
+   "shopflo",
+   "bundle builder",
+   "regimen",
+   "tiered cart rewards",
+   "free gift",
+   "shade quiz",
+   "pincode check",
+   "sticky add to cart",
+   "judge.me",
+   "celebrity brand"
+  ]
  }
 }
