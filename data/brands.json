@@ -1619,5 +1619,39 @@
    "judge.me",
    "celebrity brand"
   ]
+ },
+ "bathla": {
+  "name": "Bathla",
+  "url": "https://www.bathla.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Home & living (aluminium ladders, laundry/clothes drying, storage, kitchenware)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-21",
+  "why": "Listed as a client tile (image Bathla.jpg, alt 'Stylish Bathla step ladder in a modern room with wood flooring, pink wall, and side table decor set.') on Seventh Triangle's own Our Work page; tile only, no written case study. Indian home-utility brand (ladders since 1972) on a Maestrooo-style Shopify theme. Notable: pincode-gated Add to Cart ('Please check your serviceability'), paid extended-warranty pills (5+1 Year Rs. 249 / 5+2 Year Rs. 399) above ATC, 'Hurry, only 5 items left in stock!' bar with step-count variant pills, 'Home Starter Bundle' builder with live total, shop-the-look hotspots, best-seller tabs with a B2B 'Get Quote' card, floating desktop sticky ATC card, mobile bottom dock, PDP FAQ accordion, Judge.me reviews (4.58 from 1074), Rebuy cart drawer with free-shipping unlock + 'also bought' carousel, cart page with GSTIN field, Shopify checkout with Razorpay.",
+  "tags": [
+   "home",
+   "ladders",
+   "laundry",
+   "storage",
+   "kitchenware",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "rebuy",
+   "judge.me",
+   "razorpay",
+   "pincode check",
+   "warranty upsell",
+   "bundle builder",
+   "shop the look",
+   "sticky add to cart",
+   "faq",
+   "low stock",
+   "b2b quote",
+   "mobile dock"
+  ]
  }
 }

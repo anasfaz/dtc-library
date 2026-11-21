@@ -464,5 +464,34 @@
   "group": "product",
   "short": "Offer cards",
   "order": 19.5
+ },
+ "warranty-upsell": {
+  "label": "Warranty / protection add-on",
+  "short": "Warranty add-on",
+  "group": "product",
+  "order": 19.7,
+  "tags": [
+   "warranty",
+   "protection plan",
+   "add-on",
+   "upsell",
+   "aov",
+   "guarantee"
+  ],
+  "note": "Paid extended warranty or protection plan offered as pill buttons right above Add to Cart: raises AOV and signals confidence in the product."
+ },
+ "faq": {
+  "label": "Product FAQ accordion",
+  "short": "FAQ",
+  "group": "product",
+  "order": 22,
+  "tags": [
+   "faq",
+   "accordion",
+   "questions",
+   "objections",
+   "support"
+  ],
+  "note": "Collapsible questions-and-answers on the product page that answer buying objections (shipping, returns, usage) before they become support tickets."
  }
 }

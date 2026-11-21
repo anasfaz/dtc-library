@@ -1,0 +1,72 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "bundle-builder": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://www.bathla.com/collections/aluminium-ladders",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.bathla.com/products/advance-5-step-ladder",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "cross-sell": [
+  "mobile"
+ ]
+}
