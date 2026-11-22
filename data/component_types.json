@@ -493,5 +493,21 @@
    "support"
   ],
   "note": "Collapsible questions-and-answers on the product page that answer buying objections (shipping, returns, usage) before they become support tickets."
+ },
+ "cart-upsell": {
+  "label": "Cart upsell / add from cart",
+  "short": "Cart upsell",
+  "group": "cart",
+  "order": 25.5,
+  "tags": [
+   "cart",
+   "upsell",
+   "you may also like",
+   "add from cart",
+   "size selector",
+   "aov",
+   "mini cart"
+  ],
+  "note": "Recommended add-ons inside the cart drawer that can be added without leaving the cart (with an inline variant/size picker when needed): lifts AOV at the moment of highest intent."
  }
 }

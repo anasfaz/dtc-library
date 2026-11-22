@@ -1653,5 +1653,38 @@
    "b2b quote",
    "mobile dock"
   ]
+ },
+ "relaxo": {
+  "name": "Relaxo",
+  "url": "https://relaxofootwear.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Footwear (Sparx, Flite, Bahamas, Relaxo: sneakers, sports shoes, sandals, slides, flip-flops for men, women and children)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-22",
+  "why": "Listed as a client tile (image Relaxo.jpg, alt 'Relaxo brown toe-ring sandal with crossed straps, displayed against a soft beige backdrop.') on Seventh Triangle's own Our Work page; tile only, no written case study. India's largest footwear maker (Relaxo Footwears Ltd: Sparx, Flite, Bahamas) on a customised Dawn-based Shopify theme. Notable: transparent header over hero/collection banners, 'Up to 50% Off Sitewide + Extra 5% Off on Prepaid Orders' hero, first-order WELCOME10 bar, On-Trend Picks split tiles with Shop Men / Shop Women buttons, shoppable video reels, search drawer with Popular Searches + Popular Picks, PDP USP pills (Free Shipping / 7 Days Return / COD Available), colour swatches as product photos, crossed-out sold-out sizes, pincode Delivery Details, 'Why we love it' feature tiles, Judge.me reviews (4.73 from 15) with transparency badge, desktop sticky bar with size dropdown, mobile sticky ATC + Buy It Now, cart drawer with 'You may also like' carousel and an in-drawer SELECT SIZE sheet, trust icons under Check out, GoKwik checkout (mobile-number login, coupons, 'Extra 5% OFF on Prepaid Orders', saved-so-far pill), mobile bottom dock.",
+  "tags": [
+   "footwear",
+   "sneakers",
+   "sandals",
+   "flip flops",
+   "india",
+   "seventh triangle",
+   "shopify",
+   "dawn",
+   "gokwik",
+   "judge.me",
+   "shiprocket",
+   "pincode check",
+   "sticky add to cart",
+   "shoppable video",
+   "cart upsell",
+   "prepaid discount",
+   "cod",
+   "mobile dock",
+   "transparent header"
+  ]
  }
 }
