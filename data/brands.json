@@ -1686,5 +1686,28 @@
    "mobile dock",
    "transparent header"
   ]
+ },
+ "inc5": {
+  "name": "Inc.5",
+  "url": "https://inc5shop.com/",
+  "country": "India",
+  "region": "India",
+  "category": "Footwear & handbags (women's heels, wedges, flats, sandals, ethnic footwear, boots; men's formals, sandals, slip-ons; clutch, sling and shoulder bags, wallets)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-23",
+  "why": "Listed as a client tile (image Inc_5.jpg, alt 'Showcasing Inc.5 cross strap sandals on a white display block with pink roses in a soft backdrop.') on Seventh Triangle's own Our Work page; tile only, no written case study. Mumbai women's-first footwear brand (Inc.5 Shoes Pvt Ltd) on a customised Dawn 15 theme ('SEO Fix INC5 X TSW'). Notable: Club5 loyalty 'Check your points' pill in the header, NEW SEASON hero slider, FOR HER / FOR HIM / SHOP BAGS image tiles, Quinn shoppable video stories (player with cart icon), predictive search with suggestions + products, PLP with left filter sidebar (size, price, discount, heel height, pattern) and in-stock size chips + Add to cart on every card, -60% and HOT DEALS / BEST SELLER / NEW ARRIVALS ribbons, crossed-out sold-out sizes, 'Not Sure About Size?' size chart, 'Low stock: 3 left', '332 people watching this product now!', ClickPost estimated-delivery pincode box, five trust accordions, Judge.me reviews with Verified badges, Dawn cart notification popup, GoKwik checkout (11 coupons, loyalty points, mobile-number login).",
+  "tags": [
+   "footwear",
+   "women",
+   "handbags",
+   "gokwik",
+   "judge.me",
+   "quinn",
+   "clickpost",
+   "dawn",
+   "loyalty"
+  ]
  }
 }
