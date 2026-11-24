@@ -1709,5 +1709,28 @@
    "dawn",
    "loyalty"
   ]
+ },
+ "jockey": {
+  "name": "Jockey India",
+  "url": "https://www.jockey.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Innerwear, athleisure & loungewear (men's trunks, briefs, vests; women's bras, panties, camisoles; children's range; socks, track pants, tees; JKY Groove and JKY Studio sub-brands)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-24",
+  "why": "Listed as a client tile (image Jockey_96102996-...jpg, alt 'A smiling couple wearing Jockey underwear relaxes on a bed, showcasing comfort and style indoors.') on Seventh Triangle's own Our Work page; tile only, no written case study. Page Industries Ltd (Bengaluru), India licensee of Jockey, running a fully custom Shopify theme. Notable: 150th-anniversary (1876-2026) logo that rotates with JKY Groove / JKY Studio sub-brand switcher, image-led MEN / WOMEN mega menu, mobile drawer with colourful category banners and a My orders / Franchise / Store dock, predictive search with Common Searches tiles + Suggestions + Popular Results, FEATURED CATEGORIES tiles, MULTIPACKS saver-combo section, BEST OF SEASON shoppable videos with product chips, PLP Quick Filter chips (M, L, Black, Pack of 2) and 'Save ₹59 with Pack of 2' pills on cards, swatch photos with 'New Color' tags, size chart nudge, 'Save more with Pack of 2' offer card, non-returnable notice, pincode delivery check with EDD + free-delivery chips, Fit and Feel icons, Ideal For chips, washing icons, sticky price + ADD TO BAG bar, cart drawer that offers 'Buy Pack of 2 and save ₹59 REPLACE'. Checkout needs OTP login (not captured). No reviews or related products on the PDP.",
+  "tags": [
+   "innerwear",
+   "athleisure",
+   "men",
+   "women",
+   "multipack",
+   "shopflo",
+   "custom-theme",
+   "shoppable-video",
+   "sub-brands"
+  ]
  }
 }

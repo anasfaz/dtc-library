@@ -1,0 +1,67 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "comparison": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://www.jockey.in/collections/trunks-for-men",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://www.jockey.in/products/tactel-microfiber-elastane-solid-trunk-with-moisture-move-properties-black-ic28",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "cart-drawer": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ]
+}
