@@ -1732,5 +1732,29 @@
    "shoppable-video",
    "sub-brands"
   ]
+ },
+ "speedo": {
+  "name": "Speedo India",
+  "url": "https://speedo.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Swimwear & swim gear (men's/women's/junior swimsuits, aquashorts, jammers, goggles, caps, fins, accessories)",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-25",
+  "why": "Listed as a client tile on Seventh Triangle's own Our Work page (image Speedo.jpg, alt 'Speedo suit & goggles glides through the pool lane beneath water.'); a portfolio tile, not a written case study. Speedo India is run by Page Industries (also Jockey). Custom Shopify theme (Horizon-based, 'neo' components) on a dark UI. Standouts: full-bleed hero with offer, 'Find your swim. Own your lane.' Women/Men/Juniors tiles, an interactive 'Shop your path' activity wheel (Recreation, Beginner, Fitness, Training, Racing), hotspot shop-the-look, a mega menu with Explore-by-Activity icon tiles and Curated Collections, predictive search with Trending Searches + product cards, PLP with price slider/many filters, cards with swatches, 'Ideal for Beginner/Fitness' tags and an in-card price + Add bar, size buttons with crossed-out sold-out sizes, 'Check service availability' pincode field, 15-day easy returns badge, sticky mobile qty + price + Add bar, cart drawer with Wishlist tab and gift card. No announcement bar, reviews or cross-sell found on the PDP. Checkout opens an OTP login modal (not captured). /cart redirects to home (no cart page).",
+  "tags": [
+   "swimwear",
+   "sports",
+   "dark-ui",
+   "activity-navigation",
+   "shop-the-look",
+   "custom-theme",
+   "predictive-search",
+   "pincode",
+   "sticky-atc",
+   "india"
+  ]
  }
 }

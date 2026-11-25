@@ -1,0 +1,59 @@
+{
+ "mega-menu": [
+  "desktop"
+ ],
+ "hero": [
+  "mobile"
+ ],
+ "header": [
+  "mobile"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "category-tiles": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://speedo.in/collections/all-swimwear-products",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://speedo.in/products/mens-polyester-monogram-aquashort-navy-new-surf-8087428663",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ]
+}
