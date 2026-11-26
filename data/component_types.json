@@ -509,5 +509,88 @@
    "mini cart"
   ],
   "note": "Recommended add-ons inside the cart drawer that can be added without leaving the cart (with an inline variant/size picker when needed): lifts AOV at the moment of highest intent."
+ },
+ "ingredients": {
+  "label": "Key ingredients / what's inside",
+  "short": "Ingredients",
+  "group": "product",
+  "order": 21,
+  "tags": [
+   "ingredients",
+   "what is inside",
+   "composition",
+   "benefits",
+   "transparency"
+  ],
+  "note": "Visual cards explaining the key ingredients and what each does, so the shopper understands why the product works before reading the long description."
+ },
+ "a-plus-content": {
+  "label": "A+ / rich brand content banner",
+  "short": "A+ content",
+  "group": "product",
+  "order": 21.5,
+  "tags": [
+   "a+",
+   "rich content",
+   "banner",
+   "infographic",
+   "brand content"
+  ],
+  "note": "Tall brand-designed infographic banners on the product page that show claims, proof points and usage in one scroll."
+ },
+ "newsletter": {
+  "label": "Newsletter signup",
+  "short": "Newsletter",
+  "group": "home",
+  "order": 28,
+  "tags": [
+   "email",
+   "newsletter",
+   "subscribe",
+   "lead capture"
+  ],
+  "note": "A single-field email capture strip that turns non-buyers into a remarketing list."
+ },
+ "trust-bar": {
+  "label": "Trust marquee",
+  "short": "Trust bar",
+  "group": "home",
+  "order": 10.2,
+  "tags": [
+   "trust",
+   "marquee",
+   "ticker",
+   "usp",
+   "badges"
+  ],
+  "note": "A thin scrolling strip of credibility claims (countries served, certifications, heritage) directly under the hero or first section."
+ },
+ "testimonials": {
+  "label": "Customer testimonials carousel",
+  "short": "Testimonials",
+  "group": "home",
+  "order": 11,
+  "tags": [
+   "reviews",
+   "testimonials",
+   "social proof",
+   "carousel",
+   "verified"
+  ],
+  "note": "Home-page carousel of verified customer quotes, each with the purchased product and a one-tap add button."
+ },
+ "trust-badges": {
+  "label": "Trust badges row",
+  "short": "Trust badges",
+  "group": "home",
+  "order": 27,
+  "tags": [
+   "trust",
+   "badges",
+   "guarantee",
+   "icons",
+   "usp"
+  ],
+  "note": "Four icon + one-line claims (heritage, research, sourcing, reach) just above the footer to close doubts."
  }
 }

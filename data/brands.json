@@ -1756,5 +1756,17 @@
    "sticky-atc",
    "india"
   ]
+ },
+ "himalaya": {
+  "name": "Himalaya Wellness",
+  "url": "https://himalayawellness.in/",
+  "country": "India",
+  "region": "India",
+  "category": "Health, personal care & baby care",
+  "agency": "Seventh Triangle",
+  "agency_source": "https://seventhtriangle.com/pages/our-work",
+  "platform": "Shopify",
+  "added": "2026-11-26",
+  "why": "Heritage Ayurvedic brand with a huge catalogue (face, hair, baby, health, even animal health) organised by concern; useful model for a big catalogue with concern-led navigation, applicable to guppy store by need (beginner, breeding, colour)."
  }
 }

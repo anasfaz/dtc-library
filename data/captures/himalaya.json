@@ -1,0 +1,41 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "announcement-bar": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "mega-menu": [
+  "desktop"
+ ],
+ "mobile-nav": [
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "footer": [
+  "desktop",
+  "mobile"
+ ],
+ "search": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://himalayawellness.in/products/ashwagandha",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ]
+}
