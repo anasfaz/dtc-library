@@ -1,0 +1,47 @@
+{
+ "hero": [
+  "desktop",
+  "mobile"
+ ],
+ "header": [
+  "desktop",
+  "mobile"
+ ],
+ "search-results": [
+  "desktop",
+  "mobile"
+ ],
+ "_collection": "https://equipp.in/collections/rent-apple-laptop",
+ "collection": [
+  "desktop",
+  "mobile"
+ ],
+ "product-card": [
+  "desktop",
+  "mobile"
+ ],
+ "_pdp": "https://equipp.in/products/rent-macbook-pro-intel-core-i5",
+ "pdp": [
+  "desktop",
+  "mobile"
+ ],
+ "variant-selector": [
+  "desktop",
+  "mobile"
+ ],
+ "delivery-check": [
+  "desktop",
+  "mobile"
+ ],
+ "pdp-details": [
+  "desktop",
+  "mobile"
+ ],
+ "sticky-atc": [
+  "mobile"
+ ],
+ "reviews": [
+  "desktop",
+  "mobile"
+ ]
+}
