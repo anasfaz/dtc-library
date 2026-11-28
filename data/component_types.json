@@ -1,674 +1,720 @@
 {
-  "announcement-bar": {
-    "label": "Announcement bar",
-    "short": "Announcement bar",
-    "tags": [
-      "announcement bar",
-      "offer strip",
-      "top bar",
-      "free shipping",
-      "cod",
-      "marquee"
-    ],
-    "note": "The thin strip above the header: it carries the strongest offer or promise (free shipping, COD, delivery time). Check the copy length and whether it rotates.",
-    "group": "menu",
-    "order": 0
-  },
-  "header": {
-    "label": "Header / navigation bar",
-    "tags": [
-      "announcement bar",
-      "nav",
-      "navigation",
-      "menu",
-      "free shipping",
-      "offer strip",
-      "logo"
-    ],
-    "note": "Logo, primary navigation, search, account and cart. Older captures (before Nov 2026) include the announcement bar above it; new captures split them into separate shots.",
-    "group": "menu",
-    "short": "Header",
-    "order": 1
-  },
-  "mega-menu": {
-    "label": "Mega menu / desktop dropdown",
-    "tags": [
-      "nav",
-      "navigation",
-      "menu",
-      "drawer",
-      "burger"
-    ],
-    "note": "A desktop navigation item opened: dropdown or mega menu that lets shoppers shop by need (category, concern, collection), often with imagery.",
-    "group": "menu",
-    "short": "Mega menu",
-    "order": 2
-  },
-  "mobile-nav": {
-    "label": "Mobile navigation (open menu)",
-    "short": "Mobile menu",
-    "tags": [
-      "mobile nav",
-      "burger",
-      "hamburger",
-      "drawer",
-      "menu",
-      "navigation",
-      "mobile"
-    ],
-    "note": "The burger menu opened on a phone: how categories, images, promos and account/help links are stacked so shoppers reach a collection in one or two taps.",
-    "group": "menu",
-    "order": 3
-  },
-  "search": {
-    "label": "Search (open / empty)",
-    "short": "Search (empty)",
-    "tags": [
-      "search",
-      "search bar",
-      "predictive search",
-      "popular searches",
-      "trending"
-    ],
-    "note": "Search opened before typing: look for trending searches, popular products or collections that guide the shopper before they type.",
-    "group": "search",
-    "order": 4
-  },
-  "search-results": {
-    "label": "Search results",
-    "short": "Search (results)",
-    "tags": [
-      "search",
-      "results",
-      "predictive search",
-      "autocomplete",
-      "instant search"
-    ],
-    "note": "Results after typing a query: predictive suggestions, product thumbnails with price, and a clear \"view all results\" path.",
-    "group": "search",
-    "order": 5
-  },
-  "hero": {
-    "label": "Hero / above the fold",
-    "tags": [
-      "banner",
-      "first fold",
-      "headline",
-      "cta",
-      "homepage"
-    ],
-    "note": "First screen: one clear promise, one primary CTA, product visible. Check how the headline names the outcome and where the CTA sits on mobile.",
-    "group": "home",
-    "short": "Hero",
-    "order": 6
-  },
-  "category-tiles": {
-    "label": "Category tiles",
-    "tags": [
-      "collections",
-      "shop by category",
-      "tiles",
-      "slider"
-    ],
-    "note": "Visual shortcuts into collections - lowers clicks to a product.",
-    "group": "home",
-    "short": "Category tiles",
-    "order": 7
-  },
-  "section": {
-    "label": "Featured section",
-    "tags": [
-      "section",
-      "content block"
-    ],
-    "note": "Notable homepage section.",
-    "group": "home",
-    "short": "Featured section",
-    "order": 8
-  },
-  "brand-story": {
-    "label": "Brand story section",
-    "tags": [
-      "about",
-      "story",
-      "mission",
-      "editorial"
-    ],
-    "note": "Storytelling section that builds brand trust.",
-    "group": "home",
-    "short": "Brand story",
-    "order": 9
-  },
-  "shop-the-look": {
-    "label": "Shop the look",
-    "tags": [
-      "lookbook",
-      "hotspots",
-      "editorial"
-    ],
-    "note": "Editorial image with shoppable products.",
-    "group": "home",
-    "short": "Shop the look",
-    "order": 10
-  },
-  "comparison": {
-    "label": "Comparison section",
-    "tags": [
-      "vs",
-      "us vs them",
-      "compare",
-      "comparison table"
-    ],
-    "note": "Us vs them / product comparison: answers 'why this one' objections.",
-    "group": "product",
-    "short": "Comparison",
-    "order": 11
-  },
-  "quiz": {
-    "label": "Quiz / product finder",
-    "tags": [
-      "quiz",
-      "finder",
-      "match",
-      "personalisation"
-    ],
-    "note": "Guided selling: quiz routes undecided shoppers to a product. Idea for 'find your guppy'.",
-    "group": "product",
-    "short": "Quiz",
-    "order": 12
-  },
-  "bundle-builder": {
-    "label": "Bundle builder",
-    "tags": [
-      "bundle",
-      "build your box",
-      "combo",
-      "aov",
-      "mix and match"
-    ],
-    "note": "Build-a-bundle raises AOV. Maps to Pair / Trio / Starter tank kits.",
-    "group": "product",
-    "short": "Bundle builder",
-    "order": 13
-  },
-  "collection": {
-    "label": "Collection page (PLP)",
-    "short": "Collection page",
-    "tags": [
-      "collection",
-      "plp",
-      "category page",
-      "filters",
-      "sort",
-      "listing",
-      "grid"
-    ],
-    "note": "Full collection / listing page: banner, filters and sort, grid density, badges and how many products are visible on the first screen.",
-    "group": "collection",
-    "order": 14
-  },
-  "product-card": {
-    "label": "Product card / grid",
-    "tags": [
-      "collection",
-      "grid",
-      "card",
-      "price",
-      "rating",
-      "badge",
-      "quick add",
-      "carousel"
-    ],
-    "note": "Card shows image, price, rating/review count, badges (new, bestseller, % off) and often quick-add. Copy the information hierarchy.",
-    "group": "collection",
-    "short": "Product card",
-    "order": 15
-  },
-  "pdp": {
-    "label": "PDP - gallery + buy box",
-    "tags": [
-      "product page",
-      "gallery",
-      "variant",
-      "swatch",
-      "pack size",
-      "price",
-      "add to cart",
-      "buy box"
-    ],
-    "note": "Above-the-fold product page: gallery, title, rating, price with savings, variant swatches / pack-size chips, primary add-to-cart.",
-    "group": "product",
-    "short": "Product page",
-    "order": 16
-  },
-  "variant-selector": {
-    "label": "Variant / pack-size selector",
-    "tags": [
-      "swatch",
-      "variant",
-      "pack size",
-      "size",
-      "grind",
-      "chips",
-      "options"
-    ],
-    "note": "Option chips/swatches near the price. Map to Pair / Trio / Group, male/female, strain colour.",
-    "group": "product",
-    "short": "Variant selector",
-    "order": 17
-  },
-  "subscribe-save": {
-    "label": "Subscribe & save buy box",
-    "tags": [
-      "subscription",
-      "subscribe and save",
-      "recurring",
-      "repeat purchase",
-      "buy box",
-      "discount"
-    ],
-    "note": "Pre-selects a subscription with a clear % off and free shipping, turning a one-off order into recurring revenue while making the price look lower.",
-    "group": "product",
-    "short": "Subscribe & save",
-    "order": 18
-  },
-  "delivery-check": {
-    "label": "Delivery / pincode check",
-    "tags": [
-      "pincode",
-      "delivery",
-      "serviceability",
-      "shipping",
-      "eta",
-      "live arrival"
-    ],
-    "note": "Pincode / serviceability check before purchase: answers 'can you deliver to me, and when?' — essential for perishable or live products.",
-    "group": "product",
-    "short": "Delivery check",
-    "order": 19
-  },
-  "product-configurator": {
-    "label": "Product configurator / step builder",
-    "tags": [
-      "configurator",
-      "personalise",
-      "steps",
-      "builder",
-      "customise",
-      "wizard"
-    ],
-    "note": "Step-by-step visual picker (style → quantity → upload/confirm) that turns a complex or personalised product into easy choices and keeps shoppers moving toward checkout.",
-    "group": "product",
-    "short": "Configurator",
-    "order": 20
-  },
-  "pdp-details": {
-    "label": "PDP - details / accordions / trust",
-    "tags": [
-      "accordion",
-      "description",
-      "trust badges",
-      "delivery",
-      "guarantee",
-      "faq",
-      "usp"
-    ],
-    "note": "Below the buy box: benefits, accordions, delivery & returns, guarantees. Where objections get answered.",
-    "group": "product",
-    "short": "Product details",
-    "order": 21
-  },
-  "sticky-atc": {
-    "label": "Sticky add-to-cart (mobile)",
-    "tags": [
-      "sticky bar",
-      "add to cart",
-      "mobile",
-      "cta",
-      "buy now"
-    ],
-    "note": "Mobile scroll state of the PDP - look for a sticky ATC / buy bar that keeps the CTA in reach.",
-    "group": "product",
-    "short": "Sticky add-to-cart",
-    "order": 22
-  },
-  "reviews": {
-    "label": "Reviews / social proof",
-    "tags": [
-      "ratings",
-      "testimonials",
-      "ugc",
-      "stars",
-      "social proof"
-    ],
-    "note": "Review widgets, star summaries, UGC and testimonials - core trust builder.",
-    "group": "product",
-    "short": "Reviews",
-    "order": 23
-  },
-  "cross-sell": {
-    "label": "Cross-sell / pair it with",
-    "tags": [
-      "upsell",
-      "complete the look",
-      "pair it with",
-      "recommendations"
-    ],
-    "note": "Adds related products right where the decision happens.",
-    "group": "product",
-    "short": "Cross-sell",
-    "order": 24
-  },
-  "cart-drawer": {
-    "label": "Cart drawer",
-    "tags": [
-      "cart",
-      "drawer",
-      "free gift",
-      "threshold",
-      "progress bar",
-      "upsell",
-      "coupon",
-      "mini cart"
-    ],
-    "note": "Slide-out cart after add-to-cart: look for a free-shipping/gift threshold bar, upsells and coupon nudges.",
-    "group": "cart",
-    "short": "Cart drawer",
-    "order": 25
-  },
-  "free-gift": {
-    "label": "Free gift picker / gift-with-purchase",
-    "tags": [
-      "free gift",
-      "gwp",
-      "gift with purchase",
-      "cart",
-      "rewards",
-      "aov"
-    ],
-    "note": "Lets shoppers pick a free gift in the cart (or unlock one at a spend threshold) — a tangible reward that lifts AOV and makes the order feel like a deal.",
-    "group": "cart",
-    "short": "Free gift",
-    "order": 26
-  },
-  "cart-page": {
-    "label": "Cart page",
-    "short": "Cart page",
-    "tags": [
-      "cart",
-      "cart page",
-      "basket",
-      "subtotal",
-      "checkout",
-      "upsell",
-      "coupon"
-    ],
-    "note": "The full /cart page: line items, savings, delivery promise, upsells and a single clear checkout button.",
-    "group": "cart",
-    "order": 27
-  },
-  "checkout": {
-    "label": "Checkout",
-    "short": "Checkout",
-    "tags": [
-      "checkout",
-      "payment",
-      "cod",
-      "contact",
-      "shipping",
-      "express checkout",
-      "upi"
-    ],
-    "note": "First checkout step reached without signing in or paying: express pay options, contact/address order and trust cues.",
-    "group": "checkout",
-    "order": 28
-  },
-  "footer": {
-    "label": "Footer",
-    "tags": [
-      "newsletter",
-      "links",
-      "payment icons",
-      "social",
-      "trust"
-    ],
-    "note": "Newsletter capture, policy links, payment/trust icons, social.",
-    "group": "home",
-    "short": "Footer",
-    "order": 29
-  },
-  "shoppable-video": {
-    "label": "Shoppable video carousel",
-    "tags": [
-      "video",
-      "reels",
-      "ugc",
-      "shop by video",
-      "stories"
-    ],
-    "note": "Short vertical videos with a tagged product + price let shoppers see the product moving and buy from the video.",
-    "group": "home",
-    "short": "Shoppable video",
-    "order": 10.5
-  },
-  "offer-cards": {
-    "label": "PDP offer / coupon cards",
-    "tags": [
-      "coupon",
-      "offer",
-      "discount code",
-      "copy code",
-      "promo"
-    ],
-    "note": "Visible coupon cards next to the buy box show the real price a shopper can reach, nudging basket size up to the threshold.",
-    "group": "product",
-    "short": "Offer cards",
-    "order": 19.5
-  },
-  "warranty-upsell": {
-    "label": "Warranty / protection add-on",
-    "short": "Warranty add-on",
-    "group": "product",
-    "order": 19.7,
-    "tags": [
-      "warranty",
-      "protection plan",
-      "add-on",
-      "upsell",
-      "aov",
-      "guarantee"
-    ],
-    "note": "Paid extended warranty or protection plan offered as pill buttons right above Add to Cart: raises AOV and signals confidence in the product."
-  },
-  "faq": {
-    "label": "Product FAQ accordion",
-    "short": "FAQ",
-    "group": "product",
-    "order": 22,
-    "tags": [
-      "faq",
-      "accordion",
-      "questions",
-      "objections",
-      "support"
-    ],
-    "note": "Collapsible questions-and-answers on the product page that answer buying objections (shipping, returns, usage) before they become support tickets."
-  },
-  "cart-upsell": {
-    "label": "Cart upsell / add from cart",
-    "short": "Cart upsell",
-    "group": "cart",
-    "order": 25.5,
-    "tags": [
-      "cart",
-      "upsell",
-      "you may also like",
-      "add from cart",
-      "size selector",
-      "aov",
-      "mini cart"
-    ],
-    "note": "Recommended add-ons inside the cart drawer that can be added without leaving the cart (with an inline variant/size picker when needed): lifts AOV at the moment of highest intent."
-  },
-  "ingredients": {
-    "label": "Key ingredients / what's inside",
-    "short": "Ingredients",
-    "group": "product",
-    "order": 21,
-    "tags": [
-      "ingredients",
-      "what is inside",
-      "composition",
-      "benefits",
-      "transparency"
-    ],
-    "note": "Visual cards explaining the key ingredients and what each does, so the shopper understands why the product works before reading the long description."
-  },
-  "a-plus-content": {
-    "label": "A+ / rich brand content banner",
-    "short": "A+ content",
-    "group": "product",
-    "order": 21.5,
-    "tags": [
-      "a+",
-      "rich content",
-      "banner",
-      "infographic",
-      "brand content"
-    ],
-    "note": "Tall brand-designed infographic banners on the product page that show claims, proof points and usage in one scroll."
-  },
-  "newsletter": {
-    "label": "Newsletter signup",
-    "short": "Newsletter",
-    "group": "home",
-    "order": 28,
-    "tags": [
-      "email",
-      "newsletter",
-      "subscribe",
-      "lead capture"
-    ],
-    "note": "A single-field email capture strip that turns non-buyers into a remarketing list."
-  },
-  "trust-bar": {
-    "label": "Trust marquee",
-    "short": "Trust bar",
-    "group": "home",
-    "order": 10.2,
-    "tags": [
-      "trust",
-      "marquee",
-      "ticker",
-      "usp",
-      "badges"
-    ],
-    "note": "A thin scrolling strip of credibility claims (countries served, certifications, heritage) directly under the hero or first section."
-  },
-  "testimonials": {
-    "label": "Customer testimonials carousel",
-    "short": "Testimonials",
-    "group": "home",
-    "order": 11,
-    "tags": [
-      "reviews",
-      "testimonials",
-      "social proof",
-      "carousel",
-      "verified"
-    ],
-    "note": "Home-page carousel of verified customer quotes, each with the purchased product and a one-tap add button."
-  },
-  "trust-badges": {
-    "label": "Trust badges row",
-    "short": "Trust badges",
-    "group": "home",
-    "order": 27,
-    "tags": [
-      "trust",
-      "badges",
-      "guarantee",
-      "icons",
-      "usp"
-    ],
-    "note": "Four icon + one-line claims (heritage, research, sourcing, reach) just above the footer to close doubts."
-  },
-  "audience-landing": {
-    "label": "Audience split landing (Personal / Business)",
-    "short": "Audience landing",
-    "group": "home",
-    "order": 6.5,
-    "tags": [
-      "segmentation",
-      "b2b",
-      "personal",
-      "business",
-      "audience",
-      "landing",
-      "split"
-    ],
-    "note": "The hero asks who you are (Personal or Business) and switches the whole home page to a landing written for that buyer, with its own headline and benefits."
-  },
-  "buying-guides": {
-    "label": "Buying guides / help articles",
-    "short": "Buying guides",
-    "group": "home",
-    "order": 12,
-    "tags": [
-      "guides",
-      "blog",
-      "help",
-      "education",
-      "content",
-      "faq",
-      "how to choose"
-    ],
-    "note": "Cards linking to short guides ('Which one is right for me?') that answer the first buying doubt and keep unsure visitors on the site."
-  },
-  "contact-cta": {
-    "label": "Contact / WhatsApp CTA band",
-    "short": "Contact CTA",
-    "group": "home",
-    "order": 26,
-    "tags": [
-      "whatsapp",
-      "contact",
-      "support",
-      "cta",
-      "chat",
-      "social"
-    ],
-    "note": "A bold band that invites visitors to WhatsApp or email the team, with support hours, for shoppers who need a human before they buy."
-  },
-  "rental-plan": {
-    "label": "Plan / tenure selector with tiered price",
-    "short": "Plan selector",
-    "group": "product",
-    "order": 17.5,
-    "tags": [
-      "rental",
-      "tenure",
-      "plan",
-      "duration",
-      "subscription",
-      "tiered pricing",
-      "per month"
-    ],
-    "note": "A dropdown of plan lengths, each with its own per-month price, so the shopper sees that a longer commitment costs less per month."
-  },
-  "price-breakdown": {
-    "label": "Buy box price breakdown",
-    "short": "Price breakdown",
-    "group": "product",
-    "order": 19.6,
-    "tags": [
-      "price",
-      "total",
-      "deposit",
-      "delivery charge",
-      "transparency",
-      "buy box"
-    ],
-    "note": "A tinted box above the buy button with the total and every extra cost (delivery charge, refundable deposit) spelled out, so checkout holds no surprises."
-  }
+ "announcement-bar": {
+  "label": "Announcement bar",
+  "short": "Announcement bar",
+  "tags": [
+   "announcement bar",
+   "offer strip",
+   "top bar",
+   "free shipping",
+   "cod",
+   "marquee"
+  ],
+  "note": "The thin strip above the header: it carries the strongest offer or promise (free shipping, COD, delivery time). Check the copy length and whether it rotates.",
+  "group": "menu",
+  "order": 0
+ },
+ "header": {
+  "label": "Header / navigation bar",
+  "tags": [
+   "announcement bar",
+   "nav",
+   "navigation",
+   "menu",
+   "free shipping",
+   "offer strip",
+   "logo"
+  ],
+  "note": "Logo, primary navigation, search, account and cart. Older captures (before Nov 2026) include the announcement bar above it; new captures split them into separate shots.",
+  "group": "menu",
+  "short": "Header",
+  "order": 1
+ },
+ "mega-menu": {
+  "label": "Mega menu / desktop dropdown",
+  "tags": [
+   "nav",
+   "navigation",
+   "menu",
+   "drawer",
+   "burger"
+  ],
+  "note": "A desktop navigation item opened: dropdown or mega menu that lets shoppers shop by need (category, concern, collection), often with imagery.",
+  "group": "menu",
+  "short": "Mega menu",
+  "order": 2
+ },
+ "mobile-nav": {
+  "label": "Mobile navigation (open menu)",
+  "short": "Mobile menu",
+  "tags": [
+   "mobile nav",
+   "burger",
+   "hamburger",
+   "drawer",
+   "menu",
+   "navigation",
+   "mobile"
+  ],
+  "note": "The burger menu opened on a phone: how categories, images, promos and account/help links are stacked so shoppers reach a collection in one or two taps.",
+  "group": "menu",
+  "order": 3
+ },
+ "search": {
+  "label": "Search (open / empty)",
+  "short": "Search (empty)",
+  "tags": [
+   "search",
+   "search bar",
+   "predictive search",
+   "popular searches",
+   "trending"
+  ],
+  "note": "Search opened before typing: look for trending searches, popular products or collections that guide the shopper before they type.",
+  "group": "search",
+  "order": 4
+ },
+ "search-results": {
+  "label": "Search results",
+  "short": "Search (results)",
+  "tags": [
+   "search",
+   "results",
+   "predictive search",
+   "autocomplete",
+   "instant search"
+  ],
+  "note": "Results after typing a query: predictive suggestions, product thumbnails with price, and a clear \"view all results\" path.",
+  "group": "search",
+  "order": 5
+ },
+ "hero": {
+  "label": "Hero / above the fold",
+  "tags": [
+   "banner",
+   "first fold",
+   "headline",
+   "cta",
+   "homepage"
+  ],
+  "note": "First screen: one clear promise, one primary CTA, product visible. Check how the headline names the outcome and where the CTA sits on mobile.",
+  "group": "home",
+  "short": "Hero",
+  "order": 6
+ },
+ "category-tiles": {
+  "label": "Category tiles",
+  "tags": [
+   "collections",
+   "shop by category",
+   "tiles",
+   "slider"
+  ],
+  "note": "Visual shortcuts into collections - lowers clicks to a product.",
+  "group": "home",
+  "short": "Category tiles",
+  "order": 7
+ },
+ "section": {
+  "label": "Featured section",
+  "tags": [
+   "section",
+   "content block"
+  ],
+  "note": "Notable homepage section.",
+  "group": "home",
+  "short": "Featured section",
+  "order": 8
+ },
+ "brand-story": {
+  "label": "Brand story section",
+  "tags": [
+   "about",
+   "story",
+   "mission",
+   "editorial"
+  ],
+  "note": "Storytelling section that builds brand trust.",
+  "group": "home",
+  "short": "Brand story",
+  "order": 9
+ },
+ "shop-the-look": {
+  "label": "Shop the look",
+  "tags": [
+   "lookbook",
+   "hotspots",
+   "editorial"
+  ],
+  "note": "Editorial image with shoppable products.",
+  "group": "home",
+  "short": "Shop the look",
+  "order": 10
+ },
+ "comparison": {
+  "label": "Comparison section",
+  "tags": [
+   "vs",
+   "us vs them",
+   "compare",
+   "comparison table"
+  ],
+  "note": "Us vs them / product comparison: answers 'why this one' objections.",
+  "group": "product",
+  "short": "Comparison",
+  "order": 11
+ },
+ "quiz": {
+  "label": "Quiz / product finder",
+  "tags": [
+   "quiz",
+   "finder",
+   "match",
+   "personalisation"
+  ],
+  "note": "Guided selling: quiz routes undecided shoppers to a product. Idea for 'find your guppy'.",
+  "group": "product",
+  "short": "Quiz",
+  "order": 12
+ },
+ "bundle-builder": {
+  "label": "Bundle builder",
+  "tags": [
+   "bundle",
+   "build your box",
+   "combo",
+   "aov",
+   "mix and match"
+  ],
+  "note": "Build-a-bundle raises AOV. Maps to Pair / Trio / Starter tank kits.",
+  "group": "product",
+  "short": "Bundle builder",
+  "order": 13
+ },
+ "collection": {
+  "label": "Collection page (PLP)",
+  "short": "Collection page",
+  "tags": [
+   "collection",
+   "plp",
+   "category page",
+   "filters",
+   "sort",
+   "listing",
+   "grid"
+  ],
+  "note": "Full collection / listing page: banner, filters and sort, grid density, badges and how many products are visible on the first screen.",
+  "group": "collection",
+  "order": 14
+ },
+ "product-card": {
+  "label": "Product card / grid",
+  "tags": [
+   "collection",
+   "grid",
+   "card",
+   "price",
+   "rating",
+   "badge",
+   "quick add",
+   "carousel"
+  ],
+  "note": "Card shows image, price, rating/review count, badges (new, bestseller, % off) and often quick-add. Copy the information hierarchy.",
+  "group": "collection",
+  "short": "Product card",
+  "order": 15
+ },
+ "pdp": {
+  "label": "PDP - gallery + buy box",
+  "tags": [
+   "product page",
+   "gallery",
+   "variant",
+   "swatch",
+   "pack size",
+   "price",
+   "add to cart",
+   "buy box"
+  ],
+  "note": "Above-the-fold product page: gallery, title, rating, price with savings, variant swatches / pack-size chips, primary add-to-cart.",
+  "group": "product",
+  "short": "Product page",
+  "order": 16
+ },
+ "variant-selector": {
+  "label": "Variant / pack-size selector",
+  "tags": [
+   "swatch",
+   "variant",
+   "pack size",
+   "size",
+   "grind",
+   "chips",
+   "options"
+  ],
+  "note": "Option chips/swatches near the price. Map to Pair / Trio / Group, male/female, strain colour.",
+  "group": "product",
+  "short": "Variant selector",
+  "order": 17
+ },
+ "subscribe-save": {
+  "label": "Subscribe & save buy box",
+  "tags": [
+   "subscription",
+   "subscribe and save",
+   "recurring",
+   "repeat purchase",
+   "buy box",
+   "discount"
+  ],
+  "note": "Pre-selects a subscription with a clear % off and free shipping, turning a one-off order into recurring revenue while making the price look lower.",
+  "group": "product",
+  "short": "Subscribe & save",
+  "order": 18
+ },
+ "delivery-check": {
+  "label": "Delivery / pincode check",
+  "tags": [
+   "pincode",
+   "delivery",
+   "serviceability",
+   "shipping",
+   "eta",
+   "live arrival"
+  ],
+  "note": "Pincode / serviceability check before purchase: answers 'can you deliver to me, and when?' — essential for perishable or live products.",
+  "group": "product",
+  "short": "Delivery check",
+  "order": 19
+ },
+ "product-configurator": {
+  "label": "Product configurator / step builder",
+  "tags": [
+   "configurator",
+   "personalise",
+   "steps",
+   "builder",
+   "customise",
+   "wizard"
+  ],
+  "note": "Step-by-step visual picker (style → quantity → upload/confirm) that turns a complex or personalised product into easy choices and keeps shoppers moving toward checkout.",
+  "group": "product",
+  "short": "Configurator",
+  "order": 20
+ },
+ "pdp-details": {
+  "label": "PDP - details / accordions / trust",
+  "tags": [
+   "accordion",
+   "description",
+   "trust badges",
+   "delivery",
+   "guarantee",
+   "faq",
+   "usp"
+  ],
+  "note": "Below the buy box: benefits, accordions, delivery & returns, guarantees. Where objections get answered.",
+  "group": "product",
+  "short": "Product details",
+  "order": 21
+ },
+ "sticky-atc": {
+  "label": "Sticky add-to-cart (mobile)",
+  "tags": [
+   "sticky bar",
+   "add to cart",
+   "mobile",
+   "cta",
+   "buy now"
+  ],
+  "note": "Mobile scroll state of the PDP - look for a sticky ATC / buy bar that keeps the CTA in reach.",
+  "group": "product",
+  "short": "Sticky add-to-cart",
+  "order": 22
+ },
+ "reviews": {
+  "label": "Reviews / social proof",
+  "tags": [
+   "ratings",
+   "testimonials",
+   "ugc",
+   "stars",
+   "social proof"
+  ],
+  "note": "Review widgets, star summaries, UGC and testimonials - core trust builder.",
+  "group": "product",
+  "short": "Reviews",
+  "order": 23
+ },
+ "cross-sell": {
+  "label": "Cross-sell / pair it with",
+  "tags": [
+   "upsell",
+   "complete the look",
+   "pair it with",
+   "recommendations"
+  ],
+  "note": "Adds related products right where the decision happens.",
+  "group": "product",
+  "short": "Cross-sell",
+  "order": 24
+ },
+ "cart-drawer": {
+  "label": "Cart drawer",
+  "tags": [
+   "cart",
+   "drawer",
+   "free gift",
+   "threshold",
+   "progress bar",
+   "upsell",
+   "coupon",
+   "mini cart"
+  ],
+  "note": "Slide-out cart after add-to-cart: look for a free-shipping/gift threshold bar, upsells and coupon nudges.",
+  "group": "cart",
+  "short": "Cart drawer",
+  "order": 25
+ },
+ "free-gift": {
+  "label": "Free gift picker / gift-with-purchase",
+  "tags": [
+   "free gift",
+   "gwp",
+   "gift with purchase",
+   "cart",
+   "rewards",
+   "aov"
+  ],
+  "note": "Lets shoppers pick a free gift in the cart (or unlock one at a spend threshold) — a tangible reward that lifts AOV and makes the order feel like a deal.",
+  "group": "cart",
+  "short": "Free gift",
+  "order": 26
+ },
+ "cart-page": {
+  "label": "Cart page",
+  "short": "Cart page",
+  "tags": [
+   "cart",
+   "cart page",
+   "basket",
+   "subtotal",
+   "checkout",
+   "upsell",
+   "coupon"
+  ],
+  "note": "The full /cart page: line items, savings, delivery promise, upsells and a single clear checkout button.",
+  "group": "cart",
+  "order": 27
+ },
+ "checkout": {
+  "label": "Checkout",
+  "short": "Checkout",
+  "tags": [
+   "checkout",
+   "payment",
+   "cod",
+   "contact",
+   "shipping",
+   "express checkout",
+   "upi"
+  ],
+  "note": "First checkout step reached without signing in or paying: express pay options, contact/address order and trust cues.",
+  "group": "checkout",
+  "order": 28
+ },
+ "footer": {
+  "label": "Footer",
+  "tags": [
+   "newsletter",
+   "links",
+   "payment icons",
+   "social",
+   "trust"
+  ],
+  "note": "Newsletter capture, policy links, payment/trust icons, social.",
+  "group": "home",
+  "short": "Footer",
+  "order": 29
+ },
+ "shoppable-video": {
+  "label": "Shoppable video carousel",
+  "tags": [
+   "video",
+   "reels",
+   "ugc",
+   "shop by video",
+   "stories"
+  ],
+  "note": "Short vertical videos with a tagged product + price let shoppers see the product moving and buy from the video.",
+  "group": "home",
+  "short": "Shoppable video",
+  "order": 10.5
+ },
+ "offer-cards": {
+  "label": "PDP offer / coupon cards",
+  "tags": [
+   "coupon",
+   "offer",
+   "discount code",
+   "copy code",
+   "promo"
+  ],
+  "note": "Visible coupon cards next to the buy box show the real price a shopper can reach, nudging basket size up to the threshold.",
+  "group": "product",
+  "short": "Offer cards",
+  "order": 19.5
+ },
+ "warranty-upsell": {
+  "label": "Warranty / protection add-on",
+  "short": "Warranty add-on",
+  "group": "product",
+  "order": 19.7,
+  "tags": [
+   "warranty",
+   "protection plan",
+   "add-on",
+   "upsell",
+   "aov",
+   "guarantee"
+  ],
+  "note": "Paid extended warranty or protection plan offered as pill buttons right above Add to Cart: raises AOV and signals confidence in the product."
+ },
+ "faq": {
+  "label": "Product FAQ accordion",
+  "short": "FAQ",
+  "group": "product",
+  "order": 22,
+  "tags": [
+   "faq",
+   "accordion",
+   "questions",
+   "objections",
+   "support"
+  ],
+  "note": "Collapsible questions-and-answers on the product page that answer buying objections (shipping, returns, usage) before they become support tickets."
+ },
+ "cart-upsell": {
+  "label": "Cart upsell / add from cart",
+  "short": "Cart upsell",
+  "group": "cart",
+  "order": 25.5,
+  "tags": [
+   "cart",
+   "upsell",
+   "you may also like",
+   "add from cart",
+   "size selector",
+   "aov",
+   "mini cart"
+  ],
+  "note": "Recommended add-ons inside the cart drawer that can be added without leaving the cart (with an inline variant/size picker when needed): lifts AOV at the moment of highest intent."
+ },
+ "ingredients": {
+  "label": "Key ingredients / what's inside",
+  "short": "Ingredients",
+  "group": "product",
+  "order": 21,
+  "tags": [
+   "ingredients",
+   "what is inside",
+   "composition",
+   "benefits",
+   "transparency"
+  ],
+  "note": "Visual cards explaining the key ingredients and what each does, so the shopper understands why the product works before reading the long description."
+ },
+ "a-plus-content": {
+  "label": "A+ / rich brand content banner",
+  "short": "A+ content",
+  "group": "product",
+  "order": 21.5,
+  "tags": [
+   "a+",
+   "rich content",
+   "banner",
+   "infographic",
+   "brand content"
+  ],
+  "note": "Tall brand-designed infographic banners on the product page that show claims, proof points and usage in one scroll."
+ },
+ "newsletter": {
+  "label": "Newsletter signup",
+  "short": "Newsletter",
+  "group": "home",
+  "order": 28,
+  "tags": [
+   "email",
+   "newsletter",
+   "subscribe",
+   "lead capture"
+  ],
+  "note": "A single-field email capture strip that turns non-buyers into a remarketing list."
+ },
+ "trust-bar": {
+  "label": "Trust marquee",
+  "short": "Trust bar",
+  "group": "home",
+  "order": 10.2,
+  "tags": [
+   "trust",
+   "marquee",
+   "ticker",
+   "usp",
+   "badges"
+  ],
+  "note": "A thin scrolling strip of credibility claims (countries served, certifications, heritage) directly under the hero or first section."
+ },
+ "testimonials": {
+  "label": "Customer testimonials carousel",
+  "short": "Testimonials",
+  "group": "home",
+  "order": 11,
+  "tags": [
+   "reviews",
+   "testimonials",
+   "social proof",
+   "carousel",
+   "verified"
+  ],
+  "note": "Home-page carousel of verified customer quotes, each with the purchased product and a one-tap add button."
+ },
+ "trust-badges": {
+  "label": "Trust badges row",
+  "short": "Trust badges",
+  "group": "home",
+  "order": 27,
+  "tags": [
+   "trust",
+   "badges",
+   "guarantee",
+   "icons",
+   "usp"
+  ],
+  "note": "Four icon + one-line claims (heritage, research, sourcing, reach) just above the footer to close doubts."
+ },
+ "audience-landing": {
+  "label": "Audience split landing (Personal / Business)",
+  "short": "Audience landing",
+  "group": "home",
+  "order": 6.5,
+  "tags": [
+   "segmentation",
+   "b2b",
+   "personal",
+   "business",
+   "audience",
+   "landing",
+   "split"
+  ],
+  "note": "The hero asks who you are (Personal or Business) and switches the whole home page to a landing written for that buyer, with its own headline and benefits."
+ },
+ "buying-guides": {
+  "label": "Buying guides / help articles",
+  "short": "Buying guides",
+  "group": "home",
+  "order": 12,
+  "tags": [
+   "guides",
+   "blog",
+   "help",
+   "education",
+   "content",
+   "faq",
+   "how to choose"
+  ],
+  "note": "Cards linking to short guides ('Which one is right for me?') that answer the first buying doubt and keep unsure visitors on the site."
+ },
+ "contact-cta": {
+  "label": "Contact / WhatsApp CTA band",
+  "short": "Contact CTA",
+  "group": "home",
+  "order": 26,
+  "tags": [
+   "whatsapp",
+   "contact",
+   "support",
+   "cta",
+   "chat",
+   "social"
+  ],
+  "note": "A bold band that invites visitors to WhatsApp or email the team, with support hours, for shoppers who need a human before they buy."
+ },
+ "rental-plan": {
+  "label": "Plan / tenure selector with tiered price",
+  "short": "Plan selector",
+  "group": "product",
+  "order": 17.5,
+  "tags": [
+   "rental",
+   "tenure",
+   "plan",
+   "duration",
+   "subscription",
+   "tiered pricing",
+   "per month"
+  ],
+  "note": "A dropdown of plan lengths, each with its own per-month price, so the shopper sees that a longer commitment costs less per month."
+ },
+ "price-breakdown": {
+  "label": "Buy box price breakdown",
+  "short": "Price breakdown",
+  "group": "product",
+  "order": 19.6,
+  "tags": [
+   "price",
+   "total",
+   "deposit",
+   "delivery charge",
+   "transparency",
+   "buy box"
+  ],
+  "note": "A tinted box above the buy button with the total and every extra cost (delivery charge, refundable deposit) spelled out, so checkout holds no surprises."
+ },
+ "collection-slider": {
+  "label": "Shop by collection / edit slider",
+  "short": "Collection slider",
+  "group": "home",
+  "order": 7.5,
+  "tags": [
+   "collections",
+   "edits",
+   "lookbook",
+   "slider",
+   "shop by collection",
+   "lifestyle"
+  ],
+  "note": "Carousel of named design lines (edits), each on a model shot with a Shop now link, so shoppers browse by story and style instead of by product type."
+ },
+ "bestsellers": {
+  "label": "Bestsellers carousel",
+  "short": "Bestsellers",
+  "group": "home",
+  "order": 8.5,
+  "tags": [
+   "bestsellers",
+   "best sellers",
+   "popular",
+   "carousel",
+   "social proof",
+   "slider"
+  ],
+  "note": "Home carousel of the top-selling products with a Show all link: popularity is a shortcut for undecided visitors."
+ },
+ "events-calendar": {
+  "label": "Events / exhibitions calendar",
+  "short": "Events calendar",
+  "group": "home",
+  "order": 26.5,
+  "tags": [
+   "events",
+   "exhibitions",
+   "calendar",
+   "pop-up",
+   "offline",
+   "add to calendar",
+   "map"
+  ],
+  "note": "A page listing upcoming exhibitions or pop-ups with date, city, venue, map link, timings and an Add to my Calendar link, turning offline presence into trust and footfall."
+ }
 }
